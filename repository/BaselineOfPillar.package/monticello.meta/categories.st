@@ -1,1 +1,1 @@
-SystemOrganization addCategory: #'BaselineOfPillar'!
+SystemOrganization addCategory: #BaselineOfPillar!
