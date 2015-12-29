@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfPillar",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfPillar",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
