@@ -2,12 +2,7 @@ code port
 flattenTraits
 	"PRPillarGemstoneCodeTool flattenTraits"
 
-	{PRAbstractAnnotation.
-	PRReference.
-	PRScript.
-	PRMockForParameters }
+	self traitClasses
 		do: [ :class | 
 			class class flattenDownAllTraits.
-			class class recompile.
-			class flattenDownAllTraits.
-			class recompile ]
+			class flattenDownAllTraits ]

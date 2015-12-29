@@ -5,4 +5,5 @@ port
 	Transcript crShow: 'Flattening traits.'.
 	self
 		flattenTraits;
-		removeTraits.
+		removeTraits;
+		recompileClasses
