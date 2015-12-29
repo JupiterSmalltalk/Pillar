@@ -1,4 +1,4 @@
-as yet unclassified
+copying from smalltalk hub
 copyPackages
 	"Update the local filetree with the ConfigurationOfPillar version"
 	self

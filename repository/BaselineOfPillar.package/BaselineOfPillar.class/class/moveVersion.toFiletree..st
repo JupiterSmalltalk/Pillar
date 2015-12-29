@@ -1,4 +1,4 @@
-as yet unclassified
+copying from smalltalk hub
 moveVersion: versionString toFiletree: filetree
 	| cacheRepository version map |
 	cacheRepository := filetree.	"need to pick up existing repository with user and password set 
@@ -6,8 +6,8 @@ moveVersion: versionString toFiletree: filetree
 	cacheRepository := MCRepositoryGroup default repositories
 		detect: [ :each | each = cacheRepository ]
 		ifNone: [ cacheRepository ].
-	ConfigurationOfPillar project updateProject.
-	version := ConfigurationOfPillar project version: versionString.	"update configs that are already loaded ... 
+	(Smalltalk at: #ConfigurationOfPillar) project updateProject.
+	version := (Smalltalk at: #ConfigurationOfPillar) project version: versionString.	"update configs that are already loaded ... 
           might be able to skip this"
 	map := Dictionary new.
 	(version record: 'ALL') loadDirective

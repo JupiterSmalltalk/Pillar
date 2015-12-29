@@ -1,13 +1,15 @@
 baselines
 baseline: spec
-	"protocol: accessing"
 
 	<baseline>
 	self
 		grease: spec;
 		ston: spec;
 		cocoon: spec;
-		port: spec.	"mustache: spec;"
+		port: spec;
+		mustache: spec;
+		petitParser: spec;
+		petitParserTest: spec.
 	spec
 		for: #common
 		do: [ 
