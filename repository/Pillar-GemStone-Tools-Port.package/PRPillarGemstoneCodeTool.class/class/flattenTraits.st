@@ -8,4 +8,6 @@ flattenTraits
 	PRMockForParameters }
 		do: [ :class | 
 			class class flattenDownAllTraits.
-			class flattenDownAllTraits ]
+			class class recompile.
+			class flattenDownAllTraits.
+			class recompile ]
