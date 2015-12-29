@@ -1,0 +1,14 @@
+{
+	"category" : "Pillar-Tests-Model-Document",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "PRAbstractAnnotationTest",
+	"pools" : [
+		 ],
+	"super" : "PRDocumentItemTest",
+	"type" : "normal" }

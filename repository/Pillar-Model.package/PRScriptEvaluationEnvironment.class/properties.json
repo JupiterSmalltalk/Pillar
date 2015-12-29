@@ -1,0 +1,14 @@
+{
+	"category" : "Pillar-Model-Visitor",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "TorstenBergmann 3/5/2015 22:02",
+	"instvars" : [
+		"stream" ],
+	"name" : "PRScriptEvaluationEnvironment",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

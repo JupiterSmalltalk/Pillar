@@ -1,0 +1,14 @@
+{
+	"category" : "Pillar-Tests-PetitPillar",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PRPillarParserTest",
+	"pools" : [
+		 ],
+	"super" : "PRPillarGrammarTest",
+	"type" : "normal" }

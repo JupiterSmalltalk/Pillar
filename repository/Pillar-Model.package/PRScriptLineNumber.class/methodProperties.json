@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"add:untilNewLineAt:withNumber:" : "CyrilFerlicot 4/23/2015 14:49",
+		"add:withNumber:" : "CyrilFerlicot 4/23/2015 14:30",
+		"addLineNumberTo:" : "CyrilFerlicot 4/23/2015 14:50",
+		"hasLineNumber:" : "CyrilFerlicot 4/22/2015 18:05",
+		"visitScript:" : "CyrilFerlicot 4/23/2015 14:29" } }

@@ -1,0 +1,14 @@
+{
+	"category" : "Pillar-ExporterCore-Base",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"template" ],
+	"name" : "PRTemplate",
+	"pools" : [
+		 ],
+	"super" : "PRBasicObject",
+	"type" : "normal" }

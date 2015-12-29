@@ -1,0 +1,15 @@
+{
+	"category" : "Pillar-Model-Document",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "lr 4/10/2007 21:12",
+	"instvars" : [
+		"target",
+		"anchor" ],
+	"name" : "PRInternalLink",
+	"pools" : [
+		 ],
+	"super" : "PRLink",
+	"type" : "normal" }

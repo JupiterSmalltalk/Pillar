@@ -1,0 +1,14 @@
+{
+	"category" : "Pillar-Model-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "DamienCassou 2/28/2014 09:39",
+	"instvars" : [
+		 ],
+	"name" : "PRBasicObject",
+	"pools" : [
+		 ],
+	"super" : "GRObject",
+	"type" : "normal" }

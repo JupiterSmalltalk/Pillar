@@ -1,0 +1,14 @@
+{
+	"category" : "Pillar-Tests-Model-Visitor",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PRSectionTransformerTest",
+	"pools" : [
+		 ],
+	"super" : "PRTransformerTest",
+	"type" : "normal" }

@@ -1,0 +1,3 @@
+*Pillar-ExporterCore
+visitTemplateDescription: aTemplateDescription
+	self visitElementDescription: aTemplateDescription

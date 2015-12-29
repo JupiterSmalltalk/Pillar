@@ -1,0 +1,14 @@
+{
+	"category" : "Pillar-Tests-ExporterLaTeX",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PRLaTeXWriterTest",
+	"pools" : [
+		 ],
+	"super" : "PRDocumentWriterTest",
+	"type" : "normal" }

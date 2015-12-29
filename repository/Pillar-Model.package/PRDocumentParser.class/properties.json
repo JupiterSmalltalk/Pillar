@@ -1,0 +1,15 @@
+{
+	"category" : "Pillar-Model-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "TorstenBergmann 3/5/2015 22:07",
+	"instvars" : [
+		"document",
+		"stream" ],
+	"name" : "PRDocumentParser",
+	"pools" : [
+		 ],
+	"super" : "PRBasicObject",
+	"type" : "normal" }

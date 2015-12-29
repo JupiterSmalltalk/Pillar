@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"isAbstract" : "lr 3/30/2007 22:22",
+		"packageNamesUnderTest" : "DamienCassou 10/8/2013 09:37",
+		"shouldInheritSelectors" : "lr 3/9/2006 11:31" },
+	"instance" : {
+		"actualClass" : "lr 3/30/2007 22:22",
+		"actualInstance" : "DamienCassou 2/5/2014 14:23",
+		"instance" : "DamienCassou 2/5/2014 14:21",
+		"setUp" : "DamienCassou 2/5/2014 14:23",
+		"testCopyProperties" : "lr 6/22/2008 18:24",
+		"testProperties" : "lr 3/9/2006 11:31",
+		"testPropertiesAt" : "DamienCassou 10/28/2013 16:47",
+		"testPropertiesAtIfAbsent" : "lr 3/9/2006 11:31",
+		"testPropertiesAtIfAbsentPut" : "lr 3/9/2006 11:31",
+		"testPropertiesAtPut" : "lr 3/9/2006 11:31",
+		"testPropertiesHas" : "lr 3/9/2006 11:31",
+		"testSanity" : "lr 3/9/2006 11:31" } }

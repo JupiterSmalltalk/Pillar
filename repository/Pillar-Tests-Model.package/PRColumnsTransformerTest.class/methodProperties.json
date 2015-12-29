@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"actualClass" : "CyrilFerlicot 6/18/2015 11:32",
+		"testTransformationBeginningColumnsWithoutEnding" : "CyrilFerlicot 8/21/2015 16:45",
+		"testTransformationEndColumnsWithoutBeginning" : "CyrilFerlicot 6/18/2015 13:13",
+		"testTransformationOnColumn" : "CyrilFerlicot 8/21/2015 16:45",
+		"testTransformationTwoColumns" : "CyrilFerlicot 8/21/2015 16:48",
+		"testTransformationWithColumnWithoutColumns" : "CyrilFerlicot 6/18/2015 13:48",
+		"testTransformationWithColumnsInColumns" : "CyrilFerlicot 6/18/2015 13:47",
+		"testTransformationWithContentInsideColumnsBeforeColumn" : "CyrilFerlicot 8/21/2015 16:46",
+		"testTransformationWithoutColumns" : "CyrilFerlicot 6/18/2015 13:35" } }

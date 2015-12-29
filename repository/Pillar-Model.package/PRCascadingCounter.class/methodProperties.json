@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"maxLevel:" : "DamienCassou 3/5/2013 18:09" },
+	"instance" : {
+		"current" : "DamienCassou 11/21/2013 10:49",
+		"dontIncrementAt:" : "CyrilFerlicot 5/18/2015 15:39",
+		"elements" : "DamienCassou 11/21/2013 12:54",
+		"incrementAt:" : "DamienCassou 3/5/2013 18:04",
+		"indexOfLastNonZero" : "DamienCassou 11/21/2013 13:00",
+		"isValidCounter" : "CyrilFerlicot 5/20/2015 15:06",
+		"printOn:" : "DamienCassou 11/21/2013 13:04",
+		"setMaxLevel:" : "DamienCassou 3/5/2013 18:02" } }

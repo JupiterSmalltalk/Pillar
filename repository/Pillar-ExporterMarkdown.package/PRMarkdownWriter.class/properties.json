@@ -1,0 +1,19 @@
+{
+	"category" : "Pillar-ExporterMarkdown",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"nesting",
+		"listType",
+		"nextItemIndex",
+		"needNewLine",
+		"firstRow",
+		"needsABreak" ],
+	"name" : "PRMarkdownWriter",
+	"pools" : [
+		 ],
+	"super" : "PRDocumentWriter",
+	"type" : "normal" }

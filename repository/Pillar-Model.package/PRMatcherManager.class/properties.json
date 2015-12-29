@@ -1,0 +1,18 @@
+{
+	"category" : "Pillar-Model-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Default",
+		"LineMatcher",
+		"LineMatcherDefault",
+		"TextMatcher" ],
+	"commentStamp" : "TorstenBergmann 3/5/2015 22:08",
+	"instvars" : [
+		"textMarkups",
+		"lineMarkups" ],
+	"name" : "PRMatcherManager",
+	"pools" : [
+		 ],
+	"super" : "PRBasicObject",
+	"type" : "normal" }

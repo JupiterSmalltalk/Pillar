@@ -1,0 +1,14 @@
+{
+	"category" : "Pillar-PetitPillar",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "CyrilFerlicot 8/12/2015 15:18",
+	"instvars" : [
+		 ],
+	"name" : "PRPillarParser",
+	"pools" : [
+		 ],
+	"super" : "PRPillarGrammar",
+	"type" : "normal" }

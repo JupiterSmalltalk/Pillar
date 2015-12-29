@@ -1,0 +1,20 @@
+{
+	"class" : {
+		"isAbstract" : "TorstenBergmann 3/6/2015 00:14" },
+	"instance" : {
+		"icon" : "TorstenBergmann 3/6/2015 00:18",
+		"visitAnchor:" : "TorstenBergmann 3/6/2015 00:54",
+		"visitBoldFormat:" : "TorstenBergmann 3/6/2015 00:38",
+		"visitEmptyParagraph:" : "TorstenBergmann 3/6/2015 00:48",
+		"visitHeader:" : "TorstenBergmann 3/6/2015 00:36",
+		"visitItalicFormat:" : "TorstenBergmann 3/6/2015 01:46",
+		"visitListItem:" : "TorstenBergmann 3/6/2015 01:13",
+		"visitOrderedList:" : "TorstenBergmann 3/6/2015 01:09",
+		"visitParagraph:" : "TorstenBergmann 3/6/2015 00:48",
+		"visitSubscriptFormat:" : "TorstenBergmann 3/6/2015 01:23",
+		"visitSuperscriptFormat:" : "TorstenBergmann 3/6/2015 01:23",
+		"visitTable:" : "TorstenBergmann 3/6/2015 01:54",
+		"visitTableCell:" : "TorstenBergmann 3/6/2015 01:56",
+		"visitTableRow:" : "TorstenBergmann 3/6/2015 01:57",
+		"visitText:" : "TorstenBergmann 3/6/2015 01:30",
+		"visitUnorderedList:" : "TorstenBergmann 3/6/2015 01:08" } }

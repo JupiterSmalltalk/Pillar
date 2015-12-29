@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"isAbstract" : "lr 3/30/2007 22:22" },
+	"instance" : {
+		"actualClass" : "lr 3/30/2007 22:22",
+		"markup" : "CyrilFerlicot 9/9/2015 23:44",
+		"referenceString" : "lr 3/9/2006 11:31",
+		"testIsBroken" : "lr 3/30/2009 21:35",
+		"testIsExternal" : "lr 4/1/2009 22:28",
+		"testIsInternal" : "lr 3/30/2009 21:35",
+		"testIsLink" : "lr 3/30/2009 21:36",
+		"testParseAliased" : "lr 4/5/2007 14:33",
+		"testParseAliasedEmpty" : "lr 2/2/2009 16:01",
+		"testParseBasic" : "lr 2/7/2007 15:06",
+		"testParseParameters" : "CyrilFerlicot 7/1/2015 13:38",
+		"testParseParametersEmpty" : "CyrilFerlicot 7/1/2015 13:44",
+		"testParseParametersEscaped" : "CyrilFerlicot 7/1/2015 14:11" } }

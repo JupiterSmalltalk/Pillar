@@ -1,0 +1,14 @@
+{
+	"category" : "Pillar-Model-Exceptions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"inputFile" ],
+	"name" : "PRReferenceNotFound",
+	"pools" : [
+		 ],
+	"super" : "PRWarning",
+	"type" : "normal" }

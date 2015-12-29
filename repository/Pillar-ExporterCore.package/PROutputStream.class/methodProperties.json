@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"on:" : "DamienCassou 10/4/2013 10:39" },
+	"instance" : {
+		"<<" : "DamienCassou 10/8/2013 12:51",
+		"configuration" : "CyrilFerlicot 4/1/2015 18:20",
+		"configuration:" : "DamienCassou 12/3/2013 17:02",
+		"contents" : "DamienCassou 2/20/2014 10:54",
+		"flush" : "DamienCassou 10/7/2013 10:50",
+		"isEmpty" : "BenjaminVanRyseghem 11/15/2013 02:23",
+		"newLine" : "DamienCassou 10/9/2013 14:26",
+		"setStream:" : "DamienCassou 10/4/2013 09:58",
+		"space" : "DamienCassou 10/8/2013 13:44",
+		"stream" : "BenjaminVanRyseghem 11/19/2013 09:45",
+		"trimLastNewLine" : "DamienCassou 2/27/2014 11:31" } }

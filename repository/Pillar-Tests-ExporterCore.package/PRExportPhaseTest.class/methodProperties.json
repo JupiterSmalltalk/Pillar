@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"actualClass" : "CyrilFerlicot 6/15/2015 14:00",
+		"testCreateScriptForLaTeXCompilation" : "DamienCassou 9/2/2015 09:08",
+		"testDefaultTemplate" : "CyrilFerlicot 6/15/2015 14:45",
+		"testDocumentPropertiesAreAccessible" : "CyrilFerlicot 6/15/2015 14:48",
+		"testDocumentPropertiesCanBeReferencedFromTemplates" : "CyrilFerlicot 6/15/2015 14:49",
+		"testDocumentPropertiesTakePrecedence" : "CyrilFerlicot 6/15/2015 14:49",
+		"testDocumentsAreLinked" : "CyrilFerlicot 6/15/2015 14:51",
+		"testEnsureNewFileWhenExporting" : "CyrilFerlicot 6/29/2015 11:17",
+		"testScriptForLaTeXCompilationHasOnlyOneSchebang" : "DamienCassou 9/2/2015 09:18",
+		"testTemplateContentsIsUsed" : "CyrilFerlicot 6/26/2015 16:44" } }

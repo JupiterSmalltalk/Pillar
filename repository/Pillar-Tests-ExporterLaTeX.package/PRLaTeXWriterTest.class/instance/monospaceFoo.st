@@ -1,0 +1,3 @@
+requirements
+monospaceFoo
+	^ '\ct{foo}'

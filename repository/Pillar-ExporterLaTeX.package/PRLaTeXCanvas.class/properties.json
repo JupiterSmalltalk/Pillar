@@ -1,0 +1,14 @@
+{
+	"category" : "Pillar-ExporterLaTeX",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"LatexCharacters" ],
+	"commentStamp" : "TorstenBergmann 3/5/2015 22:17",
+	"instvars" : [
+		 ],
+	"name" : "PRLaTeXCanvas",
+	"pools" : [
+		 ],
+	"super" : "PRExportCanvas",
+	"type" : "normal" }

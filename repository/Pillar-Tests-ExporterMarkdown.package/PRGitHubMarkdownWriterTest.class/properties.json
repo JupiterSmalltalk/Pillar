@@ -1,0 +1,14 @@
+{
+	"category" : "Pillar-Tests-ExporterMarkdown",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PRGitHubMarkdownWriterTest",
+	"pools" : [
+		 ],
+	"super" : "PRMarkdownWriterTest",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Pillar-ExporterMarkdown",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"MarkdownCharacters" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "PRMarkdownCanvas",
+	"pools" : [
+		 ],
+	"super" : "PRExportCanvas",
+	"type" : "normal" }

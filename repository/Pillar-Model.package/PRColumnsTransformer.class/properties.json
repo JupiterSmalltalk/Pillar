@@ -1,0 +1,14 @@
+{
+	"category" : "Pillar-Model-Transformer",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "CyrilFerlicot 6/18/2015 10:44",
+	"instvars" : [
+		"tmpColumns" ],
+	"name" : "PRColumnsTransformer",
+	"pools" : [
+		 ],
+	"super" : "PRDocumentChildrenTransformer",
+	"type" : "normal" }

@@ -1,0 +1,24 @@
+{
+	"class" : {
+		"isAbstract" : "lr 3/30/2007 22:22" },
+	"instance" : {
+		"actualClass" : "lr 3/30/2007 22:22",
+		"addText:to:" : "DamienCassou 2/10/2014 14:39",
+		"assertTree:equalsText:" : "DamienCassou 2/27/2014 11:33",
+		"assertTree:equalsWiki:" : "DamienCassou 9/24/2015 09:16",
+		"assertWiki:equalsTree:" : "CyrilFerlicot 8/19/2015 13:26",
+		"assertWikiTransform:equalsTree:" : "CyrilFerlicot 8/19/2015 13:26",
+		"barInstance" : "lr 4/5/2007 14:32",
+		"fooInstance" : "lr 4/5/2007 14:32",
+		"foobarInstances" : "lr 3/9/2006 11:31",
+		"parser" : "DamienCassou 9/2/2015 11:25",
+		"testCopy" : "lr 3/9/2006 11:31",
+		"testEqueal" : "lr 3/9/2006 11:31",
+		"testEquealNil" : "lr 3/9/2006 11:31",
+		"testEquealOther" : "lr 3/9/2006 11:31",
+		"testHasChildren" : "lr 3/9/2006 11:31",
+		"testHash" : "lr 3/9/2006 11:31",
+		"testIsHeader" : "CyrilFerlicot 5/23/2015 20:09",
+		"testIsLink" : "lr 3/30/2009 21:36",
+		"testIsSlideBeginning" : "CyrilFerlicot 6/3/2015 13:48",
+		"testText" : "lr 3/9/2006 11:31" } }

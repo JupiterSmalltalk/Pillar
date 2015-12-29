@@ -1,0 +1,14 @@
+{
+	"category" : "Pillar-ExporterHTML",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"HTMLCharacters" ],
+	"commentStamp" : "DamienCassou 6/2/2014 14:21",
+	"instvars" : [
+		 ],
+	"name" : "PRHTMLCanvas",
+	"pools" : [
+		 ],
+	"super" : "PRExportCanvas",
+	"type" : "normal" }

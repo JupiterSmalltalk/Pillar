@@ -1,0 +1,14 @@
+{
+	"category" : "Pillar-ExporterHTML",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "DamienCassou 6/2/2014 14:45",
+	"instvars" : [
+		"name" ],
+	"name" : "PRHTMLTag",
+	"pools" : [
+		 ],
+	"super" : "PRHTMLBrush",
+	"type" : "normal" }

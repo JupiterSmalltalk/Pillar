@@ -1,0 +1,14 @@
+{
+	"category" : "Pillar-Tests-ExporterCore",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "DamienCassou 2/28/2014 09:35",
+	"instvars" : [
+		"configuration" ],
+	"name" : "PRDocumentWriterTest",
+	"pools" : [
+		 ],
+	"super" : "PRVisitorTest",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Pillar-Model-Document",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "lr 5/28/2006 20:56",
+	"instvars" : [
+		 ],
+	"name" : "PRTableRow",
+	"pools" : [
+		 ],
+	"super" : "PRDocumentGroup",
+	"type" : "normal" }

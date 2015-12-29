@@ -1,0 +1,14 @@
+{
+	"category" : "Pillar-ExporterText",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "TorstenBergmann 3/5/2015 22:21",
+	"instvars" : [
+		"lastIsNewLine" ],
+	"name" : "PRTextCanvas",
+	"pools" : [
+		 ],
+	"super" : "PRExportCanvas",
+	"type" : "normal" }

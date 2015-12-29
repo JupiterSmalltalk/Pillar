@@ -1,0 +1,3 @@
+testing
+columnsIsInCreation
+	^ tmpColumns isNotNil

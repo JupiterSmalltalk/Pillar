@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"isAbstract" : "CyrilFerlicot 6/15/2015 13:58" },
+	"instance" : {
+		"actualClass" : "CyrilFerlicot 6/15/2015 13:58",
+		"baseDirectory" : "CyrilFerlicot 6/15/2015 14:25",
+		"createMockClass" : "CyrilFerlicot 7/2/2015 13:58",
+		"fromString:" : "CyrilFerlicot 6/29/2015 15:50",
+		"runCase" : "CyrilFerlicot 6/17/2015 13:19",
+		"setUp" : "CyrilFerlicot 6/17/2015 13:14",
+		"tearDown" : "CyrilFerlicot 7/2/2015 13:58",
+		"testDocumentAreTransformed" : "CyrilFerlicot 6/18/2015 15:05",
+		"testPhaseAndTransformersAreCollected" : "CyrilFerlicot 6/18/2015 15:03",
+		"testTransformerCanBeDisable" : "CyrilFerlicot 6/18/2015 15:04" } }

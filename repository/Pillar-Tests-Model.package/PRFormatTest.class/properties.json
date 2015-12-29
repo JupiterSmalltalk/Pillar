@@ -1,0 +1,15 @@
+{
+	"category" : "Pillar-Tests-Model-Document",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"otherClass",
+		"markup" ],
+	"name" : "PRFormatTest",
+	"pools" : [
+		 ],
+	"super" : "PRDocumentGroupTest",
+	"type" : "normal" }

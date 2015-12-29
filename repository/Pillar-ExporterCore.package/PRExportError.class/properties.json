@@ -1,0 +1,14 @@
+{
+	"category" : "Pillar-ExporterCore-Exceptions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "DamienCassou 4/2/2015 14:34",
+	"instvars" : [
+		"file" ],
+	"name" : "PRExportError",
+	"pools" : [
+		 ],
+	"super" : "PRError",
+	"type" : "normal" }

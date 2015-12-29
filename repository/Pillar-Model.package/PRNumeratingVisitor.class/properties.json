@@ -1,0 +1,18 @@
+{
+	"category" : "Pillar-Model-Transformer",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"figureCounter",
+		"topLevelNumerate",
+		"scriptCounter",
+		"headerCounter",
+		"anchorsMapping" ],
+	"name" : "PRNumeratingVisitor",
+	"pools" : [
+		 ],
+	"super" : "PRTransformer",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Pillar-ExporterDeckJS",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "CyrilFerlicot 6/8/2015 15:46",
+	"instvars" : [
+		"anchorMapping" ],
+	"name" : "PRDeckJSWriter",
+	"pools" : [
+		 ],
+	"super" : "PRHTMLWriter",
+	"type" : "normal" }

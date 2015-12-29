@@ -1,0 +1,20 @@
+{
+	"class" : {
+		"isAbstract" : "CyrilFerlicot 5/18/2015 15:08" },
+	"instance" : {
+		"actualClass" : "CyrilFerlicot 5/18/2015 15:01",
+		"addHeader:ofLevel:to:" : "CyrilFerlicot 6/25/2015 16:00",
+		"counterLevel3" : "CyrilFerlicot 5/17/2015 18:56",
+		"defaultDictionary" : "CyrilFerlicot 5/17/2015 17:46",
+		"newDefaultConfiguration" : "CyrilFerlicot 5/18/2015 15:01",
+		"representationOf26" : "CyrilFerlicot 5/18/2015 15:10",
+		"representationOf27" : "CyrilFerlicot 5/18/2015 15:10",
+		"representationOfOne" : "CyrilFerlicot 5/18/2015 15:03",
+		"testCounter" : "CyrilFerlicot 6/25/2015 15:58",
+		"testEquals" : "CyrilFerlicot 6/25/2015 16:01",
+		"testHash" : "CyrilFerlicot 5/17/2015 17:54",
+		"testPrintElement" : "CyrilFerlicot 5/18/2015 15:11",
+		"testSize" : "CyrilFerlicot 6/25/2015 16:20",
+		"testSizeHigherThanThePossible" : "CyrilFerlicot 6/25/2015 16:18",
+		"testSizeIsNotTheFullSizePossible" : "CyrilFerlicot 6/25/2015 16:21",
+		"testSizeWhenNumeratingIsFalse" : "CyrilFerlicot 5/18/2015 17:42" } }

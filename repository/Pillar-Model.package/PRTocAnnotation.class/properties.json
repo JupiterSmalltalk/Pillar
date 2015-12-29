@@ -1,0 +1,14 @@
+{
+	"category" : "Pillar-Model-Document",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "CyrilFerlicot 6/30/2015 15:51",
+	"instvars" : [
+		 ],
+	"name" : "PRTocAnnotation",
+	"pools" : [
+		 ],
+	"super" : "PRAbstractAnnotation",
+	"type" : "normal" }

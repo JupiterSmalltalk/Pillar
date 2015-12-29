@@ -1,0 +1,14 @@
+{
+	"category" : "Pillar-Model-Transformer",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "CyrilFerlicot 5/19/2015 18:09",
+	"instvars" : [
+		"anchorsMapping" ],
+	"name" : "PRNumeratingLinksVisitor",
+	"pools" : [
+		 ],
+	"super" : "PRTransformer",
+	"type" : "normal" }

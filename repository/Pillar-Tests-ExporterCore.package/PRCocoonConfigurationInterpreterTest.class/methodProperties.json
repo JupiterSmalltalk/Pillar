@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"fromString:" : "CyrilFerlicot 6/29/2015 15:48",
+		"packageNamesUnderTest" : "CyrilFerlicot 3/31/2015 17:03",
+		"testDefaultScriptLanguage" : "CyrilFerlicot 3/31/2015 17:05",
+		"testNewLine" : "CyrilFerlicot 3/31/2015 17:06",
+		"testSimpleConfiguration" : "CyrilFerlicot 3/31/2015 17:07",
+		"testTemplate" : "CyrilFerlicot 6/26/2015 14:32",
+		"testWithMultipleInputFiles" : "CyrilFerlicot 6/26/2015 14:43",
+		"unexistingFilename" : "CyrilFerlicot 3/31/2015 17:04" } }

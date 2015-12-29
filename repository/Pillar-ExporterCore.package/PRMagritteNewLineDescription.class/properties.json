@@ -1,0 +1,14 @@
+{
+	"category" : "Pillar-ExporterCore-Description",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "CyrilFerlicot 6/29/2015 09:57",
+	"instvars" : [
+		 ],
+	"name" : "PRMagritteNewLineDescription",
+	"pools" : [
+		 ],
+	"super" : "MAStringDescription",
+	"type" : "normal" }

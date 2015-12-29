@@ -1,0 +1,14 @@
+{
+	"category" : "Pillar-Model-Exceptions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "CyrilFerlicot 4/22/2015 14:23",
+	"instvars" : [
+		 ],
+	"name" : "PRSyntaxError",
+	"pools" : [
+		 ],
+	"super" : "PRError",
+	"type" : "normal" }

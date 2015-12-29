@@ -1,0 +1,15 @@
+{
+	"category" : "Pillar-Model-Transformer",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "CyrilFerlicot 6/2/2015 16:54",
+	"instvars" : [
+		"topNode",
+		"configuration" ],
+	"name" : "PRTransformer",
+	"pools" : [
+		 ],
+	"super" : "PRVisitor",
+	"type" : "normal" }

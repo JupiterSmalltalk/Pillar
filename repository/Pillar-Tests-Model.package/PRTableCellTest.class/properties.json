@@ -1,0 +1,14 @@
+{
+	"category" : "Pillar-Tests-Model-Document",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PRTableCellTest",
+	"pools" : [
+		 ],
+	"super" : "PRDocumentGroupTest",
+	"type" : "normal" }

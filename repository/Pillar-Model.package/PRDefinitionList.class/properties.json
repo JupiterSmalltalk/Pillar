@@ -1,0 +1,14 @@
+{
+	"category" : "Pillar-Model-Document",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "lr 12/30/2007 19:44",
+	"instvars" : [
+		 ],
+	"name" : "PRDefinitionList",
+	"pools" : [
+		 ],
+	"super" : "PRList",
+	"type" : "normal" }

@@ -1,0 +1,20 @@
+{
+	"class" : {
+		"priority" : "CyrilFerlicot 6/16/2015 15:59" },
+	"instance" : {
+		"actionOn:" : "CyrilFerlicot 8/24/2015 13:36",
+		"copySupportFile" : "CyrilFerlicot 8/18/2015 15:23",
+		"expandTemplateWithBindings:" : "CyrilFerlicot 6/15/2015 13:26",
+		"extractDataFrom:using:" : "CyrilFerlicot 7/21/2015 14:34",
+		"instantiateWriter" : "CyrilFerlicot 6/15/2015 13:28",
+		"latexCommandPropertiesFor:" : "CyrilFerlicot 8/26/2015 17:59",
+		"outputFor:" : "",
+		"outputStreamDuring:" : "CyrilFerlicot 8/5/2015 13:36",
+		"scriptBeginingOn:" : "DamienCassou 9/2/2015 09:21",
+		"scriptEndingOn:" : "CyrilFerlicot 8/25/2015 11:53",
+		"scriptForFiles:on:" : "DamienCassou 9/2/2015 16:59",
+		"scriptShebangOn:" : "DamienCassou 9/2/2015 09:20",
+		"transformerLaTeXCompilationOf:" : "DamienCassou 9/2/2015 09:20",
+		"write:using:" : "CyrilFerlicot 8/24/2015 13:36",
+		"writeAll:using:" : "CyrilFerlicot 8/24/2015 13:46",
+		"writeOutput:toStream:" : "CyrilFerlicot 6/15/2015 13:28" } }

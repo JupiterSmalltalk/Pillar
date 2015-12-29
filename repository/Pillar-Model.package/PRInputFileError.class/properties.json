@@ -1,0 +1,14 @@
+{
+	"category" : "Pillar-Model-Exceptions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "CyrilFerlicot 4/9/2015 13:11",
+	"instvars" : [
+		 ],
+	"name" : "PRInputFileError",
+	"pools" : [
+		 ],
+	"super" : "PRError",
+	"type" : "normal" }

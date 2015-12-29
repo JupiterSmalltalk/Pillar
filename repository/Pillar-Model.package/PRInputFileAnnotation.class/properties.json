@@ -1,0 +1,14 @@
+{
+	"category" : "Pillar-Model-Document",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "CyrilFerlicot 6/30/2015 14:59",
+	"instvars" : [
+		 ],
+	"name" : "PRInputFileAnnotation",
+	"pools" : [
+		 ],
+	"super" : "PRAbstractAnnotation",
+	"type" : "normal" }

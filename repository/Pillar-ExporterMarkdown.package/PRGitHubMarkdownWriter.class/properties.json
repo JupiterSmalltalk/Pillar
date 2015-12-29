@@ -1,0 +1,14 @@
+{
+	"category" : "Pillar-ExporterMarkdown",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "PRGitHubMarkdownWriter",
+	"pools" : [
+		 ],
+	"super" : "PRMarkdownWriter",
+	"type" : "normal" }

@@ -1,0 +1,24 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"aCode" : "CyrilFerlicot 4/30/2015 19:03",
+		"actualClass" : "CyrilFerlicot 4/30/2015 15:29",
+		"createFile:With:In:" : "CyrilFerlicot 4/30/2015 16:00",
+		"endingCode" : "CyrilFerlicot 5/23/2015 19:16",
+		"firstLine" : "CyrilFerlicot 4/30/2015 19:02",
+		"headingCode" : "CyrilFerlicot 5/23/2015 19:16",
+		"middleCode" : "CyrilFerlicot 5/23/2015 19:16",
+		"setUp" : "CyrilFerlicot 4/30/2015 18:32",
+		"testCanGetFileInsideAnOtherDirectory" : "CyrilFerlicot 5/1/2015 18:30",
+		"testFirstAndLastLineDefine" : "CyrilFerlicot 5/1/2015 18:19",
+		"testFirstLineDefine" : "CyrilFerlicot 5/1/2015 18:15",
+		"testFirstLineOutOfBounds" : "CyrilFerlicot 5/1/2015 18:21",
+		"testHasFileFrom" : "CyrilFerlicot 4/30/2015 18:42",
+		"testHasWrongFileFrom" : "CyrilFerlicot 4/30/2015 18:51",
+		"testLastLineDefine" : "CyrilFerlicot 5/1/2015 18:18",
+		"testLastLineLowestThanFirstLine" : "CyrilFerlicot 5/1/2015 18:23",
+		"testLastLineOutOfBounds" : "CyrilFerlicot 5/1/2015 18:21",
+		"testWarningWhenScriptNotEmpty" : "CyrilFerlicot 5/1/2015 19:52",
+		"testtestFirstLineIsNotANumber" : "CyrilFerlicot 5/1/2015 18:33",
+		"transform:" : "CyrilFerlicot 6/29/2015 10:20" } }

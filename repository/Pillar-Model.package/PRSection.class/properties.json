@@ -1,0 +1,14 @@
+{
+	"category" : "Pillar-Model-Document",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "CyrilFerlicot 6/2/2015 16:59",
+	"instvars" : [
+		 ],
+	"name" : "PRSection",
+	"pools" : [
+		 ],
+	"super" : "PRDocumentGroup",
+	"type" : "normal" }

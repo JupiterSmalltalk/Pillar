@@ -1,0 +1,14 @@
+{
+	"category" : "Pillar-Model-Document",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "lr 5/28/2006 20:58",
+	"instvars" : [
+		"text" ],
+	"name" : "PRText",
+	"pools" : [
+		 ],
+	"super" : "PRDocumentItem",
+	"type" : "normal" }

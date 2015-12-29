@@ -1,0 +1,8 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"actualClass" : "DamienCassou 4/5/2015 10:23",
+		"testScriptWithEvalThatDoesntReturnAParagraph" : "CyrilFerlicot 4/24/2015 17:48",
+		"testScriptWithProblematicEval" : "DamienCassou 4/5/2015 10:35",
+		"testScriptWithoutEval" : "CyrilFerlicot 4/23/2015 11:18" } }

@@ -1,0 +1,14 @@
+{
+	"category" : "Pillar-Model-Document",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "lr 6/2/2006 11:29",
+	"instvars" : [
+		 ],
+	"name" : "PRMailLink",
+	"pools" : [
+		 ],
+	"super" : "PRExternalLink",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Pillar-ExporterPillar",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"PillarCharacters" ],
+	"commentStamp" : "TorstenBergmann 3/5/2015 22:20",
+	"instvars" : [
+		"lastIsNewLine" ],
+	"name" : "PRPillarCanvas",
+	"pools" : [
+		 ],
+	"super" : "PRExportCanvas",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Pillar-ExporterCore-Configuration",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "CyrilFerlicot 5/18/2015 14:58",
+	"instvars" : [
+		 ],
+	"name" : "PRLevelRomanConfiguration",
+	"pools" : [
+		 ],
+	"super" : "PRNumberingLevelConfiguration",
+	"type" : "normal" }

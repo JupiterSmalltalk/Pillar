@@ -1,0 +1,14 @@
+{
+	"category" : "Pillar-Tests-ExporterCore",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PRCocoonConfigurationInterpreterTest",
+	"pools" : [
+		 ],
+	"super" : "CCConfigurationInterpreterTest",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Pillar-Tests-ExporterCore",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "DamienCassou 2/28/2014 09:36",
+	"instvars" : [
+		 ],
+	"name" : "PRCascadingCounterTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"isAbstract" : "lr 3/30/2007 22:22" },
+	"instance" : {
+		"actualClass" : "lr 3/30/2007 22:22",
+		"testParseBasic" : "lr 2/7/2007 16:42",
+		"testParseLink" : "lr 4/5/2007 15:59",
+		"testParseMultiple" : "CyrilFerlicot 5/23/2015 19:18",
+		"testParseParagraph" : "lr 4/5/2007 14:33",
+		"testParseSpaces" : "nfr 9/26/2007 09:55",
+		"textString" : "lr 2/7/2007 16:42" } }

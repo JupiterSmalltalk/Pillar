@@ -1,0 +1,14 @@
+{
+	"category" : "Pillar-ExporterLaTeX",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "TorstenBergmann 3/5/2015 22:17",
+	"instvars" : [
+		 ],
+	"name" : "PRLaTeXWriter",
+	"pools" : [
+		 ],
+	"super" : "PRDocumentWriter",
+	"type" : "normal" }

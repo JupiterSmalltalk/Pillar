@@ -1,0 +1,28 @@
+{
+	"class" : {
+		"escape:" : "CyrilFerlicot 4/28/2015 12:55",
+		"fromString:withMarkup:" : "CyrilFerlicot 4/29/2015 11:03",
+		"isValidReference:" : "CyrilFerlicot 4/28/2015 11:07",
+		"markup" : "CyrilFerlicot 4/28/2015 11:07",
+		"markupAlias" : "CyrilFerlicot 4/28/2015 11:08",
+		"markupAnchor" : "CyrilFerlicot 4/28/2015 12:58",
+		"markupEmbedded" : "CyrilFerlicot 4/28/2015 11:09",
+		"parse:with:" : "CyrilFerlicot 9/8/2015 19:06",
+		"parseParameters:" : "CyrilFerlicot 4/28/2015 12:57",
+		"priority" : "CyrilFerlicot 4/28/2015 11:09",
+		"reference:" : "CyrilFerlicot 4/28/2015 13:00" },
+	"instance" : {
+		"=" : "CyrilFerlicot 9/8/2015 18:46",
+		"accept:" : "CyrilFerlicot 4/28/2015 14:27",
+		"alias" : "CyrilFerlicot 4/28/2015 13:07",
+		"hasAlias" : "CyrilFerlicot 4/28/2015 13:07",
+		"hasAnchor" : "CyrilFerlicot 4/28/2015 13:06",
+		"hash" : "CyrilFerlicot 9/8/2015 18:46",
+		"initialize" : "CyrilFerlicot 9/8/2015 18:44",
+		"parameters" : "CyrilFerlicot 4/28/2015 11:11",
+		"parameters:" : "CyrilFerlicot 7/1/2015 13:37",
+		"postCopy" : "CyrilFerlicot 4/28/2015 13:10",
+		"reference" : "CyrilFerlicot 4/28/2015 13:11",
+		"reference:" : "CyrilFerlicot 4/28/2015 13:11",
+		"text" : "CyrilFerlicot 4/28/2015 13:06",
+		"title" : "CyrilFerlicot 4/28/2015 13:11" } }

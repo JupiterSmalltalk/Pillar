@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"isAbstract" : "lr 3/9/2006 11:30",
+		"isValidReference:" : "DamienCassou 10/8/2013 08:40",
+		"priority" : "CyrilFerlicot 4/28/2015 14:18" },
+	"instance" : {
+		"accept:" : "lr 3/30/2007 20:01",
+		"isExternal" : "lr 4/1/2009 22:19",
+		"url" : "lr 9/8/2008 21:30",
+		"urlEntry" : "lr 3/9/2006 11:29",
+		"urlPostfix" : "lr 10/20/2006 11:43",
+		"urlPrefix" : "lr 10/20/2006 11:43" } }

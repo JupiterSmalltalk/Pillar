@@ -1,0 +1,3 @@
+private
+expandTemplateWithBindings: cocoonConfiguration
+	^ cocoonConfiguration template expandWithBindings: cocoonConfiguration allProperties

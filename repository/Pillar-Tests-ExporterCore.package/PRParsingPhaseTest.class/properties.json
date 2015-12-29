@@ -1,0 +1,14 @@
+{
+	"category" : "Pillar-Tests-ExporterCore",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PRParsingPhaseTest",
+	"pools" : [
+		 ],
+	"super" : "PRPhaseTest",
+	"type" : "normal" }

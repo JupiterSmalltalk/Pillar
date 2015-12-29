@@ -1,0 +1,15 @@
+{
+	"category" : "Pillar-ExporterCore-Utilities",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"stream",
+		"configuration" ],
+	"name" : "PROutputStream",
+	"pools" : [
+		 ],
+	"super" : "PRBasicObject",
+	"type" : "normal" }

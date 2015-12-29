@@ -1,0 +1,15 @@
+{
+	"category" : "Pillar-Model-Document",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "CyrilFerlicot 6/5/2015 16:37",
+	"instvars" : [
+		"title",
+		"label" ],
+	"name" : "PRSlide",
+	"pools" : [
+		 ],
+	"super" : "PRDocumentGroup",
+	"type" : "normal" }

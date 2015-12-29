@@ -1,0 +1,1 @@
+I am a Magritte description of a Pillar template.

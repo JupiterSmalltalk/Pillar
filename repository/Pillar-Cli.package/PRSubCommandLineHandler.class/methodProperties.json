@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"argumentsOutOfConfiguration" : "CyrilFerlicot 7/30/2015 15:15",
+		"defaultConfigurationFileName" : "CyrilFerlicot 7/30/2015 13:37" },
+	"instance" : {
+		"activate" : "CyrilFerlicot 7/30/2015 15:11",
+		"add:to:" : "DamienCassou 9/7/2015 15:43",
+		"argumentsForConfigurationExtension" : "CyrilFerlicot 7/30/2015 15:18",
+		"baseDirectory" : "CyrilFerlicot 8/30/2015 23:13",
+		"createConfiguration:" : "CyrilFerlicot 7/30/2015 15:12",
+		"error:" : "DamienCassou 12/11/2013 16:34",
+		"errorMissingParameter:" : "DamienCassou 1/8/2014 11:13",
+		"readConfigurationFromFile:" : "CyrilFerlicot 7/30/2015 15:17" } }

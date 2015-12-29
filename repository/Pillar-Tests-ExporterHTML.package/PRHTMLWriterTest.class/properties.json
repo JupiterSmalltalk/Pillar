@@ -1,0 +1,14 @@
+{
+	"category" : "Pillar-Tests-ExporterHTML",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PRHTMLWriterTest",
+	"pools" : [
+		 ],
+	"super" : "PRManualNumberingWriterTest",
+	"type" : "normal" }

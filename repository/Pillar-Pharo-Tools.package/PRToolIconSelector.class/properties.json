@@ -1,0 +1,14 @@
+{
+	"category" : "Pillar-Pharo-Tools-Utilities",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "TorstenBergmann 3/6/2015 01:47",
+	"instvars" : [
+		"icon" ],
+	"name" : "PRToolIconSelector",
+	"pools" : [
+		 ],
+	"super" : "PRVisitor",
+	"type" : "normal" }

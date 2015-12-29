@@ -1,0 +1,14 @@
+{
+	"category" : "Pillar-Tests-ExporterText",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PRTextWriterTest",
+	"pools" : [
+		 ],
+	"super" : "PRDocumentWriterTest",
+	"type" : "normal" }
