@@ -1,6 +1,6 @@
 code port
 moveRepo
-	"Get reference to the source repository"
+	"PRPillarGemstoneCodeTool moveRepo"
 
 	| source destination goSource goDestination sortBlock re fileBlocks filesSorted files destinationFiles |
 	source := MCSmalltalkhubRepository allInstances
