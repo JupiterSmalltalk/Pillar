@@ -3,18 +3,15 @@ moveRepo
 	"PRPillarGemstoneCodeTool moveRepo"
 
 	| source destination goSource goDestination sortBlock re fileBlocks filesSorted files destinationFiles |
-	self getConfiguration.
+	self
+		getConfiguration;
+		loadConfiguration.
 	source := MCSmalltalkhubRepository allInstances
 		detect: [ :each | each location includesSubstring: 'Pier/Pillar' ].
 
 	"Get reference to the target repository"
 	destination := MCFileTreeRepository allInstances
 		detect: [ :each | each location includesSubstring: 'Pillar/repository' ].
-
-	"Setup name mapping from Monticello commits to git commits."
-	"MCFileTreeRepository
-	namesAt: 'MonticelloCommitName' put: 'Full Name' email: '<your.mail@example.com>';
-	namesAt: 'PeterUhnak' put: 'Peter Uhnak' email: '<i.uhnak@gmail.com>'."
 
 	"Setup Gofer"
 	goSource := Gofer new repository: source.
@@ -39,7 +36,7 @@ moveRepo
 	files := (filesSorted collect: [ :x | x first ]) asArray.
 	(goSource allResolved select: [ :resolved | files anySatisfy: [ :each | resolved name = each ] ])
 		do: [ :each | goSource package: each packageName ].
-	goSource fetch.	"downloads all mcz on your computer"
+	"goSource fetch."	"downloads all mcz on your computer"
 	destinationFiles := destination allVersionNames.	"checks what files are already at destination"
 	files
 		reject: [ :file | destinationFiles includes: file ]
