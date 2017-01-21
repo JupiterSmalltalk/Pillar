@@ -1,0 +1,43 @@
+{
+	"instance" : {
+		"descriptionRenderStructureAsSlide" : "DamienCassou 4/8/2016 13:28",
+		"descriptionOutputType" : "DamienCassou 4/8/2016 14:00",
+		"export" : "ThibaultArloing 7/29/2016 16:11",
+		"levelDescriptionCocoonDocumentation:" : "DamienCassou 4/8/2016 16:27",
+		"formatValue:" : "ThibaultArloing 4/14/2016 10:40",
+		"descriptionLevel2" : "ThibaultArloing 4/11/2016 15:29",
+		"configureLevelDescription:" : "ThibaultArloing 4/11/2016 15:25",
+		"asJson" : "YannDubois 6/1/2016 11:00",
+		"descriptionOutputDirectory" : "ThibaultArloing 4/11/2016 16:07",
+		"getConfigurationNamed:" : "YannDubois 4/28/2016 15:54",
+		"pharoRelativeNames" : "CyrilFerlicot 8/18/2015 16:01",
+		"outputStream:" : "DamienCassou 4/5/2015 18:43",
+		"descriptionLevel5" : "ThibaultArloing 4/11/2016 15:29",
+		"descriptionDefaultScriptLanguage" : "DamienCassou 4/8/2016 13:24",
+		"descriptionInputFile" : "DamienCassou 6/20/2016 14:55",
+		"descriptionMetadata" : "YannDubois 4/15/2016 16:31",
+		"descriptionHeadingLevelOffset" : "DamienCassou 4/8/2016 11:50",
+		"descriptionDefaultExporters" : "DamienCassou 4/8/2016 14:04",
+		"descriptionLevel3" : "ThibaultArloing 4/11/2016 15:29",
+		"descriptionNewLine" : "CyrilFerlicot 6/29/2015 14:43",
+		"descriptionSlideInTemplateForDeckJS" : "DamienCassou 4/8/2016 16:33",
+		"inputString:" : "DamienCassou 6/22/2016 10:48",
+		"outputFileName" : "ThibaultAroing 5/26/2016 14:51",
+		"descriptionVerbose" : "CyrilFerlicot 6/29/2015 14:45",
+		"export:" : "YannDubois 5/24/2016 16:28",
+		"descriptionLevel1" : "ThibaultArloing 4/11/2016 15:29",
+		"descriptionSeparateOutputFiles" : "DamienCassou 4/8/2016 11:49",
+		"descriptionScrambledEmailAddresses" : "DamienCassou 4/8/2016 11:48",
+		"levelConfigurationFor:" : "CyrilFerlicot 6/25/2015 15:44",
+		"findDefaultConfigurationNamed:" : "DamienCassou 9/28/2015 12:46",
+		"descriptionOutputFile" : "DamienCassou 4/8/2016 16:31",
+		"pharoExtensions" : "CyrilFerlicot 8/18/2015 16:02",
+		"descriptionDisabledPhases" : "DamienCassou 7/18/2016 15:32",
+		"descriptionLevel4" : "ThibaultArloing 4/11/2016 15:29"
+	},
+	"class" : {
+		"defaultHeaderConfigurations" : "CyrilFerlicot 5/29/2016 00:55",
+		"headerConfigurations" : "CyrilFerlicot 5/29/2016 00:56",
+		"headerConfigurations:" : "CyrilFerlicot 5/18/2015 15:23"
+	}
+}

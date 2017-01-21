@@ -1,0 +1,16 @@
+{
+	"instance" : {
+		"testInFlowScriptWithNoLanguageGeneratePlain" : "DamienCassou 2/29/2016 16:05",
+		"monospaceFoo" : "DamienCassou 3/2/2016 14:00",
+		"actualClass" : "DamienCassou 2/29/2016 11:29",
+		"testInFlowScriptWithCorrectNewLines" : "DamienCassou 2/29/2016 16:50",
+		"testFloatingScriptWithNoLanguageGeneratePlain" : "DamienCassou 2/29/2016 16:07",
+		"testScriptWithNeitherCaptionNorLabel" : "DamienCassou 2/29/2016 15:24",
+		"testScriptWithCaptionAndNotLabel" : "DamienCassou 2/29/2016 15:25",
+		"testScript" : "DamienCassou 2/29/2016 16:47",
+		"testScriptWithCaptionAndNotLabelAndShortCaption" : "DamienCassou 2/29/2016 15:26",
+		"testScriptWithLabelAndNotCaption" : "DamienCassou 2/29/2016 16:39",
+		"testScriptWithBothLabelAndCaption" : "DamienCassou 2/29/2016 16:18"
+	},
+	"class" : { }
+}

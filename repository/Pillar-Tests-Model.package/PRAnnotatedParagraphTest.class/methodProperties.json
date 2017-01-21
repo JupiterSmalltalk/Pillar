@@ -1,0 +1,13 @@
+{
+	"instance" : {
+		"testParseOnlyAnnotation" : "lr 5/26/2009 22:31",
+		"actualClass" : "lr 5/26/2009 22:21",
+		"testParseBasic" : "lr 5/26/2009 22:31",
+		"testParseEmptyFollwedByPreformatted" : "CyrilFerlicot 5/23/2015 19:17",
+		"testParseOnlyNothing" : "lr 5/26/2009 22:31",
+		"testParseOnlyText" : "lr 5/26/2009 22:31"
+	},
+	"class" : {
+		"isAbstract" : "lr 5/26/2009 22:22"
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"instance" : {
+		"testParse" : "CyrilFerlicot 8/7/2015 13:40",
+		"annoteName" : "CyrilFerlicot 5/28/2015 17:20",
+		"referenceParameters" : "CyrilFerlicot 8/7/2015 13:33",
+		"referenceString" : "CyrilFerlicot 8/7/2015 13:26",
+		"actualClass" : "CyrilFerlicot 5/28/2015 17:17"
+	},
+	"class" : {
+		"isAbstract" : "CyrilFerlicot 5/28/2015 17:16"
+	}
+}

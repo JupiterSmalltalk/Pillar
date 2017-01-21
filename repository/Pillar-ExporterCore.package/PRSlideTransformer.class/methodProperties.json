@@ -1,0 +1,14 @@
+{
+	"instance" : {
+		"aSlideIsOpen" : "CyrilFerlicot 6/3/2015 13:41",
+		"possibleTransformationEnding" : "CyrilFerlicot 6/3/2015 14:53",
+		"manageSlideWith:" : "CyrilFerlicot 6/3/2015 15:01",
+		"createNewSlideWith:" : "CyrilFerlicot 6/5/2015 16:46",
+		"manageItem:" : "CyrilFerlicot 6/3/2015 14:22",
+		"pushSlideIfNeeded" : "CyrilFerlicot 6/3/2015 14:22"
+	},
+	"class" : {
+		"dependencies" : "ThibaultArloing 8/3/2016 15:01",
+		"key" : "YannDubois 5/20/2016 11:35"
+	}
+}

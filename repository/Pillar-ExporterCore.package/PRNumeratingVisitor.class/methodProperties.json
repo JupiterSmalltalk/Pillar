@@ -1,0 +1,19 @@
+{
+	"instance" : {
+		"visitFigure:" : "CyrilFerlicot 5/20/2015 10:21",
+		"visitHeader:" : "YannDubois 5/19/2016 10:45",
+		"initializeTopNumerate" : "CyrilFerlicot 5/20/2015 10:37",
+		"initialize" : "CyrilFerlicot 5/19/2015 17:43",
+		"visitAnchor:" : "CyrilFerlicot 5/20/2015 10:21",
+		"actionOn:" : "ThibaultArloing 7/19/2016 13:27",
+		"visitScript:" : "CyrilFerlicot 5/20/2015 10:22",
+		"visitSlideTitleAnnotation:" : "CyrilFerlicot 7/31/2015 11:02",
+		"needNumbering:" : "CyrilFerlicot 5/19/2015 16:45"
+	},
+	"class" : {
+		"with:" : "CyrilFerlicot 5/20/2015 10:37",
+		"executeOn:" : "ThibaultArloing 7/19/2016 13:26",
+		"key" : "YannDubois 5/19/2016 09:16",
+		"pipelineKey" : "YannDubois 7/8/2016 16:50"
+	}
+}

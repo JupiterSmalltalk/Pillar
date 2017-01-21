@@ -1,0 +1,3 @@
+private
+visitorDependencies
+	self subclassResponsibility

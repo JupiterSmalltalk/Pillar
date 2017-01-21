@@ -1,0 +1,40 @@
+{
+	"instance" : {
+		"eval:" : "DamienCassou 1/14/2014 13:38",
+		"accept:" : "DamienCassou 11/18/2013 15:53",
+		"shortCaption" : "DamienCassou 2/29/2016 16:45",
+		"initialize" : "YannDubois 5/2/2016 14:10",
+		"firstLine:" : "CyrilFerlicot 4/30/2015 12:53",
+		"structureName" : "ThibaultArloing 5/9/2016 10:10",
+		"caption" : "DamienCassou 2/29/2016 16:37",
+		"caption:" : "CyrilFerlicot 7/1/2015 13:57",
+		"label:" : "DamienCassou 1/9/2014 15:42",
+		"text:" : "DamienCassou 1/8/2014 18:06",
+		"evaluate" : "CyrilFerlicot 8/31/2015 21:21",
+		"language" : "CyrilFerlicot 4/13/2015 23:01",
+		"lastLine:" : "CyrilFerlicot 4/30/2015 12:53",
+		"language:" : "CyrilFerlicot 7/1/2015 14:02",
+		"fromFile:" : "CyrilFerlicot 4/30/2015 12:53",
+		"isStructure" : "ThibaultArloing 5/11/2016 16:10",
+		"hideable:" : "YannDubois 4/5/2016 09:21",
+		"structureName:" : "ThibaultArloing 5/9/2016 13:51",
+		"removePossibleParagraph:" : "CyrilFerlicot 4/24/2015 17:39",
+		"parameters" : "CyrilFerlicot 7/1/2015 14:02",
+		"hasLabel" : "CyrilFerlicot 4/13/2015 23:01",
+		"evaluationString" : "CyrilFerlicot 4/23/2015 12:53",
+		"hash" : "CyrilFerlicot 4/21/2015 11:23",
+		"isHideable" : "YannDubois 4/5/2016 10:44",
+		"hasShortCaption" : "DamienCassou 2/29/2016 16:44",
+		"=" : "CyrilFerlicot 5/1/2015 18:12",
+		"label" : "CyrilFerlicot 4/13/2015 23:01",
+		"lineNumber:" : "CyrilFerlicot 4/23/2015 11:23",
+		"hasNoCode" : "CyrilFerlicot 4/30/2015 15:07",
+		"shortCaption:" : "DamienCassou 2/29/2016 16:41",
+		"parameters:" : "CyrilFerlicot 7/1/2015 13:39",
+		"isEvaluated" : "CyrilFerlicot 4/23/2015 10:43",
+		"hasCaption" : "CyrilFerlicot 4/13/2015 23:01"
+	},
+	"class" : {
+		"content:parameters:" : "CyrilFerlicot 7/1/2015 13:55"
+	}
+}

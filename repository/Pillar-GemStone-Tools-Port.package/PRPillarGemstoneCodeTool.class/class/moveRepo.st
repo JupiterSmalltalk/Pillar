@@ -3,6 +3,7 @@ moveRepo
 	"PRPillarGemstoneCodeTool moveRepo"
 
 	| source destination goSource goDestination sortBlock re fileBlocks filesSorted files destinationFiles |
+	self getConfiguration.
 	source := MCSmalltalkhubRepository allInstances
 		detect: [ :each | each location includesSubstring: 'Pier/Pillar' ].
 
@@ -27,7 +28,7 @@ moveRepo
 
 	"My-Package-Author.Number"
 	re := '^(.+)-([^-]+)\.(\d+)$' asRegex.
-	fileBlocks := source allVersionNames
+	fileBlocks := (ConfigurationOfPillar project stableVersion packages collect: [ :pkg | pkg file ])
 		collect: [ :each | 
 			re search: each.
 			{(re subexpression: 1).	"first - full string"

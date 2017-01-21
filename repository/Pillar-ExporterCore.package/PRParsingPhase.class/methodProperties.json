@@ -1,0 +1,13 @@
+{
+	"instance" : {
+		"actionOn:" : "ThibaultArloing 7/28/2016 11:31",
+		"errorNoInputFile" : "CyrilFerlicot 6/15/2015 13:25",
+		"parseFile:" : "ThibaultArloing 7/21/2016 11:52",
+		"parseInput:" : "YannDubois 7/13/2016 17:02",
+		"parse:on:" : "CyrilFerlicot 8/31/2015 21:21"
+	},
+	"class" : {
+		"dependencies" : "YannDubois 7/8/2016 17:03",
+		"pipelineKey" : "YannDubois 7/8/2016 16:54"
+	}
+}

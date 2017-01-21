@@ -1,0 +1,20 @@
+{
+	"instance" : {
+		"testIsBroken" : "lr 3/30/2009 21:35",
+		"testParseBasic" : "lr 2/7/2007 15:06",
+		"testParseParametersEscaped" : "YannDubois 5/2/2016 14:44",
+		"testIsInternal" : "lr 3/30/2009 21:35",
+		"testParseAliasedEmpty" : "lr 2/2/2009 16:01",
+		"markup" : "CyrilFerlicot 9/9/2015 23:44",
+		"testIsExternal" : "lr 4/1/2009 22:28",
+		"actualClass" : "lr 3/30/2007 22:22",
+		"testIsLink" : "lr 3/30/2009 21:36",
+		"testParseParameters" : "YannDubois 5/2/2016 14:44",
+		"testParseParametersEmpty" : "YannDubois 5/2/2016 14:44",
+		"testParseAliased" : "lr 4/5/2007 14:33",
+		"referenceString" : "lr 3/9/2006 11:31"
+	},
+	"class" : {
+		"isAbstract" : "lr 3/30/2007 22:22"
+	}
+}

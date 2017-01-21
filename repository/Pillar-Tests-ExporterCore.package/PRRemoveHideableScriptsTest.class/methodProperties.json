@@ -1,0 +1,9 @@
+{
+	"instance" : {
+		"testScriptWhenHideable" : "DamienCassou 6/20/2016 14:12",
+		"testScriptWithoutHideableParameter" : "DamienCassou 6/20/2016 14:12",
+		"testScriptWhenNotHideable" : "DamienCassou 6/20/2016 14:12",
+		"actualClass" : "ThibaultArloing 4/5/2016 16:00"
+	},
+	"class" : { }
+}

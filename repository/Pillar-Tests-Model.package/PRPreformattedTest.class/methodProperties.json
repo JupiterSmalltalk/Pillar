@@ -1,0 +1,13 @@
+{
+	"instance" : {
+		"testParseSpecials" : "DamienPollet 2/20/2014 18:48",
+		"testParseEmpty" : "DamienPollet 2/20/2014 18:47",
+		"testParseMultiple" : "CyrilFerlicot 5/23/2015 19:20",
+		"actualClass" : "lr 3/30/2007 22:22",
+		"testParseBasic" : "DamienPollet 2/20/2014 18:47",
+		"testParseSpaces" : "CyrilFerlicot 5/23/2015 19:20"
+	},
+	"class" : {
+		"isAbstract" : "lr 3/30/2007 22:22"
+	}
+}

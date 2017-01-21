@@ -1,0 +1,9 @@
+{
+	"instance" : {
+		"testEnsureNewFileWhenExporting" : "CyrilFerlicot 6/29/2015 11:17",
+		"testDocumentPropertiesTakePrecedence" : "CyrilFerlicot 10/29/2015 22:00",
+		"testDocumentPropertiesAreAccessible" : "CyrilFerlicot 6/15/2015 14:48",
+		"actualClass" : "CyrilFerlicot 6/15/2015 14:00"
+	},
+	"class" : { }
+}

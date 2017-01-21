@@ -1,0 +1,3 @@
+private
+visitorDependencies
+	^ PRImageDependencies new

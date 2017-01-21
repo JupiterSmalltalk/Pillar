@@ -1,0 +1,11 @@
+{
+	"instance" : {
+		"depend" : "YannDubois 4/28/2016 16:20",
+		"activate" : "YannDubois 4/26/2016 14:48",
+		"visitorDependencies" : "YannDubois 4/25/2016 16:40",
+		"printDependencies" : "YannDubois 4/28/2016 16:20"
+	},
+	"class" : {
+		"isAbstract" : "YannDubois 4/25/2016 16:38"
+	}
+}

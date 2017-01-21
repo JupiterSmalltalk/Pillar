@@ -1,0 +1,12 @@
+{
+	"instance" : {
+		"expectedUrlForReferenceString" : "LukasKomarek 4/28/2016 12:09",
+		"simpleReferenceString" : "LukasKomarek 4/28/2016 12:10",
+		"referenceString" : "LukasKomarek 4/21/2016 16:32",
+		"actualClass" : "LukasKomarek 4/21/2016 16:05",
+		"expectedUrlForSimpleReferenceString" : "LukasKomarek 4/28/2016 12:10"
+	},
+	"class" : {
+		"isAbstract" : "LukasKomarek 4/21/2016 16:04"
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"instance" : {
+		"testAnchorWithSimpleTitleAndAnchorWithSameName" : "DamienCassou 6/20/2016 13:50",
+		"testAnchorWithSimpleTitle" : "DamienCassou 6/20/2016 13:48",
+		"testAnchorWithSimpleTitleAndAnchorNumberName" : "DamienCassou 6/20/2016 13:50",
+		"actualClass" : "CyrilFerlicot 4/20/2015 15:15",
+		"addHeader:ofLevel:to:" : "CyrilFerlicot 5/29/2016 00:55",
+		"testAnchorWithoutTitle" : "DamienCassou 6/20/2016 13:51",
+		"testAnchorWithTwoSameTitle" : "DamienCassou 6/20/2016 13:52"
+	},
+	"class" : { }
+}

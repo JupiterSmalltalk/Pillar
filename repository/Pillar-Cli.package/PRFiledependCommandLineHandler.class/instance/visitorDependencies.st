@@ -1,0 +1,3 @@
+private
+visitorDependencies
+	^ PRFileDependencies new.

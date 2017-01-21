@@ -1,0 +1,14 @@
+{
+	"instance" : {
+		"testParseWithInterpretation" : "DamienCassou 10/15/2015 11:00",
+		"testParseWithoutARequiredParameter" : "CyrilFerlicot 9/10/2015 00:00",
+		"testParseTooMuchParameters" : "CyrilFerlicot 9/9/2015 23:54",
+		"testParseWithoutFirstKey" : "DamienCassou 10/15/2015 11:01",
+		"referenceParameters" : "YannDubois 5/2/2016 14:40",
+		"referenceString" : "CyrilFerlicot 8/7/2015 13:27",
+		"testParseWithBadInterpretation" : "CyrilFerlicot 9/9/2015 23:55",
+		"actualClass" : "CyrilFerlicot 6/30/2015 17:07",
+		"testParseWithWrongValue" : "CyrilFerlicot 9/10/2015 00:00"
+	},
+	"class" : { }
+}

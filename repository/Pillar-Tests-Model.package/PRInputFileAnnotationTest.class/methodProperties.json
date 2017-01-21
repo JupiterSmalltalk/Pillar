@@ -1,0 +1,21 @@
+{
+	"instance" : {
+		"testInclude1FileContentInto1Paragraph" : "CyrilFerlicot 5/23/2015 19:18",
+		"referenceParameters" : "YannDubois 5/2/2016 14:43",
+		"tearDown" : "ThibaultArloing 7/21/2016 11:20",
+		"createFile2" : "CyrilFerlicot 5/23/2015 19:16",
+		"testInclude1FileHeaderInto1Paragraph" : "CyrilFerlicot 5/23/2015 19:18",
+		"testInclude1FileInto1Include" : "CyrilFerlicot 5/23/2015 19:18",
+		"testInclude1FileWithLineBreak" : "YannDubois 7/1/2016 10:07",
+		"actualClass" : "CyrilFerlicot 4/7/2015 15:18",
+		"createFile4" : "ThibaultArloing 7/21/2016 10:59",
+		"createFile1" : "CyrilFerlicot 4/9/2015 16:30",
+		"testNoInclude" : "CyrilFerlicot 4/10/2015 13:34",
+		"testInclude1File" : "CyrilFerlicot 4/15/2015 00:01",
+		"createFile3" : "CyrilFerlicot 5/23/2015 19:16",
+		"referenceString" : "CyrilFerlicot 8/7/2015 13:27",
+		"testInclude1FileWithFigure" : "ThibaultArloing 7/21/2016 11:24",
+		"setUp" : "ThibaultArloing 7/19/2016 16:28"
+	},
+	"class" : { }
+}

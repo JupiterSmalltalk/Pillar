@@ -1,0 +1,16 @@
+{
+	"classtraitcomposition" : "PRTPipe classTrait",
+	"classvars" : [ ],
+	"instvars" : [
+		"replacement",
+		"configuration"
+	],
+	"name" : "PRNodeTransformer",
+	"commentStamp" : "CyrilFerlicot 6/2/2015 16:54",
+	"super" : "PRVisitor",
+	"traitcomposition" : "PRTPipe",
+	"type" : "normal",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"category" : "Pillar-ExporterCore-Export"
+}

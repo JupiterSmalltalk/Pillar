@@ -1,0 +1,8 @@
+{
+	"instance" : {
+		"testParseEmptyParagraphInTheMiddle" : "CyrilFerlicot 5/23/2015 19:20",
+		"testParseEmptyParagraphAtBeginning" : "CyrilFerlicot 5/23/2015 19:20",
+		"actualClass" : "DamienCassou 3/20/2014 10:46"
+	},
+	"class" : { }
+}

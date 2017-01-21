@@ -1,0 +1,19 @@
+{
+	"instance" : {
+		"testIsStructure" : "ThibaultArloing 5/9/2016 10:11",
+		"testParseEscape" : "CyrilFerlicot 9/25/2015 01:08",
+		"testParseWithSimpleCaption" : "CyrilFerlicot 9/25/2015 01:09",
+		"testStructureName" : "ThibaultArloing 5/9/2016 10:11",
+		"testParseRealLanguage" : "CyrilFerlicot 9/25/2015 01:08",
+		"testEqualScript" : "CyrilFerlicot 4/10/2015 11:00",
+		"actualClass" : "DamienCassou 1/8/2014 17:57",
+		"testParseLanguage" : "DamienCassou 1/10/2014 16:13",
+		"testParseSimple" : "CyrilFerlicot 9/25/2015 01:08",
+		"testHash" : "CyrilFerlicot 4/7/2015 14:09",
+		"testParseSimpleOn1Line" : "DamienCassou 6/3/2014 11:36",
+		"testEqualScriptWithLanguage" : "YannDubois 5/2/2016 14:41"
+	},
+	"class" : {
+		"isAbstract" : "DamienCassou 1/8/2014 17:57"
+	}
+}

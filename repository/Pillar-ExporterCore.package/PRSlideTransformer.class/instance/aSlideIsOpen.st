@@ -1,0 +1,3 @@
+testing
+aSlideIsOpen
+	^ tmpSlide isNotNil

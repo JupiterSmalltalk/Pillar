@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "DamienCassou 7/18/2016 15:54",
+	"super" : "PRDocumentChildrenTransformer",
+	"category" : "Pillar-ExporterCore-Export",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"tmpColumns"
+	],
+	"name" : "PRColumnsTransformer",
+	"type" : "normal"
+}

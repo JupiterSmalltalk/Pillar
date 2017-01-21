@@ -1,0 +1,19 @@
+{
+	"instance" : {
+		"jsonStreamWithContent:withTitle:" : "YannDubois 6/1/2016 11:25",
+		"tearDown" : "CyrilFerlicot 7/2/2015 13:58",
+		"runCase" : "CyrilFerlicot 6/17/2015 13:19",
+		"createMockClass" : "YannDubois 7/18/2016 13:41",
+		"actualClass" : "CyrilFerlicot 6/15/2015 13:58",
+		"testDocumentAreTransformed" : "DamienCassou 7/13/2016 15:22",
+		"fromString:" : "CyrilFerlicot 10/29/2015 22:00",
+		"testPhaseAndTransformersAreCollected" : "DamienCassou 7/13/2016 17:02",
+		"testDocumentAreTransformedWithMetadata" : "YannDubois 7/13/2016 09:35",
+		"jsonStreamWithContent:" : "YannDubois 6/1/2016 11:24",
+		"testTransformerCanBeDisable" : "YannDubois 7/12/2016 14:49",
+		"setUp" : "DamienCassou 7/19/2016 15:49"
+	},
+	"class" : {
+		"isAbstract" : "CyrilFerlicot 6/15/2015 13:58"
+	}
+}

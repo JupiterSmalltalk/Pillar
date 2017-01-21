@@ -1,0 +1,15 @@
+{
+	"instance" : {
+		"buildFileInclusionPipeline:" : "ThibaultArloing 7/21/2016 14:52",
+		"pathForFile:" : "ThibaultArloing 7/21/2016 11:23",
+		"visitInputFileAnnotation:" : "ThibaultArloing 7/21/2016 11:14",
+		"aboutClass" : "YannDubois 5/18/2016 11:19",
+		"specificVisitor:" : "CyrilFerlicot 4/15/2015 10:01"
+	},
+	"class" : {
+		"pipelineKey" : "ThibaultArloing 7/21/2016 12:24",
+		"dependencies" : "ThibaultArloing 7/21/2016 12:24",
+		"isAbstract" : "CyrilFerlicot 4/9/2015 11:38",
+		"key" : "YannDubois 5/18/2016 11:48"
+	}
+}

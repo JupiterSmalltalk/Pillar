@@ -1,0 +1,14 @@
+{
+	"instance" : {
+		"testKeepHeaderWithParagraph" : "DamienCassou 6/20/2016 14:04",
+		"testTransformWith3Headers" : "DamienCassou 6/20/2016 14:06",
+		"testTransformWithOneSection" : "DamienCassou 6/20/2016 14:06",
+		"testKeepHeaderWithOneHeader" : "DamienCassou 6/20/2016 14:03",
+		"testTransformWith2Headers" : "DamienCassou 6/20/2016 14:05",
+		"actualWriterClass" : "ThibaultArloing 6/2/2016 11:11",
+		"actualClass" : "ThibaultArloing 6/2/2016 11:13",
+		"testKeepHeaderWithScript" : "DamienCassou 6/20/2016 14:05",
+		"testKeepHeaderWithParagraph2" : "DamienCassou 6/20/2016 14:04"
+	},
+	"class" : { }
+}

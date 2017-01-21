@@ -1,0 +1,10 @@
+{
+	"instance" : {
+		"testTransformWithOneAnnotation" : "DamienCassou 6/20/2016 13:55",
+		"testTransformWithOneAnnotationithRef" : "DamienCassou 6/20/2016 13:56",
+		"testTransformWithListInList" : "DamienCassou 6/20/2016 13:54",
+		"testTransformWithAnnotationAndText" : "DamienCassou 6/20/2016 13:54",
+		"actualClass" : "ThibaultArloing 5/3/2016 15:56"
+	},
+	"class" : { }
+}

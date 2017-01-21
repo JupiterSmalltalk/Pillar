@@ -1,0 +1,16 @@
+{
+	"instance" : {
+		"testParseFlat" : "CyrilFerlicot 5/23/2015 19:19",
+		"listItemWithText:" : "lr 12/30/2007 23:28",
+		"testParseEmpty" : "lr 12/30/2007 23:31",
+		"testParseMultiple" : "CyrilFerlicot 5/23/2015 19:19",
+		"testParseWithTrailingSpaces" : "DamienCassou 10/8/2015 16:27",
+		"textString:level:" : "lr 12/20/2007 23:21",
+		"actualClass" : "lr 3/30/2007 22:22",
+		"listItemClass" : "lr 12/30/2007 23:28",
+		"wikiString" : "lr 2/7/2007 16:22"
+	},
+	"class" : {
+		"isAbstract" : "lr 3/30/2007 22:22"
+	}
+}

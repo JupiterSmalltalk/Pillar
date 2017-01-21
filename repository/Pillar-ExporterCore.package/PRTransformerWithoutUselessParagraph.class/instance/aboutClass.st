@@ -1,0 +1,3 @@
+protected
+aboutClass
+	^ self subclassResponsibility

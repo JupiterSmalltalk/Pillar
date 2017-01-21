@@ -1,0 +1,10 @@
+{
+	"instance" : {
+		"testSubHeadersAreNumbered" : "ThibaultArloing 6/6/2016 09:39",
+		"level1HeaderWithFoo" : "ThibaultArloing 6/6/2016 09:37",
+		"testHeadersAreNumbered" : "ThibaultArloing 6/6/2016 09:38",
+		"actualClass" : "ThibaultArloing 6/6/2016 09:35",
+		"packageNamesUnderTest" : "ThibaultArloing 6/6/2016 10:21"
+	},
+	"class" : { }
+}

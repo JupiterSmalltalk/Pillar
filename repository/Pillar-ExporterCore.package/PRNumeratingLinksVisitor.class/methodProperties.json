@@ -1,0 +1,16 @@
+{
+	"instance" : {
+		"anchorsMapping:" : "CyrilFerlicot 5/19/2015 18:09",
+		"cantFindCounterNamed:for:" : "CyrilFerlicot 5/19/2015 18:11",
+		"isEmpty" : "CyrilFerlicot 5/19/2015 18:12",
+		"visitInternalLink:" : "YannDubois 5/19/2016 10:44",
+		"anchorCounter:" : "CyrilFerlicot 5/19/2015 18:11"
+	},
+	"class" : {
+		"executeOn:" : "ThibaultArloing 7/19/2016 11:32",
+		"dependencies" : "YannDubois 7/8/2016 16:52",
+		"key" : "YannDubois 5/18/2016 17:00",
+		"pipelineKey" : "YannDubois 7/8/2016 16:50",
+		"with:" : "CyrilFerlicot 5/19/2015 18:10"
+	}
+}

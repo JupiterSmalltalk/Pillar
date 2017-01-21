@@ -1,0 +1,14 @@
+{
+	"instance" : {
+		"testParseSquare" : "CyrilFerlicot 5/23/2015 19:21",
+		"testParseTriangle" : "CyrilFerlicot 5/23/2015 19:21",
+		"testCount" : "lr 3/21/2006 18:43",
+		"actualClass" : "lr 3/30/2007 22:22",
+		"testParseBasic" : "lr 4/5/2007 14:34",
+		"testParseWithPreformattedAndLinkWithParameters" : "damiencassou 7/23/2009 16:35",
+		"testParseWithPreformattedAndProtectedPipe" : "DamienCassou 9/24/2015 09:41"
+	},
+	"class" : {
+		"isAbstract" : "lr 3/30/2007 22:22"
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"instance" : {
+		"textString:level:" : "lr 12/30/2007 23:33",
+		"wikiString" : "lr 12/30/2007 23:30",
+		"testParseMixed" : "CyrilFerlicot 5/23/2015 19:19",
+		"actualClass" : "lr 12/30/2007 21:37",
+		"testParseBug" : "CyrilFerlicot 5/23/2015 19:19",
+		"listItemClass" : "lr 12/30/2007 23:30"
+	},
+	"class" : {
+		"isAbstract" : "lr 12/30/2007 21:37"
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"instance" : {
+		"testTitle" : "lr 11/13/2008 14:16",
+		"testUrl" : "DamienCassou 4/26/2014 18:08",
+		"testLinkToAFigureIsExternalLink" : "LukasKomarek 4/28/2016 13:34",
+		"referenceString" : "lr 11/13/2008 14:15",
+		"actualClass" : "lr 3/30/2007 22:22",
+		"testParseBogus" : "lr 9/22/2008 08:25"
+	},
+	"class" : {
+		"isAbstract" : "lr 3/30/2007 22:22"
+	}
+}

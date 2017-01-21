@@ -1,0 +1,18 @@
+{
+	"instance" : {
+		"writeOutput:toStream:" : "CyrilFerlicot 6/15/2015 13:28",
+		"outputStreamDuring:" : "ThibaultArloing 6/30/2016 14:20",
+		"extractDataFrom:using:" : "YannDubois 8/9/2016 14:35",
+		"actionOn:" : "YannDubois 8/9/2016 14:05",
+		"instantiateWriter" : "CyrilFerlicot 6/15/2015 13:28",
+		"mergeConfiguration:" : "ThibaultArloing 8/2/2016 10:20",
+		"createSymbolicLink" : "YannDubois 7/7/2016 16:21",
+		"outputFor:" : "",
+		"write:using:" : "YannDubois 8/9/2016 14:37",
+		"asJson:withConfiguration:" : "YannDubois 8/9/2016 14:36"
+	},
+	"class" : {
+		"dependencies" : "ThibaultArloing 7/21/2016 12:23",
+		"pipelineKey" : "YannDubois 7/8/2016 16:54"
+	}
+}

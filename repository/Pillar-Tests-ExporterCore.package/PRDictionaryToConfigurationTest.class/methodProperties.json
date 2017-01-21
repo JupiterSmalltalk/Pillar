@@ -1,0 +1,24 @@
+{
+	"instance" : {
+		"testReadingLevel2" : "CyrilFerlicot 10/29/2015 22:00",
+		"testReadingOutputDirectory" : "CyrilFerlicot 10/29/2015 22:00",
+		"testReadingTitle" : "CyrilFerlicot 10/29/2015 22:00",
+		"testReadingNewLine" : "CyrilFerlicot 10/29/2015 22:00",
+		"testReadingHeadingLevelOffset" : "CyrilFerlicot 10/29/2015 22:00",
+		"testReadingOutputType" : "CyrilFerlicot 10/29/2015 22:00",
+		"testReadingVerbose" : "CyrilFerlicot 10/29/2015 22:00",
+		"testReadingLevel5" : "CyrilFerlicot 10/29/2015 22:00",
+		"testReadingRenderStructureAsSlide" : "CyrilFerlicot 10/29/2015 22:00",
+		"testReadingSlideInTemplateForDeckJS" : "CyrilFerlicot 10/29/2015 22:00",
+		"testReadingScrambledEmailAddresses" : "CyrilFerlicot 10/29/2015 22:00",
+		"testReadingDefaultScriptLanguage" : "CyrilFerlicot 10/29/2015 22:00",
+		"testReadingLevel3" : "CyrilFerlicot 10/29/2015 22:00",
+		"testReadingOutputFile" : "CyrilFerlicot 10/29/2015 22:00",
+		"testReadingLevel1" : "CyrilFerlicot 10/29/2015 22:00",
+		"testReadingInputFile" : "DamienCassou 6/20/2016 15:02",
+		"testReadingSeparateOutputFiles" : "CyrilFerlicot 10/29/2015 22:00",
+		"testReadingLevel4" : "CyrilFerlicot 10/29/2015 22:00",
+		"testReadingDisableTransformers" : "CyrilFerlicot 10/29/2015 22:00"
+	},
+	"class" : { }
+}

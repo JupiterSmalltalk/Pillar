@@ -1,0 +1,31 @@
+{
+	"instance" : { },
+	"class" : {
+		"emptyParagraphIcon" : "TorstenBergmann 3/6/2015 00:47",
+		"browseIcons" : "TorstenBergmann 3/5/2015 23:47",
+		"tableIcon" : "TorstenBergmann 3/6/2015 01:53",
+		"heading6Icon" : "TorstenBergmann 3/6/2015 00:32",
+		"tableCellIcon" : "TorstenBergmann 3/6/2015 01:56",
+		"heading4Icon" : "TorstenBergmann 3/6/2015 00:32",
+		"reset" : "TorstenBergmann 3/5/2015 23:47",
+		"paragraphIcon" : "TorstenBergmann 3/6/2015 00:46",
+		"heading2Icon" : "TorstenBergmann 3/6/2015 00:31",
+		"commentIcon" : "TorstenBergmann 3/6/2015 01:33",
+		"tableRowIcon" : "TorstenBergmann 3/6/2015 01:57",
+		"subscriptIcon" : "TorstenBergmann 3/6/2015 01:22",
+		"italicIcon" : "TorstenBergmann 3/6/2015 01:45",
+		"orderedList" : "TorstenBergmann 3/6/2015 01:09",
+		"anchorIcon" : "TorstenBergmann 3/6/2015 00:54",
+		"headingXIcon" : "TorstenBergmann 3/6/2015 00:33",
+		"iconNamed:" : "TorstenBergmann 3/5/2015 23:46",
+		"heading3Icon" : "TorstenBergmann 3/6/2015 00:31",
+		"heading1Icon" : "TorstenBergmann 3/6/2015 00:31",
+		"unorderedList" : "TorstenBergmann 3/6/2015 01:08",
+		"iconCache" : "TorstenBergmann 3/5/2015 23:47",
+		"boldIcon" : "TorstenBergmann 3/6/2015 00:37",
+		"superscriptIcon" : "TorstenBergmann 3/6/2015 01:22",
+		"textIcon" : "TorstenBergmann 3/6/2015 01:29",
+		"heading5Icon" : "TorstenBergmann 3/6/2015 00:32",
+		"listItemIcon" : "TorstenBergmann 3/6/2015 01:13"
+	}
+}

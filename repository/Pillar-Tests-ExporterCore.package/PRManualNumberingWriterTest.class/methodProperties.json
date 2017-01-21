@@ -1,0 +1,21 @@
+{
+	"instance" : {
+		"counter1DefinitionString" : "DamienCassou 11/21/2013 11:35",
+		"testSubHeadersAreNumbered" : "CyrilFerlicot 6/25/2015 16:39",
+		"counter11ReferenceString" : "DamienCassou 11/21/2013 12:42",
+		"level2HeaderWithFoo" : "DamienCassou 1/7/2014 15:00",
+		"referenceToFigurePierLogo" : "DamienCassou 11/22/2013 18:21",
+		"counter11DefinitionString" : "DamienCassou 11/21/2013 11:36",
+		"counter2DefinitionString" : "DamienCassou 11/21/2013 11:36",
+		"testReferenceToFigureAnchor" : "CyrilFerlicot 9/8/2015 18:43",
+		"level2HeaderWith1Foo" : "DamienCassou 1/7/2014 15:00",
+		"counter1ReferenceString" : "DamienCassou 11/21/2013 11:36",
+		"testHeadersAreNumbered" : "CyrilFerlicot 6/25/2015 16:32",
+		"testReferenceToHeaderAnchor" : "CyrilFerlicot 5/21/2015 10:58",
+		"level2HeaderWith11Foo" : "DamienCassou 1/7/2014 15:04",
+		"level1HeaderWith1Foo" : "DamienCassou 1/7/2014 14:57"
+	},
+	"class" : {
+		"isAbstract" : "DamienCassou 11/21/2013 07:40"
+	}
+}

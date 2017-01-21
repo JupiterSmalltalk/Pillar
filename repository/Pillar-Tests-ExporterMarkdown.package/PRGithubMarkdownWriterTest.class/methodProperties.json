@@ -1,0 +1,14 @@
+{
+	"instance" : {
+		"supportSyntaxHighlighting" : "YannDubois 5/31/2016 14:52",
+		"tableRow" : "YannDubois 5/31/2016 15:12",
+		"tableBegin" : "YannDubois 5/31/2016 15:11",
+		"tableCellWithFoo" : "YannDubois 5/31/2016 15:12",
+		"actualClass" : "YannDubois 5/31/2016 14:51",
+		"scriptWithoutCaptionBegin" : "YannDubois 5/31/2016 14:52",
+		"tableCellWithHeadingFoo" : "YannDubois 5/31/2016 15:12",
+		"scriptWithCaptionBegin" : "YannDubois 5/31/2016 14:52",
+		"underlineFoo" : "YannDubois 5/31/2016 15:05"
+	},
+	"class" : { }
+}

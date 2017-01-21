@@ -1,0 +1,26 @@
+{
+	"instance" : {
+		"testRelativePathFromFile" : "DamienCassou 6/20/2016 14:56",
+		"testSubNoInfiniteRecursion" : "CyrilFerlicot 10/29/2015 22:00",
+		"someUnicodeString" : "PavelKrivanek 10/16/2015 12:08",
+		"testAsJsonWithoutProperties" : "YannDubois 6/1/2016 11:26",
+		"jsonStreamWithContent:" : "YannDubois 6/1/2016 11:03",
+		"setUp" : "CyrilFerlicot 3/31/2015 16:58",
+		"testWithUndefinedConfigurationDefault" : "CyrilFerlicot 10/29/2015 22:00",
+		"packageNamesUnderTest" : "CyrilFerlicot 3/31/2015 16:58",
+		"testAsJsonWithTitle" : "YannDubois 6/1/2016 11:26",
+		"testLevelIsGood" : "CyrilFerlicot 10/29/2015 22:00",
+		"testDefaultConfigurationsExistsWithOthersConfigurations" : "YannDubois 6/1/2016 11:01",
+		"testDescriptionOutputDirectoryAllowsDirsOnly" : "LukasKomarek 4/5/2016 18:36",
+		"testAsJsonWithTitleWithAutoAnchor" : "YannDubois 6/1/2016 11:01",
+		"testSupportFilesWithFolderInsideOutputDirectoryAreNotExported" : "YannDubois 6/9/2016 10:58",
+		"testWithUndefinedConfigurationNotDefault" : "CyrilFerlicot 10/29/2015 22:00",
+		"testUTFInputFromDiskFile" : "DamienCassou 6/22/2016 10:48",
+		"mockWriterClass" : "CyrilFerlicot 3/31/2015 16:58",
+		"testDescriptionOutputDirectoryAcceptsNotYetCreatedDirectories" : "DamienCassou 4/11/2016 15:42",
+		"testDescriptionOutputDirectoryAllowsKindAbstractFileReference" : "LukasKomarek 4/5/2016 18:40",
+		"testUTFInputFromMemoryFile" : "DamienCassou 6/22/2016 10:48",
+		"testUTFInputString" : "ThibaultArloing 4/18/2016 17:16"
+	},
+	"class" : { }
+}

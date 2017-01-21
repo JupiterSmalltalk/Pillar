@@ -1,0 +1,21 @@
+{
+	"instance" : {
+		"errorPropertyNotFound:" : "DamienCassou 10/28/2013 16:47",
+		"propertyAt:put:" : "lr 4/10/2007 21:50",
+		"propertyAt:ifAbsent:" : "lr 4/10/2007 21:49",
+		"postCopy" : "lr 3/9/2006 11:29",
+		"printOn:" : "DamienCassou 2/5/2014 12:46",
+		"properties" : "lr 5/28/2006 17:01",
+		"hasProperty:" : "lr 4/10/2007 21:49",
+		"accept:" : "DamienCassou 2/5/2014 12:45",
+		"postCopyTo:" : "DamienCassou 2/5/2014 12:45",
+		"propertyAt:" : "lr 4/10/2007 21:49",
+		"propertyAt:ifAbsentPut:" : "lr 4/10/2007 21:49"
+	},
+	"class" : {
+		"new" : "jf 9/18/2009 15:41",
+		"withAllConcreteClasses" : "lr 3/9/2006 11:30",
+		"withAllConcreteClassesDo:" : "CyrilFerlicot 4/28/2015 14:04",
+		"isAbstract" : "lr 3/9/2006 11:30"
+	}
+}
