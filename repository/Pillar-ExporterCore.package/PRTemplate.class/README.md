@@ -1,1 +1,0 @@
-I am a simple object used to retrieve the template contents late-bound.

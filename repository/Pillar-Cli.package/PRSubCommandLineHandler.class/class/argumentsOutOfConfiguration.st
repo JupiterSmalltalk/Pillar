@@ -1,3 +1,0 @@
-accessing
-argumentsOutOfConfiguration
-	^ #('configurationFile' 'to')

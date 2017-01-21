@@ -1,9 +1,0 @@
-{
-	"class" : {
-		"isAbstract" : "lr 3/30/2007 22:22" },
-	"instance" : {
-		"actualClass" : "lr 3/30/2007 22:22",
-		"testCount" : "lr 3/9/2006 11:31",
-		"testRowWithHeadingCellIsHeading" : "DamienCassou 6/3/2014 10:38",
-		"testRowWithHeadingCellsAndOneEmptyCellIsHeading" : "DamienCassou 6/3/2014 10:37",
-		"testRowWithOnlyEmptyCellIsNotHeading" : "DamienCassou 6/3/2014 10:39" } }

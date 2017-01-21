@@ -1,1 +1,0 @@
-I am an error raised when a problem occur while fetching the template contents

@@ -1,3 +1,0 @@
-testing
-aSlideIsOpen
-	^ tmpSlide isNotNil

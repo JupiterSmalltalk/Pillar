@@ -1,9 +1,0 @@
-{
-	"class" : {
-		 },
-	"instance" : {
-		"=" : "CyrilFerlicot 7/1/2015 12:03",
-		"at:ifPresent:ifAbsent:" : "CyrilFerlicot 7/1/2015 12:03",
-		"collect:" : "CyrilFerlicot 7/1/2015 14:39",
-		"copyWith:" : "CyrilFerlicot 7/1/2015 13:58",
-		"hash" : "CyrilFerlicot 8/10/2015 11:05" } }

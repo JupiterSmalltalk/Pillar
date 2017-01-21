@@ -1,1 +1,0 @@
-I am used to generate a picture in markdown.

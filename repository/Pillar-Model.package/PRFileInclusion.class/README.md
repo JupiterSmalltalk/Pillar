@@ -1,1 +1,0 @@
-I transform an InputFileAnnotation node into a tree which represente what's inside the file.

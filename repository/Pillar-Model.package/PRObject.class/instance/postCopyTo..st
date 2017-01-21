@@ -1,3 +1,0 @@
-copying
-postCopyTo: anObject
-	<ignoreForCoverage>

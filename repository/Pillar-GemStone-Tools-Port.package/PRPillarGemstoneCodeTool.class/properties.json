@@ -1,14 +1,11 @@
 {
-	"category" : "Pillar-GemStone-Tools-Port",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		 ],
-	"name" : "PRPillarGemstoneCodeTool",
-	"pools" : [
-		 ],
 	"super" : "Object",
-	"type" : "normal" }
+	"category" : "Pillar-GemStone-Tools-Port",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "PRPillarGemstoneCodeTool",
+	"type" : "normal"
+}

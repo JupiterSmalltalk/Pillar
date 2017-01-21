@@ -1,3 +1,0 @@
-testing
-isColumnsBeginning
-	^ false

@@ -1,1 +1,0 @@
-I'm a simple visitor that updates a numerator (PRNumerator) based on what I visit. When I'm done, a writer can use the numerator to output the headers/figures/scripts/... numbers.

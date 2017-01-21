@@ -1,8 +1,0 @@
-parsing
-fillCountersOf: aCollectionOfDocuments
-	| anchors numerator |
-	anchors := Dictionary new.
-	numerator := PRNumeratingVisitor with: self configuration.
-	aCollectionOfDocuments do: [ :each | anchors := numerator start: each ].
-	aCollectionOfDocuments do: [ :each | (PRNumeratingLinksVisitor with: anchors) start: each ].
-	^ aCollectionOfDocuments

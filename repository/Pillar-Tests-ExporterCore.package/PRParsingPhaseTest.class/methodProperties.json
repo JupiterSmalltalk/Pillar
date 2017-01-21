@@ -1,8 +1,0 @@
-{
-	"class" : {
-		 },
-	"instance" : {
-		"actualClass" : "CyrilFerlicot 6/15/2015 14:00",
-		"testParsing" : "CyrilFerlicot 6/26/2015 15:49",
-		"testWithMultipleInputFiles" : "CyrilFerlicot 6/26/2015 14:45",
-		"testWrongTagError" : "CyrilFerlicot 6/29/2015 11:25" } }

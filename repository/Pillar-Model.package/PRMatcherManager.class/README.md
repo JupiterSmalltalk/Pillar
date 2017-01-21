@@ -1,1 +1,0 @@
-Manager for text matching

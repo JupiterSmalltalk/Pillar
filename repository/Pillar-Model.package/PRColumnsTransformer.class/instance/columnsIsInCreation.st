@@ -1,3 +1,0 @@
-testing
-columnsIsInCreation
-	^ tmpColumns isNotNil

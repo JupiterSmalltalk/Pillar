@@ -1,3 +1,0 @@
-private
-possibleTransformationEnding
-	self pushSlideIfNeeded

@@ -1,9 +1,11 @@
 {
+	"instance" : { },
 	"class" : {
 		"flattenTraits" : "jupiter 12/29/2015 18:01",
 		"port" : "jupiter 12/29/2015 18:00",
-		"recompileClasses" : "jupiter 12/29/2015 18:01",
+		"moveRepo" : "jupiter 1/21/2017 18:09",
+		"traitClasses" : "jupiter 12/29/2015 18:00",
 		"removeTraits" : "jupiter 6/3/2015 13:24",
-		"traitClasses" : "jupiter 12/29/2015 18:00" },
-	"instance" : {
-		 } }
+		"recompileClasses" : "jupiter 12/29/2015 18:01"
+	}
+}

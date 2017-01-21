@@ -1,1 +1,0 @@
-I am an abstract superclass for the document hierarchy. My subclasses include all the basic elements to represent a document.

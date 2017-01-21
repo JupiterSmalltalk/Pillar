@@ -1,1 +1,0 @@
-I am used to render markdown commands that only need a starting symbol

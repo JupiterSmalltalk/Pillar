@@ -1,3 +1,0 @@
-accessing
-specificWriter
-	^ self subclassResponsibility

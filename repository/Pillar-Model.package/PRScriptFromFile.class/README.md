@@ -1,1 +1,0 @@
-I'm a transformer which will include the code from a file to a script.
