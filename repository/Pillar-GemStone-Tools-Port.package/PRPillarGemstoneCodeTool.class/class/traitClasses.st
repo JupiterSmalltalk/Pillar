@@ -3,4 +3,6 @@ traitClasses
 	^ {PRAbstractAnnotation.
 	PRReference.
 	PRScript.
-	PRMockForParameters }
+	PRMockForParameters.
+	PRBeamerWriterTest.
+	PRDeckJSWriterTest}

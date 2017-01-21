@@ -2,4 +2,5 @@ code port
 removeTraits
 	"PRPillarGemstoneCodeTool removeTraits"
 
-	PRTParametrizable removeFromSystem
+	PRTParametrizable removeFromSystem.
+	PRTSliderWriterTest removeFromSystem.
