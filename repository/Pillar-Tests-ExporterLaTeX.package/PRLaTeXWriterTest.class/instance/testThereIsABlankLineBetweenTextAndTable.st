@@ -1,7 +1,7 @@
 tests
 testThereIsABlankLineBetweenTextAndTable
   | text nLine |
-  nLine := GRPlatform current newline.
+  nLine := OSPlatform current lineEnding.
   text := 'This is a table:
 | foo
 | bar'.

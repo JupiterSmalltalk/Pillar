@@ -1,7 +1,7 @@
 tests
 testParseMixed
   | wiki tree |
-  wiki := ';1' , GRPlatform current newline , ':2'.
+  wiki := ';1' , OSPlatform current lineEnding , ':2'.
   tree := PRDocument new
     add:
         (PRDefinitionList new

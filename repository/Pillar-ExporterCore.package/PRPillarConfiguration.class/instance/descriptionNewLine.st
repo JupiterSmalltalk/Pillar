@@ -8,6 +8,6 @@ descriptionNewLine
     cocoonDocumentation:
         'The string that separates lines in the exported document.
 	This is often either LF or CR\+LF but any string is possible.';
-    default: GRPlatform current newline;
+    default: OSPlatform current lineEnding;
     cocoonDefaultDocumentation: 'Depend on the operating system.';
     yourself

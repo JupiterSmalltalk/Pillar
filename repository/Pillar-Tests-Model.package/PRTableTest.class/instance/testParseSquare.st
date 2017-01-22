@@ -1,7 +1,7 @@
 tests-parsing
 testParseSquare
   | wiki text tree nLine |
-  nLine := GRPlatform current newline.
+  nLine := OSPlatform current lineEnding.
   wiki := '|a11|a12' , nLine , '|a21|a22'.
   text := 'a11	a12' , nLine , 'a21	a22'.
   tree := PRDocument new

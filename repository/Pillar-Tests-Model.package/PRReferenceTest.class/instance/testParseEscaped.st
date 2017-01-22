@@ -1,9 +1,9 @@
 tests-parsing
 testParseEscaped
   | wiki text tree |
-  wiki := 'Star \*' , self referenceString , '\*' , GRPlatform current newline
-    , 'Cross \+' , self referenceString , '\+'.
-  text := 'Star *' , self referenceString , '*' , GRPlatform current newline
+  wiki := 'Star \*' , self referenceString , '\*'
+    , OSPlatform current lineEnding , 'Cross \+' , self referenceString , '\+'.
+  text := 'Star *' , self referenceString , '*' , OSPlatform current lineEnding
     , 'Cross +' , self referenceString , '+'.
   tree := PRDocument new
     add:

@@ -1,7 +1,7 @@
 tests-parsing
 testParseEmptyFollwedByPreformatted
   | wiki text tree nLine |
-  nLine := GRPlatform current newline.
+  nLine := OSPlatform current lineEnding.
   wiki := '@@foo' , nLine , '= bar'.
   text := nLine , 'bar'.
   tree := PRDocument new

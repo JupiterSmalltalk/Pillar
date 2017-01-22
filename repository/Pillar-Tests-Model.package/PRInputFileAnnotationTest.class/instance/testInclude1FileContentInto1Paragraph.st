@@ -1,7 +1,7 @@
 tests
 testInclude1FileContentInto1Paragraph
   | wiki wikiTransform text tree nLine |
-  nLine := GRPlatform current newline.
+  nLine := OSPlatform current lineEnding.
   wiki := 'Foo ${inputFile:timoleon.pillar}$'.
   wikiTransform := 'Foo !!Hello World' , nLine , 'test' , nLine.
   text := 'Foo Hello World' , nLine , 'test' , nLine.

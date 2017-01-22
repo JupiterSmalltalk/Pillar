@@ -1,7 +1,7 @@
 tests-parsing
 testParseTwoConsecutiveNonTextLines
   | wiki text tree sentence title nLine |
-  nLine := GRPlatform current newline.
+  nLine := OSPlatform current lineEnding.
   sentence := 'sentence'.
   title := 'title'.
   wiki := sentence , nLine , '!' , title.

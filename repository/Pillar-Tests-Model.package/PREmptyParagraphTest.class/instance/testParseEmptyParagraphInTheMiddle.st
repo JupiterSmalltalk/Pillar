@@ -1,7 +1,7 @@
 tests
 testParseEmptyParagraphInTheMiddle
   | wiki text tree content nLine |
-  nLine := GRPlatform current newline.
+  nLine := OSPlatform current lineEnding.
   content := 'Lorem ipsum dolor sit amet.'.
   wiki := content , nLine , nLine , content.
   text := wiki.

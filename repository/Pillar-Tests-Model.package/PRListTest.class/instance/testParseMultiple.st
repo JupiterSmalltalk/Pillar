@@ -1,7 +1,7 @@
 tests-parsing
 testParseMultiple
   | wiki text tree nLine |
-  nLine := GRPlatform current newline.
+  nLine := OSPlatform current lineEnding.
   wiki := self wikiString , '1st' , nLine , self wikiString , '2nd' , nLine
     , nLine , self wikiString , '3rd'.
   text := (self textString: 1 level: 1) , '1st' , nLine

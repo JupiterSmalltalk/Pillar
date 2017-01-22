@@ -6,7 +6,7 @@ generateDocumentationOf: transformers
         nextPutAll: ';==';
         nextPutAll: transformer key;
         nextPutAll: '==';
-        nextPutAll: GRPlatform current newline;
+        nextPutAll: OSPlatform current lineEnding;
         nextPutAll: ':';
         nextPutAll: transformer comment;
-        nextPutAll: GRPlatform current newline ]
+        nextPutAll: OSPlatform current lineEnding ]

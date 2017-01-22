@@ -1,7 +1,7 @@
 tests
 testInclude1FileInto1Include
   | wiki wikiTransform text tree nLine |
-  nLine := GRPlatform current newline.
+  nLine := OSPlatform current lineEnding.
   wiki := '${inputFile:bar.pillar}$'.
   wikiTransform := '!!Hello World' , nLine , '!!Bye World'.
   text := 'Hello World' , nLine , 'Bye World'.

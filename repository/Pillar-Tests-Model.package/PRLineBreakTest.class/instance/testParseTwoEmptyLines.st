@@ -1,7 +1,7 @@
 tests-parsing
 testParseTwoEmptyLines
   | wiki text tree nLine |
-  nLine := GRPlatform current newline.
+  nLine := OSPlatform current lineEnding.
   wiki := 'Lorem ipsum dolor sit amet.' , nLine , nLine , nLine
     , 'Nulla quis urna.'.
   text := wiki.

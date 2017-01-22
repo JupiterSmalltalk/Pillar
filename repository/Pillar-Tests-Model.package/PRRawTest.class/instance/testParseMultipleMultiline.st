@@ -1,7 +1,7 @@
 tests-parsing
 testParseMultipleMultiline
   | wiki text tree nLine |
-  nLine := GRPlatform current newline.
+  nLine := OSPlatform current lineEnding.
   wiki := '{{{a' , nLine , 'b}}}c{{{d' , nLine , 'e}}}'.
   text := 'a' , nLine , 'bcd' , nLine , 'e'.
   tree := PRDocument new

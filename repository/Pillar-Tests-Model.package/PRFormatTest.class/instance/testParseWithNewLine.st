@@ -1,7 +1,8 @@
 tests-parsing
 testParseWithNewLine
   | wiki text tree |
-  wiki := '1' , markup , '2' , GRPlatform current newline , '3' , markup , '4'.
+  wiki := '1' , markup , '2' , OSPlatform current lineEnding , '3' , markup
+    , '4'.
   text := '12' , Smalltalk os lineEnding , '34'.
   tree := PRDocument new
     add:

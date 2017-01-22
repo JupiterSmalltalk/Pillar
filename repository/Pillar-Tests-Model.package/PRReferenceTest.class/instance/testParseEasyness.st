@@ -1,11 +1,11 @@
 tests-parsing
 testParseEasyness
   | wiki1 wiki2 text tree |
-  wiki1 := self markup , GRPlatform current newline , self markup
+  wiki1 := self markup , OSPlatform current lineEnding , self markup
     , self referenceString.
-  wiki2 := '\' , self markup , GRPlatform current newline , '\' , self markup
+  wiki2 := '\' , self markup , OSPlatform current lineEnding , '\' , self markup
     , self referenceString.
-  text := self markup , GRPlatform current newline , self markup
+  text := self markup , OSPlatform current lineEnding , self markup
     , self referenceString.
   tree := PRDocument new
     add:

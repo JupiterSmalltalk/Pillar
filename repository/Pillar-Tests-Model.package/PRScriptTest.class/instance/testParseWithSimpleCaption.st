@@ -1,7 +1,7 @@
 tests-parsing
 testParseWithSimpleCaption
   | wiki text tree nLine |
-  nLine := GRPlatform current newline.
+  nLine := OSPlatform current lineEnding.
   wiki := '[[[caption=foo' , nLine , 'foo' , nLine , ']]]'.
   text := 'foo'.
   tree := PRDocument new

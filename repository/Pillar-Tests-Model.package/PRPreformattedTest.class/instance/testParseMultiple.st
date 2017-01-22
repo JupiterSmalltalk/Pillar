@@ -1,7 +1,7 @@
 tests-parsing
 testParseMultiple
   | wiki text tree nLine |
-  nLine := GRPlatform current newline.
+  nLine := OSPlatform current lineEnding.
   wiki := '= line 1.1' , nLine , '= line 1.2' , nLine , nLine , '= line 2.1'.
   text := 'line 1.1' , nLine , 'line 1.2' , nLine , nLine , 'line 2.1'.
   tree := PRDocument new

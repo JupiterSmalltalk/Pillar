@@ -1,7 +1,7 @@
 tests
 testParseBug
   | wiki1 wiki2 tree nLine |
-  nLine := GRPlatform current newline.
+  nLine := OSPlatform current lineEnding.
   wiki1 := '::1' , nLine , '::-2'.
   wiki2 := ':' , nLine , '::1' , nLine , '::-2'.
   tree := PRDocument new

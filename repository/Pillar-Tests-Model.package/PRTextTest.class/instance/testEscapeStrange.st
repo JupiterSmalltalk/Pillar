@@ -1,7 +1,7 @@
 tests-parsing
 testEscapeStrange
   | wiki tree |
-  wiki := '< text' , GRPlatform current newline , '> text'.
+  wiki := '< text' , OSPlatform current lineEnding , '> text'.
   tree := PRDocument new
     add:
         (PRParagraph new

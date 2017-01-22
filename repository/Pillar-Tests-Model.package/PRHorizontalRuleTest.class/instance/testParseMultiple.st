@@ -1,7 +1,7 @@
 tests-parsing
 testParseMultiple
   | wiki text tree nLine |
-  nLine := GRPlatform current newline.
+  nLine := OSPlatform current lineEnding.
   wiki := '_' , nLine , '_' , nLine , nLine , '_'.
   text := self textString , nLine , self textString , nLine , nLine
     , self textString.

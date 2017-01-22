@@ -1,7 +1,7 @@
 tests-parsing
 testParseTwoLines
   | wiki text tree |
-  wiki := 'Lorem ipsum dolor sit amet.' , GRPlatform current newline
+  wiki := 'Lorem ipsum dolor sit amet.' , OSPlatform current lineEnding
     , 'Nulla quis urna.'.
   text := wiki.
   tree := PRDocument new

@@ -4,8 +4,8 @@ middleCode
   code := String new writeStream.
   code
     nextPutAll: '|test|';
-    nextPutAll: GRPlatform current newline;
+    nextPutAll: OSPlatform current lineEnding;
     nextPutAll: 'test := 1.';
-    nextPutAll: GRPlatform current newline;
+    nextPutAll: OSPlatform current lineEnding;
     nextPutAll: 'test := 1+1'.
   ^ code contents

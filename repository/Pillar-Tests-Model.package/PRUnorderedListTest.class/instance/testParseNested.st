@@ -1,7 +1,7 @@
 tests-parsing
 testParseNested
   | wiki text tree nLine |
-  nLine := GRPlatform current newline.
+  nLine := OSPlatform current lineEnding.
   wiki := self wikiString , '1' , nLine , self wikiString , self wikiString
     , '1.1' , nLine , self wikiString , self wikiString , self wikiString
     , '1.1.1'.

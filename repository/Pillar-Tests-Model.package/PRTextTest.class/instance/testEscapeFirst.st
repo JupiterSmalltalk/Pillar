@@ -1,7 +1,7 @@
 tests-parsing
 testEscapeFirst
   | wiki tree nLine |
-  nLine := GRPlatform current newline.
+  nLine := OSPlatform current lineEnding.
   wiki := '\* text' , nLine , '\+ text' , nLine , '\= text' , nLine , '\@ text'
     , nLine , '\! text' , nLine , '\| text' , nLine , '\# text' , nLine
     , '\- text'.

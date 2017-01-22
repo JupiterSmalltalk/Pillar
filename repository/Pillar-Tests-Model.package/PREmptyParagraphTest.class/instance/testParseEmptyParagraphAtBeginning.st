@@ -2,7 +2,7 @@ tests
 testParseEmptyParagraphAtBeginning
   | wiki text tree content |
   content := 'Lorem ipsum dolor sit amet.'.
-  wiki := GRPlatform current newline , content.
+  wiki := OSPlatform current lineEnding , content.
   text := wiki.
   tree := PRDocument new
     add: PREmptyParagraph new;

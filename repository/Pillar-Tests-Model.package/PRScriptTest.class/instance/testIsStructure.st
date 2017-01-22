@@ -1,7 +1,7 @@
 tests
 testIsStructure
   | ston nLine script |
-  nLine := GRPlatform current newline.
+  nLine := OSPlatform current lineEnding.
   ston := '[[[structure=Test' , nLine , 'Foo' , nLine , ']]]'.
   script := (self parser parse: ston) children first.
   self assert: script isStructure

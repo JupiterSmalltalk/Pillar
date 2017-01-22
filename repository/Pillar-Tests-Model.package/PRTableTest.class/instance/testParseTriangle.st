@@ -1,7 +1,7 @@
 tests-parsing
 testParseTriangle
   | wiki text tree nLine |
-  nLine := GRPlatform current newline.
+  nLine := OSPlatform current lineEnding.
   wiki := '|a11' , nLine , '|a21|a22' , nLine , '|a31|a32|a33'.
   text := 'a11' , nLine , 'a21	a22' , nLine , 'a31	a32	a33'.
   tree := PRDocument new

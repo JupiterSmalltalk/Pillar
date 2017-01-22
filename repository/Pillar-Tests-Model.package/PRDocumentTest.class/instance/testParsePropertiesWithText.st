@@ -1,7 +1,7 @@
 tests-parsing
 testParsePropertiesWithText
   | wiki text tree document |
-  wiki := '{''title'':''The title''}' , GRPlatform current newline , 'foobar'.
+  wiki := '{''title'':''The title''}' , OSPlatform current lineEnding , 'foobar'.
   text := 'foobar'.
   tree := PRDocument new
     propertyAt: 'title' put: 'The title';

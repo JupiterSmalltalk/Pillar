@@ -1,7 +1,7 @@
 tests-parsing
 testParseDontInterruptLists
   | wiki text tree nLine |
-  nLine := GRPlatform current newline.
+  nLine := OSPlatform current lineEnding.
   wiki := '#item one' , nLine , '##item one-point-one' , nLine , '%comment'
     , nLine , '##item one-point-two'.
   text := '1. item one' , nLine , '	1. item one-point-one' , nLine

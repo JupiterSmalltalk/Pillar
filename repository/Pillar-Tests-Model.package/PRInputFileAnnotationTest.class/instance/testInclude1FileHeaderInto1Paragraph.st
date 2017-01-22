@@ -1,7 +1,7 @@
 tests
 testInclude1FileHeaderInto1Paragraph
   | wiki wikiTransform text tree nLine |
-  nLine := GRPlatform current newline.
+  nLine := OSPlatform current lineEnding.
   wiki := 'Foo ${inputFile:foo.pillar}$'.
   wikiTransform := 'Foo !!Hello World' , nLine.
   text := 'Foo Hello World' , nLine.

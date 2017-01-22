@@ -1,7 +1,7 @@
 tests-parsing
 testParseEmptyLineAtBeginning
   | wiki text tree |
-  wiki := '' , GRPlatform current newline , 'Lorem ipsum dolor sit amet.'.
+  wiki := '' , OSPlatform current lineEnding , 'Lorem ipsum dolor sit amet.'.
   text := wiki.
   tree := PRDocument new
     add: PREmptyParagraph new;

@@ -2,5 +2,5 @@ as yet unclassified
 configuration
   ^ super configuration
     baseDirectory: baseDirectory;
-    newLine: GRPlatform current newline;
+    newLine: OSPlatform current lineEnding;
     yourself

@@ -1,7 +1,7 @@
 tests
 testParseMixed
   | wiki tree nLine |
-  nLine := GRPlatform current newline.
+  nLine := OSPlatform current lineEnding.
   wiki := ';1' , nLine , ';2' , nLine , ':3' , nLine , ':4'.
   tree := PRDocument new
     add:

@@ -1,7 +1,7 @@
 tests-parsing
 testParseRealLanguage
   | wiki text tree nLine |
-  nLine := GRPlatform current newline.
+  nLine := OSPlatform current lineEnding.
   wiki := '[[[language=smalltalk' , nLine , 'foo' , nLine , ']]]'.
   text := 'foo'.
   tree := PRDocument new
