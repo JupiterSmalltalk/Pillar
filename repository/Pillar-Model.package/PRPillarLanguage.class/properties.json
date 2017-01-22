@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "",
-	"super" : "PRRealScriptLanguage",
 	"category" : "Pillar-Model-ScriptLanguage",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
 	"name" : "PRPillarLanguage",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "PRRealScriptLanguage",
+	"type" : "normal" }

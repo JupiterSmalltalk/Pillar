@@ -1,3 +1,3 @@
 requirements
 level2HeaderBegin
-	^ self subclassResponsibility 
+	^ self subclassResponsibility

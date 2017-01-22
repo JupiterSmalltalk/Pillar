@@ -1,3 +1,3 @@
 requirements
 figureAnchorForPierLogo
-	^ self subclassResponsibility 
+	^ self subclassResponsibility

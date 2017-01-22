@@ -1,12 +1,11 @@
 {
+	"class" : {
+		 },
 	"instance" : {
+		"actualClass" : "CyrilFerlicot 6/3/2015 10:04",
 		"testTransformWithChangedMaxDepthLevel" : "DamienCassou 6/20/2016 14:26",
 		"testTransformWithOneSection" : "DamienCassou 6/20/2016 14:27",
 		"testTransformWithParagraphBeforeSection" : "DamienCassou 6/20/2016 14:27",
-		"testTransformationKeepSameContent" : "DamienCassou 6/20/2016 14:29",
 		"testTransformWithTwoSections" : "DamienCassou 6/20/2016 14:28",
-		"actualClass" : "CyrilFerlicot 6/3/2015 10:04",
-		"testTransformWithoutSection" : "DamienCassou 6/20/2016 14:28"
-	},
-	"class" : { }
-}
+		"testTransformWithoutSection" : "DamienCassou 6/20/2016 14:28",
+		"testTransformationKeepSameContent" : "DamienCassou 6/20/2016 14:29" } }

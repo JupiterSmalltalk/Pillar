@@ -1,24 +1,21 @@
 {
+	"class" : {
+		"isValidReference:" : "CyrilFerlicot 10/29/2015 21:19",
+		"localFileOrExternalReference:" : "LukasKomarek 4/21/2016 14:58",
+		"reference:" : "CyrilFerlicot 4/28/2015 13:00" },
 	"instance" : {
-		"localFileOrExternalReference" : "LukasKomarek 4/21/2016 14:58",
-		"text" : "CyrilFerlicot 4/28/2015 13:06",
-		"parameters" : "CyrilFerlicot 4/28/2015 11:11",
-		"hasAlias" : "CyrilFerlicot 4/28/2015 13:07",
-		"reference" : "CyrilFerlicot 4/28/2015 13:11",
-		"hasAnchor" : "CyrilFerlicot 4/28/2015 13:06",
-		"title" : "CyrilFerlicot 4/28/2015 13:11",
 		"=" : "CyrilFerlicot 9/8/2015 18:46",
+		"accept:" : "CyrilFerlicot 4/28/2015 14:27",
+		"alias" : "CyrilFerlicot 4/28/2015 13:07",
+		"hasAlias" : "CyrilFerlicot 4/28/2015 13:07",
+		"hasAnchor" : "CyrilFerlicot 4/28/2015 13:06",
+		"hash" : "CyrilFerlicot 9/8/2015 18:46",
+		"initialize" : "jupiter 01/21/2017 20:37",
+		"localFileOrExternalReference" : "LukasKomarek 4/21/2016 14:58",
+		"parameters" : "CyrilFerlicot 4/28/2015 11:11",
 		"parameters:" : "CyrilFerlicot 7/1/2015 13:37",
 		"postCopy" : "CyrilFerlicot 4/28/2015 13:10",
-		"initialize" : "YannDubois 5/2/2016 14:10",
+		"reference" : "CyrilFerlicot 4/28/2015 13:11",
 		"reference:" : "CyrilFerlicot 4/28/2015 13:11",
-		"hash" : "CyrilFerlicot 9/8/2015 18:46",
-		"alias" : "CyrilFerlicot 4/28/2015 13:07",
-		"accept:" : "CyrilFerlicot 4/28/2015 14:27"
-	},
-	"class" : {
-		"localFileOrExternalReference:" : "LukasKomarek 4/21/2016 14:58",
-		"reference:" : "CyrilFerlicot 4/28/2015 13:00",
-		"isValidReference:" : "CyrilFerlicot 10/29/2015 21:19"
-	}
-}
+		"text" : "CyrilFerlicot 4/28/2015 13:06",
+		"title" : "CyrilFerlicot 4/28/2015 13:11" } }

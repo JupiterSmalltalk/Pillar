@@ -1,7 +1,6 @@
 {
-	"instance" : { },
 	"class" : {
-		"standardName" : "DamienCassou 1/14/2014 15:42",
-		"isAbstract" : "DamienCassou 1/14/2014 15:41"
-	}
-}
+		"isAbstract" : "DamienCassou 1/14/2014 15:41",
+		"standardName" : "DamienCassou 1/14/2014 15:42" },
+	"instance" : {
+		 } }

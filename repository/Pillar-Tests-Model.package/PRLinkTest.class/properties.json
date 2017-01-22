@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "",
-	"super" : "PRReferenceTest",
 	"category" : "Pillar-Tests-Model-Document",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
 	"name" : "PRLinkTest",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "PRReferenceTest",
+	"type" : "normal" }

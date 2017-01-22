@@ -1,3 +1,3 @@
 rendering
 renderFor: aStructure
-	^ self subclassResponsibility 
+	^ self subclassResponsibility

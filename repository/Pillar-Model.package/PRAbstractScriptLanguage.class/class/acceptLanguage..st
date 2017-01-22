@@ -1,3 +1,3 @@
 protected
 acceptLanguage: aLanguageName
-	^ aLanguageName matchesRegexIgnoringCase: self acceptedLanguagesRegex 
+	^ aLanguageName matchesRegexIgnoringCase: self acceptedLanguagesRegex

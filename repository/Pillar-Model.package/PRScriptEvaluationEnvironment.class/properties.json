@@ -1,13 +1,14 @@
 {
-	"commentStamp" : "TorstenBergmann 3/5/2015 22:02",
-	"super" : "Object",
 	"category" : "Pillar-Model-Visitor",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "TorstenBergmann 3/5/2015 22:02",
 	"instvars" : [
-		"stream"
-	],
+		"stream" ],
 	"name" : "PRScriptEvaluationEnvironment",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,14 +1,11 @@
 {
+	"class" : {
+		"isAbstract" : "lr 3/9/2006 11:30",
+		"withAll:level:" : "lr 3/9/2006 11:30" },
 	"instance" : {
-		"level" : "lr 3/9/2006 11:29",
 		"=" : "lr 3/9/2006 11:29",
+		"accept:" : "lr 3/30/2007 20:01",
 		"hash" : "lr 3/9/2006 11:29",
 		"isHeader" : "CyrilFerlicot 5/23/2015 20:08",
-		"level:" : "lr 3/9/2006 11:29",
-		"accept:" : "lr 3/30/2007 20:01"
-	},
-	"class" : {
-		"withAll:level:" : "lr 3/9/2006 11:30",
-		"isAbstract" : "lr 3/9/2006 11:30"
-	}
-}
+		"level" : "lr 3/9/2006 11:29",
+		"level:" : "lr 3/9/2006 11:29" } }

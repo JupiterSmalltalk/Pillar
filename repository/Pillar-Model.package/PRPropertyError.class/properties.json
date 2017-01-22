@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "TorstenBergmann 3/5/2015 22:09",
-	"super" : "PRError",
 	"category" : "Pillar-Model-Exceptions",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "TorstenBergmann 3/5/2015 22:09",
+	"instvars" : [
+		 ],
 	"name" : "PRPropertyError",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "PRError",
+	"type" : "normal" }

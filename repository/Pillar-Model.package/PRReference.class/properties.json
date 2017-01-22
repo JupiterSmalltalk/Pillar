@@ -1,14 +1,15 @@
 {
-	"commentStamp" : "CyrilFerlicot 4/28/2015 10:49",
-	"super" : "PRDocumentGroup",
 	"category" : "Pillar-Model-Document",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "CyrilFerlicot 4/28/2015 10:49",
 	"instvars" : [
 		"reference",
-		"parameters"
-	],
+		"parameters" ],
 	"name" : "PRReference",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "PRDocumentGroup",
+	"type" : "normal" }

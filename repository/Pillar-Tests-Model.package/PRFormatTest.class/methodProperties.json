@@ -1,19 +1,16 @@
 {
+	"class" : {
+		"isAbstract" : "lr 3/30/2007 22:22" },
 	"instance" : {
-		"testParseIncomplete" : "CyrilFerlicot 9/10/2015 00:16",
-		"testParseBasic" : "CyrilFerlicot 8/19/2015 14:31",
-		"testParseNestedTight" : "CyrilFerlicot 8/19/2015 14:32",
-		"testParseWithSpace" : "DamienCassou 8/24/2015 17:12",
-		"otherClass" : "lr 4/5/2007 16:08",
-		"testParseNested" : "CyrilFerlicot 8/19/2015 14:32",
 		"actualClass" : "lr 3/30/2007 22:22",
+		"otherClass" : "lr 4/5/2007 16:08",
+		"setUp" : "CyrilFerlicot 8/19/2015 14:30",
+		"testParseBasic" : "CyrilFerlicot 8/19/2015 14:31",
 		"testParseEnd" : "CyrilFerlicot 8/19/2015 14:31",
 		"testParseEscaped" : "CyrilFerlicot 9/10/2015 00:16",
+		"testParseIncomplete" : "CyrilFerlicot 9/10/2015 00:16",
 		"testParseMany" : "CyrilFerlicot 8/19/2015 14:32",
+		"testParseNested" : "CyrilFerlicot 8/19/2015 14:32",
+		"testParseNestedTight" : "CyrilFerlicot 8/19/2015 14:32",
 		"testParseWithNewLine" : "DamienCassou 8/24/2015 17:19",
-		"setUp" : "CyrilFerlicot 8/19/2015 14:30"
-	},
-	"class" : {
-		"isAbstract" : "lr 3/30/2007 22:22"
-	}
-}
+		"testParseWithSpace" : "DamienCassou 8/24/2015 17:12" } }

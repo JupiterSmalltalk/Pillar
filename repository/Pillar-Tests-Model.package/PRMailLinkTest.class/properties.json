@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "",
-	"super" : "PRExternalLinkTest",
 	"category" : "Pillar-Tests-Model-Document",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
 	"name" : "PRMailLinkTest",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "PRExternalLinkTest",
+	"type" : "normal" }

@@ -1,11 +1,8 @@
 {
+	"class" : {
+		"isAbstract" : "CyrilFerlicot 6/18/2015 10:38",
+		"width:" : "CyrilFerlicot 6/18/2015 14:13" },
 	"instance" : {
 		"accept:" : "CyrilFerlicot 6/18/2015 10:39",
-		"width:" : "CyrilFerlicot 6/18/2015 14:13",
-		"width" : "CyrilFerlicot 6/18/2015 14:13"
-	},
-	"class" : {
-		"width:" : "CyrilFerlicot 6/18/2015 14:13",
-		"isAbstract" : "CyrilFerlicot 6/18/2015 10:38"
-	}
-}
+		"width" : "CyrilFerlicot 6/18/2015 14:13",
+		"width:" : "CyrilFerlicot 6/18/2015 14:13" } }

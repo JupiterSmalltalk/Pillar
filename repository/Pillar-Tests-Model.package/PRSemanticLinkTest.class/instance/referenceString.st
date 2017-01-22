@@ -1,3 +1,3 @@
 private
 referenceString
-	self subclassResponsibility 
+	self subclassResponsibility

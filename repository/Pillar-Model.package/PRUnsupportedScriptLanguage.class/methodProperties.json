@@ -1,9 +1,6 @@
 {
-	"instance" : {
-		"isSpecified" : "DamienCassou 1/10/2014 16:55"
-	},
 	"class" : {
-		"isAbstract" : "DamienCassou 1/10/2014 15:39",
-		"default" : "DamienCassou 2/5/2014 12:44"
-	}
-}
+		"default" : "DamienCassou 2/5/2014 12:44",
+		"isAbstract" : "DamienCassou 1/10/2014 15:39" },
+	"instance" : {
+		"isSpecified" : "DamienCassou 1/10/2014 16:55" } }

@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "lr 5/28/2006 21:02",
-	"super" : "PRReference",
 	"category" : "Pillar-Model-Document",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "lr 5/28/2006 21:02",
+	"instvars" : [
+		 ],
 	"name" : "PRLink",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "PRReference",
+	"type" : "normal" }

@@ -1,3 +1,3 @@
 private
 actualClass
-	^ PRJavaScriptScriptLanguage 
+	^ PRJavaScriptScriptLanguage

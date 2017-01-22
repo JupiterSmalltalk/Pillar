@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "DamienCassou 2/28/2014 09:39",
-	"super" : "Object",
 	"category" : "Pillar-Model-Core",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "DamienCassou 2/28/2014 09:39",
+	"instvars" : [
+		 ],
 	"name" : "PRBasicObject",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

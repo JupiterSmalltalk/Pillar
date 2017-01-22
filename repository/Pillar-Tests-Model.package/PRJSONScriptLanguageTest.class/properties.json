@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "",
-	"super" : "PRAbstractScriptLanguageTest",
 	"category" : "Pillar-Tests-Model-ScriptLanguage",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
 	"name" : "PRJSONScriptLanguageTest",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "PRAbstractScriptLanguageTest",
+	"type" : "normal" }

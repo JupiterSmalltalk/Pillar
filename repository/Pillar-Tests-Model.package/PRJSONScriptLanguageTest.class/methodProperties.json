@@ -1,8 +1,5 @@
 {
-	"instance" : {
-		"actualClass" : "CyrilFerlicot 4/8/2015 11:01"
-	},
 	"class" : {
-		"isAbstract" : "CyrilFerlicot 4/8/2015 11:01"
-	}
-}
+		"isAbstract" : "CyrilFerlicot 4/8/2015 11:01" },
+	"instance" : {
+		"actualClass" : "CyrilFerlicot 4/8/2015 11:01" } }

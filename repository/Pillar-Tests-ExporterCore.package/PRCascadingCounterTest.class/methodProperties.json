@@ -1,9 +1,8 @@
 {
+	"class" : {
+		 },
 	"instance" : {
 		"packageNamesUnderTest" : "DamienCassou 1/15/2014 16:10",
 		"testElementsForNonSimpleCounter" : "DamienCassou 11/21/2013 13:00",
 		"testElementsForSimpleCounter" : "DamienCassou 11/21/2013 12:59",
-		"testIsValidCounter" : "CyrilFerlicot 5/20/2015 15:08"
-	},
-	"class" : { }
-}
+		"testIsValidCounter" : "CyrilFerlicot 5/20/2015 15:08" } }

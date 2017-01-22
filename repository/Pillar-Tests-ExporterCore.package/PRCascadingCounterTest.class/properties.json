@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "DamienCassou 2/28/2014 09:36",
-	"super" : "TestCase",
 	"category" : "Pillar-Tests-ExporterCore",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "DamienCassou 2/28/2014 09:36",
+	"instvars" : [
+		 ],
 	"name" : "PRCascadingCounterTest",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

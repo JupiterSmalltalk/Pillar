@@ -1,19 +1,16 @@
 {
+	"class" : {
+		"writeDictionary:for:" : "CyrilFerlicot 6/30/2015 14:50" },
 	"instance" : {
-		"visitBooleanDescription:" : "CyrilFerlicot 6/30/2015 16:18",
-		"write:" : "CyrilFerlicot 7/1/2015 10:54",
-		"interpretAsBoolean:with:" : "CyrilFerlicot 7/1/2015 09:56",
-		"visitElementDescription:" : "CyrilFerlicot 6/30/2015 15:08",
-		"raiseWarningIfTooManyParameters" : "CyrilFerlicot 6/30/2015 14:57",
 		"checkRequired:with:" : "CyrilFerlicot 7/1/2015 10:10",
 		"class:" : "CyrilFerlicot 6/30/2015 14:46",
-		"tryToAddFrom:withInterpretation:" : "MartinDias 7/3/2015 12:19",
+		"interpretAsBoolean:with:" : "CyrilFerlicot 7/1/2015 09:56",
+		"interpretAsNumber:with:" : "CyrilFerlicot 6/30/2015 15:37",
+		"raiseWarningIfTooManyParameters" : "CyrilFerlicot 6/30/2015 14:57",
 		"sortDescriptions" : "CyrilFerlicot 7/1/2015 10:59",
+		"tryToAddFrom:withInterpretation:" : "MartinDias 7/3/2015 12:19",
+		"visitBooleanDescription:" : "CyrilFerlicot 6/30/2015 16:18",
+		"visitElementDescription:" : "CyrilFerlicot 6/30/2015 15:08",
 		"visitNumberDescription:" : "CyrilFerlicot 6/30/2015 15:37",
 		"visitPathDescription:" : "CyrilFerlicot 6/30/2015 15:17",
-		"interpretAsNumber:with:" : "CyrilFerlicot 6/30/2015 15:37"
-	},
-	"class" : {
-		"writeDictionary:for:" : "CyrilFerlicot 6/30/2015 14:50"
-	}
-}
+		"write:" : "CyrilFerlicot 7/1/2015 10:54" } }

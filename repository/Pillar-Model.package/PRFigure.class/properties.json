@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "DamienCassou 9/6/2015 10:27",
-	"super" : "PRReference",
 	"category" : "Pillar-Model-Document",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "DamienCassou 9/6/2015 10:27",
+	"instvars" : [
+		 ],
 	"name" : "PRFigure",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "PRReference",
+	"type" : "normal" }

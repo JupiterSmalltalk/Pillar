@@ -1,3 +1,3 @@
 requirement
 actualClass
-	^ PRLevelNumberConfiguration 
+	^ PRLevelNumberConfiguration

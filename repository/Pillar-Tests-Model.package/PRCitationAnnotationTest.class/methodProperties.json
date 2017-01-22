@@ -1,8 +1,7 @@
 {
+	"class" : {
+		 },
 	"instance" : {
-		"referenceParameters" : "ThibaultArloing 5/3/2016 15:55",
-		"referenceString" : "ThibaultArloing 5/3/2016 15:55",
-		"actualClass" : "ThibaultArloing 5/3/2016 15:54"
-	},
-	"class" : { }
-}
+		"actualClass" : "ThibaultArloing 5/3/2016 15:54",
+		"referenceParameters" : "jupiter 01/21/2017 20:35",
+		"referenceString" : "ThibaultArloing 5/3/2016 15:55" } }

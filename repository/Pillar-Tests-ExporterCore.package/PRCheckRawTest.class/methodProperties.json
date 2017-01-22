@@ -1,8 +1,7 @@
 {
+	"class" : {
+		 },
 	"instance" : {
-		"testCheckRawWithWrongType" : "YannDubois 7/13/2016 16:05",
+		"actualClass" : "YannDubois 5/24/2016 11:17",
 		"testCheckRawWithGoodType" : "AutoDeprecationRefactoring 7/18/2016 14:18",
-		"actualClass" : "YannDubois 5/24/2016 11:17"
-	},
-	"class" : { }
-}
+		"testCheckRawWithWrongType" : "YannDubois 7/13/2016 16:05" } }

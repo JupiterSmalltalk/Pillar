@@ -1,13 +1,14 @@
 {
-	"commentStamp" : "<historical>",
-	"super" : "PRText",
 	"category" : "Pillar-Model-Document",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
 	"instvars" : [
-		"type"
-	],
+		"type" ],
 	"name" : "PRRaw",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "PRText",
+	"type" : "normal" }

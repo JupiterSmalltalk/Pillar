@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "<historical>",
-	"super" : "PRObject",
 	"category" : "Pillar-Model-Render",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
 	"name" : "PRStructureRenderer",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "PRObject",
+	"type" : "normal" }

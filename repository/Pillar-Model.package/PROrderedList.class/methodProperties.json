@@ -1,8 +1,5 @@
 {
-	"instance" : {
-		"accept:" : "lr 12/30/2007 19:31"
-	},
 	"class" : {
-		"isAbstract" : "lr 3/9/2006 11:30"
-	}
-}
+		"isAbstract" : "lr 3/9/2006 11:30" },
+	"instance" : {
+		"accept:" : "lr 12/30/2007 19:31" } }

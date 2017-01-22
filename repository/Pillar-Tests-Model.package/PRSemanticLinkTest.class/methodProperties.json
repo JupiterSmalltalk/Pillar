@@ -1,14 +1,11 @@
 {
+	"class" : {
+		"isAbstract" : "LukasKomarek 4/21/2016 16:01" },
 	"instance" : {
 		"expectedUrlForReferenceString" : "LukasKomarek 4/28/2016 12:15",
-		"testTitle" : "LukasKomarek 4/28/2016 12:07",
-		"testLinkToAFigureIsExternalLink" : "LukasKomarek 4/28/2016 12:05",
-		"simpleReferenceString" : "LukasKomarek 4/28/2016 12:16",
+		"expectedUrlForSimpleReferenceString" : "LukasKomarek 4/28/2016 12:16",
 		"referenceString" : "LukasKomarek 4/28/2016 12:16",
-		"testUrl" : "LukasKomarek 4/28/2016 12:11",
-		"expectedUrlForSimpleReferenceString" : "LukasKomarek 4/28/2016 12:16"
-	},
-	"class" : {
-		"isAbstract" : "LukasKomarek 4/21/2016 16:01"
-	}
-}
+		"simpleReferenceString" : "LukasKomarek 4/28/2016 12:16",
+		"testLinkToAFigureIsExternalLink" : "LukasKomarek 4/28/2016 12:05",
+		"testTitle" : "LukasKomarek 4/28/2016 12:07",
+		"testUrl" : "LukasKomarek 4/28/2016 12:11" } }

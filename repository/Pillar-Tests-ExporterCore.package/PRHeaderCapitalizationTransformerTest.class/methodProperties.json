@@ -1,19 +1,18 @@
 {
+	"class" : {
+		 },
 	"instance" : {
-		"testCapitalizeHeader" : "YannDubois 5/23/2016 10:56",
-		"testUpperCaseCapitalization" : "ThibaultArloing 4/6/2016 15:14",
-		"testCapitalizeCapitalization" : "ThibaultArloing 4/6/2016 15:16",
-		"testTemplateForDefaultValueForCapitalization:" : "DamienCassou 6/20/2016 14:11",
-		"addHeader:ofLevel:to:" : "CyrilFerlicot 5/29/2016 00:55",
 		"actualClass" : "ThibaultArloing 4/6/2016 14:52",
-		"testNotUnderstandCapitalizationType" : "ThibaultArloing 4/8/2016 10:51",
-		"testCapitalizeEnglishCapitalization" : "ThibaultArloing 4/8/2016 14:54",
+		"addHeader:ofLevel:to:" : "CyrilFerlicot 5/29/2016 00:55",
+		"testCapitalizeCapitalization" : "ThibaultArloing 4/6/2016 15:16",
 		"testCapitalizeEnglish" : "YannDubois 5/23/2016 10:56",
-		"testTemplateForCapitalizationHeaderWithBold:text:expected:" : "DamienCassou 6/20/2016 14:10",
-		"testLowerCaseCapitalization" : "ThibaultArloing 4/6/2016 15:15",
+		"testCapitalizeEnglishCapitalization" : "ThibaultArloing 4/8/2016 14:54",
+		"testCapitalizeHeader" : "YannDubois 5/23/2016 10:56",
 		"testCapitalizeHeaderShouldntCapitalizeAllText" : "DamienCassou 7/13/2016 15:39",
+		"testDefaultValueForCapitalization" : "ThibaultArloing 4/7/2016 08:50",
+		"testLowerCaseCapitalization" : "ThibaultArloing 4/6/2016 15:15",
+		"testNotUnderstandCapitalizationType" : "ThibaultArloing 4/8/2016 10:51",
 		"testTemplateForCapitalizationHeader:text:expected:" : "DamienCassou 6/20/2016 14:10",
-		"testDefaultValueForCapitalization" : "ThibaultArloing 4/7/2016 08:50"
-	},
-	"class" : { }
-}
+		"testTemplateForCapitalizationHeaderWithBold:text:expected:" : "DamienCassou 6/20/2016 14:10",
+		"testTemplateForDefaultValueForCapitalization:" : "DamienCassou 6/20/2016 14:11",
+		"testUpperCaseCapitalization" : "ThibaultArloing 4/6/2016 15:14" } }

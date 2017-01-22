@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "DamienCassou 7/21/2016 11:27",
-	"super" : "PRPipelineTest",
 	"category" : "Pillar-Tests-ExporterCore",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "DamienCassou 7/21/2016 11:27",
+	"instvars" : [
+		 ],
 	"name" : "PRTransformPipelineTest",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "PRPipelineTest",
+	"type" : "normal" }

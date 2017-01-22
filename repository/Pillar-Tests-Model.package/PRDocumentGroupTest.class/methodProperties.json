@@ -1,16 +1,13 @@
 {
+	"class" : {
+		"isAbstract" : "lr 3/30/2007 22:22" },
 	"instance" : {
+		"actualClass" : "lr 3/30/2007 22:22",
 		"testAdd" : "lr 3/9/2006 11:31",
-		"testHasChildren" : "lr 3/20/2006 19:08",
 		"testAddAll" : "lr 3/9/2006 11:31",
 		"testCopyChildren" : "lr 3/9/2006 11:31",
-		"actualClass" : "lr 3/30/2007 22:22",
+		"testHasChildren" : "lr 3/20/2006 19:08",
 		"testSize" : "lr 3/30/2009 21:55",
 		"testText" : "lr 3/9/2006 11:31",
 		"testWith" : "lr 3/9/2006 11:31",
-		"testWithAll" : "lr 3/9/2006 11:31"
-	},
-	"class" : {
-		"isAbstract" : "lr 3/30/2007 22:22"
-	}
-}
+		"testWithAll" : "lr 3/9/2006 11:31" } }

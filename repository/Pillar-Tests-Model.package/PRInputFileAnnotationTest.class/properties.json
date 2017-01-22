@@ -1,13 +1,14 @@
 {
-	"commentStamp" : "",
-	"super" : "PRAbstractAnnotationTest",
 	"category" : "Pillar-Tests-Model-Document",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
 	"instvars" : [
-		"directory"
-	],
+		"directory" ],
 	"name" : "PRInputFileAnnotationTest",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "PRAbstractAnnotationTest",
+	"type" : "normal" }

@@ -1,12 +1,9 @@
 {
-	"instance" : {
-		"textString:level:" : "lr 12/20/2007 23:20",
-		"wikiString" : "lr 2/7/2007 16:23",
-		"testParseNested" : "CyrilFerlicot 5/23/2015 19:19",
-		"testParseMixed" : "CyrilFerlicot 5/23/2015 19:19",
-		"actualClass" : "lr 3/30/2007 22:22"
-	},
 	"class" : {
-		"isAbstract" : "lr 3/30/2007 22:22"
-	}
-}
+		"isAbstract" : "lr 3/30/2007 22:22" },
+	"instance" : {
+		"actualClass" : "lr 3/30/2007 22:22",
+		"testParseMixed" : "CyrilFerlicot 5/23/2015 19:19",
+		"testParseNested" : "CyrilFerlicot 5/23/2015 19:19",
+		"textString:level:" : "lr 12/20/2007 23:20",
+		"wikiString" : "lr 2/7/2007 16:23" } }

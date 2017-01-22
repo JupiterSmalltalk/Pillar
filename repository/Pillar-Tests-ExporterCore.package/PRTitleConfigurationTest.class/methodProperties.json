@@ -1,23 +1,20 @@
 {
-	"instance" : {
-		"counterLevel3" : "CyrilFerlicot 5/17/2015 18:56",
-		"newDefaultConfiguration" : "CyrilFerlicot 5/18/2015 15:01",
-		"testPrintElement" : "CyrilFerlicot 5/18/2015 15:11",
-		"addHeader:ofLevel:to:" : "CyrilFerlicot 5/29/2016 00:55",
-		"testSizeIsNotTheFullSizePossible" : "CyrilFerlicot 10/29/2015 22:00",
-		"testEquals" : "CyrilFerlicot 10/29/2015 22:00",
-		"actualClass" : "ThibaultArloing 4/6/2016 15:43",
-		"representationOf27" : "CyrilFerlicot 5/18/2015 15:10",
-		"testSize" : "ThibaultArloing 4/6/2016 09:19",
-		"testCounter" : "CyrilFerlicot 10/29/2015 22:00",
-		"defaultDictionary" : "CyrilFerlicot 5/17/2015 17:46",
-		"testSizeWhenNumeratingIsFalse" : "ThibaultArloing 4/6/2016 15:43",
-		"representationOfOne" : "CyrilFerlicot 5/18/2015 15:03",
-		"testHash" : "CyrilFerlicot 5/17/2015 17:54",
-		"representationOf26" : "CyrilFerlicot 5/18/2015 15:10",
-		"testSizeHigherThanThePossible" : "CyrilFerlicot 10/29/2015 22:00"
-	},
 	"class" : {
-		"isAbstract" : "ThibaultArloing 4/6/2016 15:52"
-	}
-}
+		"isAbstract" : "ThibaultArloing 4/6/2016 15:52" },
+	"instance" : {
+		"actualClass" : "ThibaultArloing 4/6/2016 15:43",
+		"addHeader:ofLevel:to:" : "CyrilFerlicot 5/29/2016 00:55",
+		"counterLevel3" : "CyrilFerlicot 5/17/2015 18:56",
+		"defaultDictionary" : "CyrilFerlicot 5/17/2015 17:46",
+		"newDefaultConfiguration" : "CyrilFerlicot 5/18/2015 15:01",
+		"representationOf26" : "CyrilFerlicot 5/18/2015 15:10",
+		"representationOf27" : "CyrilFerlicot 5/18/2015 15:10",
+		"representationOfOne" : "CyrilFerlicot 5/18/2015 15:03",
+		"testCounter" : "CyrilFerlicot 10/29/2015 22:00",
+		"testEquals" : "CyrilFerlicot 10/29/2015 22:00",
+		"testHash" : "CyrilFerlicot 5/17/2015 17:54",
+		"testPrintElement" : "CyrilFerlicot 5/18/2015 15:11",
+		"testSize" : "ThibaultArloing 4/6/2016 09:19",
+		"testSizeHigherThanThePossible" : "CyrilFerlicot 10/29/2015 22:00",
+		"testSizeIsNotTheFullSizePossible" : "CyrilFerlicot 10/29/2015 22:00",
+		"testSizeWhenNumeratingIsFalse" : "ThibaultArloing 4/6/2016 15:43" } }

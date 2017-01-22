@@ -1,13 +1,14 @@
 {
-	"commentStamp" : "lr 5/28/2006 20:58",
-	"super" : "PRDocumentItem",
 	"category" : "Pillar-Model-Document",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "lr 5/28/2006 20:58",
 	"instvars" : [
-		"text"
-	],
+		"text" ],
 	"name" : "PRText",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "PRDocumentItem",
+	"type" : "normal" }

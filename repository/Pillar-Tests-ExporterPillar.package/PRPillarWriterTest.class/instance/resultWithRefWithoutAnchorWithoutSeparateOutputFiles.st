@@ -1,3 +1,3 @@
 requirement-InternalLinks
 resultWithRefWithoutAnchorWithoutSeparateOutputFiles
-	^ self resultWithRefWithoutAnchorWithSeparateOutputFiles 
+	^ self resultWithRefWithoutAnchorWithSeparateOutputFiles

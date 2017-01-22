@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "DamienCassou 2/28/2014 09:34",
-	"super" : "PRDocumentWriterTest",
 	"category" : "Pillar-Tests-ExporterCore",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "DamienCassou 2/28/2014 09:34",
+	"instvars" : [
+		 ],
 	"name" : "PRManualNumberingWriterTest",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "PRDocumentWriterTest",
+	"type" : "normal" }

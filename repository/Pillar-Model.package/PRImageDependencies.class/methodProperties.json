@@ -1,8 +1,5 @@
 {
-	"instance" : {
-		"visitFigure:" : "YannDubois 4/26/2016 15:09"
-	},
 	"class" : {
-		"isAbstract" : "YannDubois 4/25/2016 13:06"
-	}
-}
+		"isAbstract" : "YannDubois 4/25/2016 13:06" },
+	"instance" : {
+		"visitFigure:" : "YannDubois 4/26/2016 15:09" } }

@@ -1,3 +1,5 @@
 accessing
 defaultMarkups
-	^ self textMarkups , self lineMarkups
+  ^ self textMarkups
+    addAll: self lineMarkups associations;
+    yourself

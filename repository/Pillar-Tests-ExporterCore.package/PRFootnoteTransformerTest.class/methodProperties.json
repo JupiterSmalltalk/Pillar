@@ -1,8 +1,7 @@
 {
+	"class" : {
+		 },
 	"instance" : {
+		"actualClass" : "YannDubois 5/3/2016 10:33",
 		"testTransformationFootnoteWithList" : "DamienCassou 6/20/2016 14:07",
-		"testTransformationFootnoteWithParagraph" : "DamienCassou 6/20/2016 14:08",
-		"actualClass" : "YannDubois 5/3/2016 10:33"
-	},
-	"class" : { }
-}
+		"testTransformationFootnoteWithParagraph" : "DamienCassou 6/20/2016 14:08" } }

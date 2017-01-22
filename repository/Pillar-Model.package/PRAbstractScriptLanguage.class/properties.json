@@ -1,13 +1,14 @@
 {
-	"commentStamp" : "DamienCassou 2/28/2014 09:41",
-	"super" : "PRObject",
 	"category" : "Pillar-Model-ScriptLanguage",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "DamienCassou 2/28/2014 09:41",
 	"instvars" : [
-		"originalName"
-	],
+		"originalName" ],
 	"name" : "PRAbstractScriptLanguage",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "PRObject",
+	"type" : "normal" }

@@ -1,3 +1,3 @@
 helper
 mockWriterClass
-	^ PRMockWriter 
+	^ PRMockWriter

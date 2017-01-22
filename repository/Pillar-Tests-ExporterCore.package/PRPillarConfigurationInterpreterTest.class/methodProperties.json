@@ -1,11 +1,10 @@
 {
+	"class" : {
+		 },
 	"instance" : {
-		"unexistingFilename" : "CyrilFerlicot 3/31/2015 17:04",
-		"testDefaultScriptLanguage" : "CyrilFerlicot 3/31/2015 17:05",
-		"testNewLine" : "CyrilFerlicot 3/31/2015 17:06",
 		"fromString:" : "CyrilFerlicot 10/29/2015 22:00",
 		"packageNamesUnderTest" : "CyrilFerlicot 3/31/2015 17:03",
-		"testSimpleConfiguration" : "CyrilFerlicot 3/31/2015 17:07"
-	},
-	"class" : { }
-}
+		"testDefaultScriptLanguage" : "CyrilFerlicot 3/31/2015 17:05",
+		"testNewLine" : "CyrilFerlicot 3/31/2015 17:06",
+		"testSimpleConfiguration" : "CyrilFerlicot 3/31/2015 17:07",
+		"unexistingFilename" : "CyrilFerlicot 3/31/2015 17:04" } }

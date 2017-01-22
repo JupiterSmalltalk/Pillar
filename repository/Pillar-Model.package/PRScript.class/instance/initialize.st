@@ -1,4 +1,4 @@
 initialization
 initialize
-	super initialize.
-	parameters := SmallDictionary new
+  super initialize.
+  parameters := GRSmallDictionary new

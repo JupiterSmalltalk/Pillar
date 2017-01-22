@@ -1,13 +1,14 @@
 {
-	"commentStamp" : "CyrilFerlicot 4/23/2015 15:53",
-	"super" : "Object",
 	"category" : "Pillar-Model-ScriptLanguage",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "CyrilFerlicot 4/23/2015 15:53",
 	"instvars" : [
-		"stream"
-	],
+		"stream" ],
 	"name" : "PRDocGeneratorAboutScriptLanguage",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

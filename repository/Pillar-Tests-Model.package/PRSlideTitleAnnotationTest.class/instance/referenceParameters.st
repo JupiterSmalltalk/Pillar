@@ -1,5 +1,5 @@
 helpers
 referenceParameters
-	^ SmallDictionary new
-		add: 'title' -> 'Foo';
-		yourself
+  ^ GRSmallDictionary new
+    add: 'title' -> 'Foo';
+    yourself

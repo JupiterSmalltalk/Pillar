@@ -1,15 +1,12 @@
 {
-	"instance" : {
-		"text" : "lr 4/5/2007 14:40",
-		"printOn:" : "lr 3/9/2006 11:30",
-		"=" : "lr 3/9/2006 11:30",
-		"hash" : "lr 3/9/2006 11:30",
-		"text:" : "lr 4/5/2007 14:40",
-		"isText" : "BenjaminVanRyseghem 1/15/2014 15:45",
-		"accept:" : "lr 3/30/2007 20:01"
-	},
 	"class" : {
 		"content:" : "CyrilFerlicot 7/1/2015 13:55",
-		"isAbstract" : "lr 3/9/2006 11:30"
-	}
-}
+		"isAbstract" : "lr 3/9/2006 11:30" },
+	"instance" : {
+		"=" : "lr 3/9/2006 11:30",
+		"accept:" : "lr 3/30/2007 20:01",
+		"hash" : "lr 3/9/2006 11:30",
+		"isText" : "BenjaminVanRyseghem 1/15/2014 15:45",
+		"printOn:" : "lr 3/9/2006 11:30",
+		"text" : "lr 4/5/2007 14:40",
+		"text:" : "lr 4/5/2007 14:40" } }

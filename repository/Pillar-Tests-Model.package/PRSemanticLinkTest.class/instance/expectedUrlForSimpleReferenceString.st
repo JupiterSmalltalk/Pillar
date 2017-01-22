@@ -1,3 +1,3 @@
 private
 expectedUrlForSimpleReferenceString
-	self subclassResponsibility 
+	self subclassResponsibility

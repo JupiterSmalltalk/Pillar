@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "lr 5/28/2006 20:56",
-	"super" : "PRDocumentGroup",
 	"category" : "Pillar-Model-Document",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "lr 5/28/2006 20:56",
+	"instvars" : [
+		 ],
 	"name" : "PRPreformatted",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "PRDocumentGroup",
+	"type" : "normal" }

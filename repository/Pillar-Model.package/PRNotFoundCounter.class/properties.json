@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "BenjaminVanRyseghem 1/9/2014 12:16",
-	"super" : "PRCascadingCounter",
 	"category" : "Pillar-Model-Numbering",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "BenjaminVanRyseghem 1/9/2014 12:16",
+	"instvars" : [
+		 ],
 	"name" : "PRNotFoundCounter",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "PRCascadingCounter",
+	"type" : "normal" }

@@ -1,21 +1,18 @@
 {
+	"class" : {
+		"isAbstract" : "lr 3/9/2006 11:30",
+		"isValidReference:" : "lr 3/9/2006 11:30",
+		"priority" : "lr 1/9/2009 19:20",
+		"reference:" : "CyrilFerlicot 5/20/2015 16:38" },
 	"instance" : {
+		"=" : "lr 3/9/2006 11:29",
+		"accept:" : "lr 3/30/2007 20:01",
+		"anchor" : "lr 5/28/2006 20:48",
 		"anchor:" : "CyrilFerlicot 7/2/2015 13:37",
 		"hasAnchor" : "lr 3/9/2006 11:29",
-		"=" : "lr 3/9/2006 11:29",
-		"renderAsText" : "CyrilFerlicot 5/20/2015 16:38",
-		"isInternal" : "lr 3/9/2006 11:29",
 		"hasReference" : "CyrilFerlicot 5/20/2015 18:13",
+		"hash" : "lr 3/9/2006 11:29",
+		"isInternal" : "lr 3/9/2006 11:29",
 		"referenceAsHTML" : "CyrilFerlicot 5/21/2015 14:52",
 		"referenceAsMarkdown" : "CyrilFerlicot 5/21/2015 14:52",
-		"hash" : "lr 3/9/2006 11:29",
-		"accept:" : "lr 3/30/2007 20:01",
-		"anchor" : "lr 5/28/2006 20:48"
-	},
-	"class" : {
-		"reference:" : "CyrilFerlicot 5/20/2015 16:38",
-		"priority" : "lr 1/9/2009 19:20",
-		"isAbstract" : "lr 3/9/2006 11:30",
-		"isValidReference:" : "lr 3/9/2006 11:30"
-	}
-}
+		"renderAsText" : "CyrilFerlicot 5/20/2015 16:38" } }

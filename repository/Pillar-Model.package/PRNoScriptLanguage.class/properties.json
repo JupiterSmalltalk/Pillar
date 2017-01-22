@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "DamienCassou 2/28/2014 09:41",
-	"super" : "PRAbstractScriptLanguage",
 	"category" : "Pillar-Model-ScriptLanguage",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "DamienCassou 2/28/2014 09:41",
+	"instvars" : [
+		 ],
 	"name" : "PRNoScriptLanguage",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "PRAbstractScriptLanguage",
+	"type" : "normal" }

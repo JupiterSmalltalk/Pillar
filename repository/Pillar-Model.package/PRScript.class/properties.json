@@ -1,14 +1,15 @@
 {
-	"commentStamp" : "TorstenBergmann 3/5/2015 22:02",
-	"super" : "PRText",
 	"category" : "Pillar-Model-Document",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "TorstenBergmann 3/5/2015 22:02",
 	"instvars" : [
 		"parameters",
-		"caption"
-	],
+		"caption" ],
 	"name" : "PRScript",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "PRText",
+	"type" : "normal" }

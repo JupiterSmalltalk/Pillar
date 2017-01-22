@@ -1,9 +1,8 @@
 {
+	"class" : {
+		 },
 	"instance" : {
+		"actualClass" : "CyrilFerlicot 5/18/2015 15:16",
 		"representationOf26" : "CyrilFerlicot 5/18/2015 15:11",
 		"representationOf27" : "CyrilFerlicot 5/18/2015 15:11",
-		"representationOfOne" : "CyrilFerlicot 5/18/2015 15:09",
-		"actualClass" : "CyrilFerlicot 5/18/2015 15:16"
-	},
-	"class" : { }
-}
+		"representationOfOne" : "CyrilFerlicot 5/18/2015 15:09" } }

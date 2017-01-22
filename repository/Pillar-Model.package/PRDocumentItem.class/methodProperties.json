@@ -1,22 +1,21 @@
 {
+	"class" : {
+		 },
 	"instance" : {
-		"hasChildren" : "lr 3/9/2006 11:29",
-		"isColumnsBeginning" : "CyrilFerlicot 6/18/2015 10:47",
-		"isDocument" : "ThibaultAroing 5/26/2016 14:03",
-		"isColumnsEnding" : "CyrilFerlicot 6/18/2015 11:10",
-		"text" : "lr 5/28/2006 20:31",
-		"parser" : "DamienCassou 10/15/2015 11:36",
-		"isSlideBeginning" : "CyrilFerlicot 6/3/2015 13:47",
 		"=" : "ThibaultArloing 5/10/2016 16:04",
-		"isGroup" : "BenComan 5/28/2014 22:29",
-		"isColumnBeginning" : "CyrilFerlicot 6/18/2015 10:58",
-		"counter:" : "CyrilFerlicot 5/19/2015 16:16",
-		"initialize" : "CyrilFerlicot 5/20/2015 15:14",
-		"hash" : "lr 3/9/2006 11:29",
-		"counter" : "CyrilFerlicot 5/19/2015 16:16",
 		"accept:" : "DamienCassou 3/20/2014 18:08",
+		"counter" : "CyrilFerlicot 5/19/2015 16:16",
+		"counter:" : "CyrilFerlicot 5/19/2015 16:16",
+		"hasChildren" : "lr 3/9/2006 11:29",
+		"hash" : "lr 3/9/2006 11:29",
+		"initialize" : "CyrilFerlicot 5/20/2015 15:14",
+		"isColumnBeginning" : "CyrilFerlicot 6/18/2015 10:58",
+		"isColumnsBeginning" : "CyrilFerlicot 6/18/2015 10:47",
+		"isColumnsEnding" : "CyrilFerlicot 6/18/2015 11:10",
+		"isDocument" : "ThibaultAroing 5/26/2016 14:03",
+		"isGroup" : "BenComan 5/28/2014 22:29",
 		"isHeader" : "CyrilFerlicot 5/23/2015 20:08",
-		"isLink" : "lr 4/16/2007 12:00"
-	},
-	"class" : { }
-}
+		"isLink" : "lr 4/16/2007 12:00",
+		"isSlideBeginning" : "CyrilFerlicot 6/3/2015 13:47",
+		"parser" : "DamienCassou 10/15/2015 11:36",
+		"text" : "lr 5/28/2006 20:31" } }

@@ -1,3 +1,3 @@
 accessing
 linkName
-	self subclassResponsibility 
+	self subclassResponsibility

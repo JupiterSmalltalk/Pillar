@@ -1,22 +1,19 @@
 {
+	"class" : {
+		"isAbstract" : "lr 3/30/2007 22:22" },
 	"instance" : {
-		"testText" : "lr 3/9/2006 11:31",
-		"testParseBasic" : "lr 4/5/2007 14:39",
-		"testPrinting" : "DamienCassou 3/20/2014 18:04",
+		"actualClass" : "lr 3/30/2007 22:22",
+		"testContent" : "lr 4/5/2007 14:41",
 		"testEqualText" : "lr 4/5/2007 14:43",
-		"testEscapeText" : "lr 4/5/2007 14:37",
 		"testEscapeCpp" : "lr 9/4/2009 17:04",
 		"testEscapeFirst" : "CyrilFerlicot 5/23/2015 19:17",
-		"testParseHtml" : "lr 4/5/2007 14:40",
-		"actualClass" : "lr 3/30/2007 22:22",
-		"testParseSpecial" : "lr 4/5/2007 14:40",
 		"testEscapeStrange" : "CyrilFerlicot 5/23/2015 19:17",
-		"testContent" : "lr 4/5/2007 14:41",
-		"testParseWiki" : "lr 4/5/2007 14:40",
+		"testEscapeText" : "lr 4/5/2007 14:37",
+		"testEscapeWiki" : "lr 4/5/2007 14:39",
+		"testParseBasic" : "lr 4/5/2007 14:39",
+		"testParseHtml" : "lr 4/5/2007 14:40",
 		"testParseLatex" : "lr 4/5/2007 14:40",
-		"testEscapeWiki" : "lr 4/5/2007 14:39"
-	},
-	"class" : {
-		"isAbstract" : "lr 3/30/2007 22:22"
-	}
-}
+		"testParseSpecial" : "lr 4/5/2007 14:40",
+		"testParseWiki" : "lr 4/5/2007 14:40",
+		"testPrinting" : "DamienCassou 3/20/2014 18:04",
+		"testText" : "lr 3/9/2006 11:31" } }

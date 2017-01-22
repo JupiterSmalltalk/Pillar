@@ -1,14 +1,13 @@
 {
+	"class" : {
+		 },
 	"instance" : {
-		"testVisitWithSlideInTemplate" : "CyrilFerlicot 10/29/2015 22:00",
+		"actualClass" : "CyrilFerlicot 6/11/2015 10:30",
+		"testVisitDocumentWithFigure" : "CyrilFerlicot 10/29/2015 22:00",
+		"testVisitDocumentWithScript" : "CyrilFerlicot 10/29/2015 22:00",
 		"testVisitDocumentWithSlideWithLabel" : "CyrilFerlicot 10/29/2015 22:00",
+		"testVisitWithSlideInTemplate" : "CyrilFerlicot 10/29/2015 22:00",
 		"testVisitWithSlideWithHeaderRendering" : "CyrilFerlicot 10/29/2015 22:00",
 		"testVisitWithSlideWithoutHeaderRendering" : "CyrilFerlicot 10/29/2015 22:00",
-		"testVisitWithoutSlideWithoutHeaderRendering" : "CyrilFerlicot 10/29/2015 22:00",
-		"testVisitDocumentWithScript" : "CyrilFerlicot 10/29/2015 22:00",
-		"actualClass" : "CyrilFerlicot 6/11/2015 10:30",
 		"testVisitWithoutSlideWithHeaderRendering" : "CyrilFerlicot 10/29/2015 22:00",
-		"testVisitDocumentWithFigure" : "CyrilFerlicot 10/29/2015 22:00"
-	},
-	"class" : { }
-}
+		"testVisitWithoutSlideWithoutHeaderRendering" : "CyrilFerlicot 10/29/2015 22:00" } }

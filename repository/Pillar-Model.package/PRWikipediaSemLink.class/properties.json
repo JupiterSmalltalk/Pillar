@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "LukasKomarek 4/21/2016 15:23",
-	"super" : "PRSemanticLink",
 	"category" : "Pillar-Model-Document",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "LukasKomarek 4/21/2016 15:23",
+	"instvars" : [
+		 ],
 	"name" : "PRWikipediaSemLink",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "PRSemanticLink",
+	"type" : "normal" }

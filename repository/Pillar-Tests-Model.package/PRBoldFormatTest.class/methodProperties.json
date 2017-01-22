@@ -1,8 +1,5 @@
 {
-	"instance" : {
-		"actualClass" : "lr 3/30/2007 22:22"
-	},
 	"class" : {
-		"isAbstract" : "lr 3/30/2007 22:22"
-	}
-}
+		"isAbstract" : "lr 3/30/2007 22:22" },
+	"instance" : {
+		"actualClass" : "lr 3/30/2007 22:22" } }

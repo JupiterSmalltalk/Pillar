@@ -1,7 +1,6 @@
 {
+	"class" : {
+		 },
 	"instance" : {
-		"parameters:" : "CyrilFerlicot 7/1/2015 13:39",
-		"parameters" : "CyrilFerlicot 4/29/2015 13:22"
-	},
-	"class" : { }
-}
+		"parameters" : "CyrilFerlicot 4/29/2015 13:22",
+		"parameters:" : "CyrilFerlicot 7/1/2015 13:39" } }

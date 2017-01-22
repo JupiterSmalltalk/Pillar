@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "CyrilFerlicot 9/9/2015 20:45",
-	"super" : "PRWarning",
 	"category" : "Pillar-PetitPillar",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "CyrilFerlicot 9/9/2015 20:45",
+	"instvars" : [
+		 ],
 	"name" : "PRParseWarning",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "PRWarning",
+	"type" : "normal" }

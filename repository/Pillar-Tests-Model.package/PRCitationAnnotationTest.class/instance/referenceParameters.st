@@ -1,5 +1,5 @@
 as yet unclassified
 referenceParameters
-	^ SmallDictionary new
-		add: 'ref' -> 'hello';
-		yourself
+  ^ GRSmallDictionary new
+    add: 'ref' -> 'hello';
+    yourself

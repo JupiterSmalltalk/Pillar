@@ -1,3 +1,3 @@
 requirements
 tableCellWithFoo
-	^ self subclassResponsibility 
+	^ self subclassResponsibility

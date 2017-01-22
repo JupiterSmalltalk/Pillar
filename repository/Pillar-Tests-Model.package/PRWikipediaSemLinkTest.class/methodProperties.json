@@ -1,13 +1,10 @@
 {
-	"instance" : {
-		"testUrlWithParameters" : "LukasKomarek 5/18/2016 16:47",
-		"expectedUrlForReferenceString" : "LukasKomarek 4/28/2016 12:14",
-		"simpleReferenceString" : "LukasKomarek 4/28/2016 12:14",
-		"referenceString" : "LukasKomarek 4/21/2016 16:30",
-		"actualClass" : "LukasKomarek 4/21/2016 16:05",
-		"expectedUrlForSimpleReferenceString" : "LukasKomarek 4/28/2016 12:14"
-	},
 	"class" : {
-		"isAbstract" : "LukasKomarek 4/21/2016 16:04"
-	}
-}
+		"isAbstract" : "LukasKomarek 4/21/2016 16:04" },
+	"instance" : {
+		"actualClass" : "LukasKomarek 4/21/2016 16:05",
+		"expectedUrlForReferenceString" : "LukasKomarek 4/28/2016 12:14",
+		"expectedUrlForSimpleReferenceString" : "LukasKomarek 4/28/2016 12:14",
+		"referenceString" : "LukasKomarek 4/21/2016 16:30",
+		"simpleReferenceString" : "LukasKomarek 4/28/2016 12:14",
+		"testUrlWithParameters" : "LukasKomarek 5/18/2016 16:47" } }

@@ -1,13 +1,14 @@
 {
-	"commentStamp" : "DamienCassou 10/15/2015 11:20",
-	"super" : "Object",
 	"category" : "Pillar-PetitPillar",
-	"classinstvars" : [ ],
-	"pools" : [ ],
+	"classinstvars" : [
+		 ],
 	"classvars" : [
-		"UseCompiledParser"
-	],
-	"instvars" : [ ],
+		"UseCompiledParser" ],
+	"commentStamp" : "DamienCassou 10/15/2015 11:20",
+	"instvars" : [
+		 ],
 	"name" : "PRPillarParserMain",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

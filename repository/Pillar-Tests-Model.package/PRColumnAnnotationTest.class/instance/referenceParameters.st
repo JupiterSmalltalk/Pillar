@@ -1,5 +1,5 @@
 helpers
 referenceParameters
-	^ SmallDictionary new
-		add: 'width' -> '50';
-		yourself
+  ^ GRSmallDictionary new
+    add: 'width' -> '50';
+    yourself

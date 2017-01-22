@@ -1,13 +1,14 @@
 {
-	"commentStamp" : "",
-	"super" : "CCConfigurationTest",
 	"category" : "Pillar-Tests-ExporterCore",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
 	"instvars" : [
-		"baseDirectory"
-	],
+		"baseDirectory" ],
 	"name" : "PRPillarConfigurationTest",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "CCConfigurationTest",
+	"type" : "normal" }

@@ -1,10 +1,9 @@
 {
+	"class" : {
+		 },
 	"instance" : {
-		"testSlideAnnotation" : "YannDubois 5/2/2016 14:41",
-		"referenceParameters" : "YannDubois 5/2/2016 14:41",
+		"actualClass" : "CyrilFerlicot 6/1/2015 16:21",
+		"referenceParameters" : "jupiter 01/21/2017 20:38",
 		"referenceString" : "CyrilFerlicot 8/7/2015 13:27",
 		"testIsSlideBeginning" : "CyrilFerlicot 6/3/2015 14:15",
-		"actualClass" : "CyrilFerlicot 6/1/2015 16:21"
-	},
-	"class" : { }
-}
+		"testSlideAnnotation" : "jupiter 01/21/2017 20:38" } }

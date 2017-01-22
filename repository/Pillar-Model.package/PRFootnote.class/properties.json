@@ -1,13 +1,14 @@
 {
-	"commentStamp" : "YannDubois 5/3/2016 10:08",
-	"super" : "PRDocumentItem",
 	"category" : "Pillar-Model-Document",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "YannDubois 5/3/2016 10:08",
 	"instvars" : [
-		"note"
-	],
+		"note" ],
 	"name" : "PRFootnote",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "PRDocumentItem",
+	"type" : "normal" }

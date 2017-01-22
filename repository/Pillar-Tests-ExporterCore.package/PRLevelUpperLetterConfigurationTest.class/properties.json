@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "",
-	"super" : "PRTitleConfigurationTest",
 	"category" : "Pillar-Tests-ExporterCore",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
 	"name" : "PRLevelUpperLetterConfigurationTest",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "PRTitleConfigurationTest",
+	"type" : "normal" }

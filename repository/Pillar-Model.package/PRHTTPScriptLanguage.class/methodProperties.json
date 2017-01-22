@@ -1,7 +1,6 @@
 {
-	"instance" : { },
 	"class" : {
-		"standardName" : "CyrilFerlicot 7/2/2015 11:49",
-		"isAbstract" : "DamienCassou 1/10/2014 15:39"
-	}
-}
+		"isAbstract" : "DamienCassou 1/10/2014 15:39",
+		"standardName" : "CyrilFerlicot 7/2/2015 11:49" },
+	"instance" : {
+		 } }

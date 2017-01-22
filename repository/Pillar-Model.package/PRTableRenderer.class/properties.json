@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "<historical>",
-	"super" : "PRStructureRenderer",
 	"category" : "Pillar-Model-Render",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
 	"name" : "PRTableRenderer",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "PRStructureRenderer",
+	"type" : "normal" }

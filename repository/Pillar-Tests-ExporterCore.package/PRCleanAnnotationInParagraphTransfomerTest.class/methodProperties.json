@@ -1,13 +1,12 @@
 {
+	"class" : {
+		 },
 	"instance" : {
+		"actualClass" : "DamienCassou 7/21/2016 12:08",
+		"exampleAnnotation" : "DamienCassou 7/20/2016 16:37",
+		"exampleMisc" : "DamienCassou 7/20/2016 16:44",
+		"testShouldNotBreakWithEmptyParagraph" : "ThibaultArloing 7/21/2016 17:04",
 		"testShouldNotRemoveWhenSomethingElseFollowsTheAnnotationInParagraph" : "DamienCassou 7/20/2016 16:44",
 		"testShouldNotRemoveWhenSomethingElseThanAnnotationInParagraph" : "DamienCassou 7/20/2016 16:44",
 		"testShouldRemoveWhenAnnotationAloneInParagraph" : "DamienCassou 7/20/2016 16:40",
-		"testShouldRemoveWhenAnnotationAloneWithLineBreakInParagraph" : "DamienCassou 7/20/2016 16:48",
-		"actualClass" : "DamienCassou 7/21/2016 12:08",
-		"testShouldNotBreakWithEmptyParagraph" : "ThibaultArloing 7/21/2016 17:04",
-		"exampleMisc" : "DamienCassou 7/20/2016 16:44",
-		"exampleAnnotation" : "DamienCassou 7/20/2016 16:37"
-	},
-	"class" : { }
-}
+		"testShouldRemoveWhenAnnotationAloneWithLineBreakInParagraph" : "DamienCassou 7/20/2016 16:48" } }

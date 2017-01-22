@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "",
-	"super" : "PRListTest",
 	"category" : "Pillar-Tests-Model-Document",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
 	"name" : "PRUnorderedListTest",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "PRListTest",
+	"type" : "normal" }

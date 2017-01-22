@@ -1,7 +1,6 @@
 {
+	"class" : {
+		 },
 	"instance" : {
-		"start:" : "YannDubois 4/25/2016 16:29",
-		"cachedDependencies" : "YannDubois 4/25/2016 16:29"
-	},
-	"class" : { }
-}
+		"cachedDependencies" : "YannDubois 4/25/2016 16:29",
+		"start:" : "YannDubois 4/25/2016 16:29" } }

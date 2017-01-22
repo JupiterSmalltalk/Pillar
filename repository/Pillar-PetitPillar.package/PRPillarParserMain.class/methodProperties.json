@@ -1,16 +1,15 @@
 {
-	"instance" : { },
 	"class" : {
+		"beCompiled" : "DamienCassou 10/15/2015 14:36",
 		"beNonCompiled" : "DamienCassou 10/15/2015 14:37",
-		"useCompiled" : "DamienCassou 10/15/2015 14:40",
-		"documentParser" : "DamienCassou 10/15/2015 15:42",
+		"compileParser" : "DamienCassou 10/15/2015 14:31",
 		"compiledParser" : "DamienCassou 10/15/2015 14:28",
 		"compiledParserName" : "DamienCassou 10/15/2015 14:28",
-		"compileParser" : "DamienCassou 10/15/2015 14:31",
+		"documentParser" : "DamienCassou 10/15/2015 15:42",
+		"parse:" : "DamienCassou 10/15/2015 11:24",
 		"parse:startingAt:" : "DamienCassou 10/15/2015 11:31",
 		"parseDocument:" : "DamienCassou 10/15/2015 11:32",
-		"parse:" : "DamienCassou 10/15/2015 11:24",
 		"parseProperties:" : "DamienCassou 10/15/2015 11:22",
-		"beCompiled" : "DamienCassou 10/15/2015 14:36"
-	}
-}
+		"useCompiled" : "DamienCassou 10/15/2015 14:40" },
+	"instance" : {
+		 } }

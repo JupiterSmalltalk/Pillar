@@ -1,9 +1,6 @@
 {
-	"instance" : {
-		"testHaveRef" : "ThibaultArloing 5/3/2016 15:55",
-		"actualClass" : "ThibaultArloing 5/3/2016 15:55"
-	},
 	"class" : {
-		"isAbstract" : "ThibaultArloing 5/3/2016 15:56"
-	}
-}
+		"isAbstract" : "ThibaultArloing 5/3/2016 15:56" },
+	"instance" : {
+		"actualClass" : "ThibaultArloing 5/3/2016 15:55",
+		"testHaveRef" : "ThibaultArloing 5/3/2016 15:55" } }

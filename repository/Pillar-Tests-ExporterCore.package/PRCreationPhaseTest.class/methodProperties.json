@@ -1,7 +1,6 @@
 {
+	"class" : {
+		 },
 	"instance" : {
-		"testCreationOfFile" : "AutoDeprecationRefactoring 7/18/2016 14:18",
-		"actualClass" : "CyrilFerlicot 6/15/2015 13:59"
-	},
-	"class" : { }
-}
+		"actualClass" : "CyrilFerlicot 6/15/2015 13:59",
+		"testCreationOfFile" : "AutoDeprecationRefactoring 7/18/2016 14:18" } }

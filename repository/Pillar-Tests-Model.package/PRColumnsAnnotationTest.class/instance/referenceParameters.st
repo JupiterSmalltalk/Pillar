@@ -1,3 +1,3 @@
 helpers
 referenceParameters
-	^ SmallDictionary new
+  ^ GRSmallDictionary new

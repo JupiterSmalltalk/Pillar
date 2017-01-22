@@ -1,15 +1,14 @@
 {
+	"class" : {
+		 },
 	"instance" : {
-		"testTransformationOnColumn" : "DamienCassou 7/21/2016 11:54",
-		"testTransformationWithContentInsideColumnsBeforeColumn" : "DamienCassou 7/21/2016 12:02",
-		"testTransformationEndColumnsWithoutBeginning" : "DamienCassou 7/21/2016 11:42",
 		"actualClass" : "CyrilFerlicot 6/18/2015 11:32",
-		"testTransformationTwoColumns" : "DamienCassou 7/21/2016 11:56",
 		"testDependOnCleanAnnotationInParagraphTransfomer" : "DamienCassou 7/21/2016 12:12",
-		"testTransformationWithColumnsInColumns" : "DamienCassou 7/21/2016 12:00",
-		"testTransformationBeginningColumnsWithoutEnding" : "DamienCassou 7/21/2016 11:39",
+		"testTransformationBeginningColumnsWithoutEnding" : "jupiter 01/21/2017 20:36",
+		"testTransformationEndColumnsWithoutBeginning" : "DamienCassou 7/21/2016 11:42",
+		"testTransformationOnColumn" : "jupiter 01/21/2017 20:36",
+		"testTransformationTwoColumns" : "jupiter 01/21/2017 20:36",
 		"testTransformationWithColumnWithoutColumns" : "DamienCassou 7/21/2016 11:58",
-		"testTransformationWithoutColumns" : "DamienCassou 6/20/2016 14:00"
-	},
-	"class" : { }
-}
+		"testTransformationWithColumnsInColumns" : "DamienCassou 7/21/2016 12:00",
+		"testTransformationWithContentInsideColumnsBeforeColumn" : "jupiter 01/21/2017 20:36",
+		"testTransformationWithoutColumns" : "DamienCassou 6/20/2016 14:00" } }

@@ -1,10 +1,7 @@
 {
+	"class" : {
+		"isAbstract" : "lr 3/9/2006 11:30" },
 	"instance" : {
 		"accept:" : "lr 3/30/2007 20:01",
-		"rowCount" : "lr 3/9/2006 11:30",
-		"columnCount" : "lr 3/9/2006 11:30"
-	},
-	"class" : {
-		"isAbstract" : "lr 3/9/2006 11:30"
-	}
-}
+		"columnCount" : "lr 3/9/2006 11:30",
+		"rowCount" : "lr 3/9/2006 11:30" } }

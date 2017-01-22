@@ -1,15 +1,14 @@
 {
-	"classtraitcomposition" : "PRTParametrizable classTrait - {#parameterAt:IsIntegerIn:. #parameters:haveSize:}",
-	"classvars" : [ ],
-	"instvars" : [
-		"parameters"
-	],
-	"name" : "PRMockForParameters",
+	"category" : "Pillar-Tests-Model-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
 	"commentStamp" : "CyrilFerlicot 4/29/2015 13:22",
+	"instvars" : [
+		"parameters" ],
+	"name" : "PRMockForParameters",
+	"pools" : [
+		 ],
 	"super" : "Object",
-	"traitcomposition" : "PRTParametrizable",
-	"type" : "normal",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"category" : "Pillar-Tests-Model-Core"
-}
+	"type" : "normal" }

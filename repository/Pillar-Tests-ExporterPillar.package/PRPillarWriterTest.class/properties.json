@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "",
-	"super" : "PRDocumentWriterTest",
 	"category" : "Pillar-Tests-ExporterPillar",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
 	"name" : "PRPillarWriterTest",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "PRDocumentWriterTest",
+	"type" : "normal" }

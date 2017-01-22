@@ -1,13 +1,14 @@
 {
-	"commentStamp" : "CyrilFerlicot 10/28/2015 22:37",
-	"super" : "PRObject",
 	"category" : "Pillar-Model-Document",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "CyrilFerlicot 10/28/2015 22:37",
 	"instvars" : [
-		"counter"
-	],
+		"counter" ],
 	"name" : "PRDocumentItem",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "PRObject",
+	"type" : "normal" }

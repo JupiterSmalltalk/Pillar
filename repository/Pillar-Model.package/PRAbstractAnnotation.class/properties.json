@@ -1,14 +1,15 @@
 {
-	"commentStamp" : "CyrilFerlicot 10/28/2015 22:53",
-	"super" : "PRDocumentItem",
 	"category" : "Pillar-Model-Document",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "CyrilFerlicot 10/28/2015 22:53",
 	"instvars" : [
 		"parameters",
-		"hadAllKeys"
-	],
+		"hadAllKeys" ],
 	"name" : "PRAbstractAnnotation",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "PRDocumentItem",
+	"type" : "normal" }

@@ -1,9 +1,8 @@
 {
+	"class" : {
+		 },
 	"instance" : {
+		"actualClass" : "DamienCassou 3/5/2014 17:14",
 		"testParseBasic" : "DamienCassou 3/5/2014 17:17",
 		"testParseDontInterruptLists" : "CyrilFerlicot 5/23/2015 19:17",
-		"testParseDontParseContent" : "DamienCassou 3/5/2014 17:23",
-		"actualClass" : "DamienCassou 3/5/2014 17:14"
-	},
-	"class" : { }
-}
+		"testParseDontParseContent" : "DamienCassou 3/5/2014 17:23" } }

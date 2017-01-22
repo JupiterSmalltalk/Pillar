@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "",
-	"super" : "PRTextTest",
 	"category" : "Pillar-Tests-Model-Document",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
 	"name" : "PRScriptTest",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "PRTextTest",
+	"type" : "normal" }

@@ -1,3 +1,3 @@
 requirements
 tableRow
-	^ self subclassResponsibility 
+	^ self subclassResponsibility

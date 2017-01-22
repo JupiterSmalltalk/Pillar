@@ -1,3 +1,3 @@
 requirements
 tableCellWithHeadingFoo
-	^ self subclassResponsibility 
+	^ self subclassResponsibility

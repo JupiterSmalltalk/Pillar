@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "CyrilFerlicot 4/28/2015 15:31",
-	"super" : "PRLink",
 	"category" : "Pillar-Model-Document",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "CyrilFerlicot 4/28/2015 15:31",
+	"instvars" : [
+		 ],
 	"name" : "PRExternalLink",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "PRLink",
+	"type" : "normal" }

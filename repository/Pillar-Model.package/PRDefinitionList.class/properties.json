@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "lr 12/30/2007 19:44",
-	"super" : "PRList",
 	"category" : "Pillar-Model-Document",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "lr 12/30/2007 19:44",
+	"instvars" : [
+		 ],
 	"name" : "PRDefinitionList",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "PRList",
+	"type" : "normal" }

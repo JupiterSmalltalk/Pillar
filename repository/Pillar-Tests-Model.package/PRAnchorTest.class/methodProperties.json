@@ -1,14 +1,11 @@
 {
+	"class" : {
+		"isAbstract" : "lr 3/30/2007 22:22" },
 	"instance" : {
+		"actualClass" : "lr 3/30/2007 22:22",
 		"testEqualName" : "lr 4/5/2007 13:16",
 		"testName" : "lr 3/9/2006 11:31",
-		"testParseMultiple" : "CyrilFerlicot 5/23/2015 19:17",
-		"testWith" : "lr 4/5/2007 13:16",
-		"actualClass" : "lr 3/30/2007 22:22",
 		"testParseBasic" : "lr 4/5/2007 13:08",
-		"testParseSpaces" : "lr 4/5/2007 13:08"
-	},
-	"class" : {
-		"isAbstract" : "lr 3/30/2007 22:22"
-	}
-}
+		"testParseMultiple" : "CyrilFerlicot 5/23/2015 19:17",
+		"testParseSpaces" : "lr 4/5/2007 13:08",
+		"testWith" : "lr 4/5/2007 13:16" } }

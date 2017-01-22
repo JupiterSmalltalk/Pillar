@@ -8,4 +8,3 @@ testParseSimpleOn1Line
 		add: (self addText: '[[[foo]]]' to: PRParagraph new);
 		yourself.
 	self assertWiki: wiki equalsTree: tree.
-	

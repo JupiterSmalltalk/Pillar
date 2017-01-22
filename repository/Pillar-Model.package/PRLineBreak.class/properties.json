@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "lr 9/14/2009 08:31",
-	"super" : "PRDocumentItem",
 	"category" : "Pillar-Model-Document",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "lr 9/14/2009 08:31",
+	"instvars" : [
+		 ],
 	"name" : "PRLineBreak",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "PRDocumentItem",
+	"type" : "normal" }

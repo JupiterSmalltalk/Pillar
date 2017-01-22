@@ -1,8 +1,5 @@
 {
-	"instance" : {
-		"renderFor:" : "ThibaultArloing 5/24/2016 16:44"
-	},
 	"class" : {
-		"isAbstract" : "ThibaultArloing 5/24/2016 16:44"
-	}
-}
+		"isAbstract" : "ThibaultArloing 5/24/2016 16:44" },
+	"instance" : {
+		"renderFor:" : "ThibaultArloing 5/24/2016 16:44" } }

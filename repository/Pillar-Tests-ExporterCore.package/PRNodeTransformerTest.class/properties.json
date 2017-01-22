@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "DamienCassou 7/20/2016 16:30",
-	"super" : "PRVisitorTest",
 	"category" : "Pillar-Tests-ExporterCore",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "DamienCassou 7/20/2016 16:30",
+	"instvars" : [
+		 ],
 	"name" : "PRNodeTransformerTest",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "PRVisitorTest",
+	"type" : "normal" }

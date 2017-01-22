@@ -1,10 +1,7 @@
 {
-	"instance" : {
-		"urlPrefix" : "LukasKomarek 4/21/2016 15:54",
-		"urlEntry" : "LukasKomarek 5/18/2016 16:26"
-	},
 	"class" : {
 		"isAbstract" : "LukasKomarek 4/16/2016 13:35",
-		"linkName" : "LukasKomarek 4/26/2016 19:30"
-	}
-}
+		"linkName" : "LukasKomarek 4/26/2016 19:30" },
+	"instance" : {
+		"urlEntry" : "LukasKomarek 5/18/2016 16:26",
+		"urlPrefix" : "LukasKomarek 4/21/2016 15:54" } }

@@ -1,13 +1,14 @@
 {
-	"commentStamp" : "",
-	"super" : "PRVisitor",
 	"category" : "Pillar-Model-Visitor",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
 	"instvars" : [
-		"cachedDependencies"
-	],
+		"cachedDependencies" ],
 	"name" : "PRDependencies",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "PRVisitor",
+	"type" : "normal" }
