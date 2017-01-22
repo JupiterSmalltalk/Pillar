@@ -1,13 +1,14 @@
 {
-	"commentStamp" : "DamienCassou 4/2/2015 14:34",
-	"super" : "PRError",
 	"category" : "Pillar-ExporterCore-Exceptions",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "DamienCassou 4/2/2015 14:34",
 	"instvars" : [
-		"file"
-	],
+		"file" ],
 	"name" : "PRExportError",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "PRError",
+	"type" : "normal" }

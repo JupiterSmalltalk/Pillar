@@ -1,16 +1,17 @@
 {
-	"commentStamp" : "<historical>",
-	"super" : "PRVisitor",
 	"category" : "Pillar-ExporterCore-Base",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
 	"instvars" : [
 		"stream",
 		"configuration",
 		"canvas",
-		"writingRaw"
-	],
+		"writingRaw" ],
 	"name" : "PRDocumentWriter",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "PRVisitor",
+	"type" : "normal" }

@@ -1,3 +1,3 @@
 accessing
 capitalization: anObject
-	capitalization := anObject 
+	capitalization := anObject

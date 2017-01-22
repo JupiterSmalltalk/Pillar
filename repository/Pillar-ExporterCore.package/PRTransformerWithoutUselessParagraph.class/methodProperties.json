@@ -1,16 +1,13 @@
 {
+	"class" : {
+		"isAbstract" : "YannDubois 5/18/2016 17:01" },
 	"instance" : {
-		"specificVisitor:" : "CyrilFerlicot 4/23/2015 12:46",
-		"transformParagraphWithChildren:" : "CyrilFerlicot 4/16/2015 17:48",
-		"transformParagraph:" : "YannDubois 7/1/2016 09:59",
-		"visitNormalNode:" : "CyrilFerlicot 4/14/2015 23:47",
-		"visitParagraphWithAnnotation:" : "CyrilFerlicot 4/20/2015 15:58",
 		"aboutClass" : "CyrilFerlicot 4/23/2015 12:45",
 		"replaceParagraph" : "CyrilFerlicot 4/16/2015 17:53",
+		"specificVisitor:" : "CyrilFerlicot 4/23/2015 12:46",
+		"transformParagraph:" : "YannDubois 7/1/2016 09:59",
+		"transformParagraphWith1Child:" : "ThibaultArloing 6/23/2016 09:47",
+		"transformParagraphWithChildren:" : "CyrilFerlicot 4/16/2015 17:48",
 		"visitDocumentGroup:" : "CyrilFerlicot 4/16/2015 17:26",
-		"transformParagraphWith1Child:" : "ThibaultArloing 6/23/2016 09:47"
-	},
-	"class" : {
-		"isAbstract" : "YannDubois 5/18/2016 17:01"
-	}
-}
+		"visitNormalNode:" : "CyrilFerlicot 4/14/2015 23:47",
+		"visitParagraphWithAnnotation:" : "CyrilFerlicot 4/20/2015 15:58" } }

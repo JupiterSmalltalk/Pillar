@@ -1,13 +1,14 @@
 {
-	"commentStamp" : "ThibaultArloing 6/22/2016 11:31",
-	"super" : "PRVisitor",
 	"category" : "Pillar-ExporterCore-Utilities",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "ThibaultArloing 6/22/2016 11:31",
 	"instvars" : [
-		"path"
-	],
+		"path" ],
 	"name" : "PRUpdateFileInclusionReference",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "PRVisitor",
+	"type" : "normal" }

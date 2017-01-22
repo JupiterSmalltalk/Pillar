@@ -1,9 +1,6 @@
 {
+	"class" : {
+		"key" : "YannDubois 5/20/2016 11:27" },
 	"instance" : {
 		"createNewCitationWith:" : "ThibaultArloing 5/3/2016 15:49",
-		"visitCitationAnnotation:" : "YannDubois 8/9/2016 09:59"
-	},
-	"class" : {
-		"key" : "YannDubois 5/20/2016 11:27"
-	}
-}
+		"visitCitationAnnotation:" : "YannDubois 8/9/2016 09:59" } }

@@ -1,15 +1,14 @@
 {
-	"commentStamp" : "DamienCassou 7/18/2016 15:48",
-	"super" : "PRDocumentChildrenTransformer",
 	"category" : "Pillar-ExporterCore-Export",
-	"classinstvars" : [ ],
-	"pools" : [ ],
+	"classinstvars" : [
+		 ],
 	"classvars" : [
-		"MaxDepthLevel"
-	],
+		"MaxDepthLevel" ],
+	"commentStamp" : "DamienCassou 7/18/2016 15:48",
 	"instvars" : [
-		"sections"
-	],
+		"sections" ],
 	"name" : "PRSectionTransformer",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "PRDocumentChildrenTransformer",
+	"type" : "normal" }

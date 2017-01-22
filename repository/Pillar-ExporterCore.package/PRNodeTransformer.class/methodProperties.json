@@ -1,15 +1,12 @@
 {
-	"instance" : {
-		"replace:" : "CyrilFerlicot 6/2/2015 16:56",
-		"configuration:" : "DamienCassou 7/13/2016 14:46",
-		"initialize" : "CyrilFerlicot 6/2/2015 16:56",
-		"configuration" : "DamienCassou 7/13/2016 14:46",
-		"visitDocumentGroup:" : "CyrilFerlicot 6/2/2015 16:56",
-		"start:" : "DamienCassou 7/15/2016 07:07"
-	},
 	"class" : {
 		"executeOn:" : "ThibaultArloing 7/19/2016 11:37",
 		"isAbstract" : "YannDubois 5/17/2016 15:38",
-		"pipelineKey" : "DamienCassou 7/13/2016 14:27"
-	}
-}
+		"pipelineKey" : "DamienCassou 7/13/2016 14:27" },
+	"instance" : {
+		"configuration" : "DamienCassou 7/13/2016 14:46",
+		"configuration:" : "DamienCassou 7/13/2016 14:46",
+		"initialize" : "CyrilFerlicot 6/2/2015 16:56",
+		"replace:" : "CyrilFerlicot 6/2/2015 16:56",
+		"start:" : "DamienCassou 7/15/2016 07:07",
+		"visitDocumentGroup:" : "CyrilFerlicot 6/2/2015 16:56" } }

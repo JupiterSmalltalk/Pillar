@@ -1,13 +1,14 @@
 {
-	"classtraitcomposition" : "PRTPipe classTrait",
-	"classvars" : [ ],
-	"instvars" : [ ],
-	"name" : "PRPipeline",
+	"category" : "Pillar-ExporterCore-Export",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
 	"commentStamp" : "YannDubois 7/12/2016 11:04",
+	"instvars" : [
+		 ],
+	"name" : "PRPipeline",
+	"pools" : [
+		 ],
 	"super" : "PRObject",
-	"traitcomposition" : "PRTPipe",
-	"type" : "normal",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"category" : "Pillar-ExporterCore-Export"
-}
+	"type" : "normal" }

@@ -1,3 +1,3 @@
 requirements
 annotationBegin: annotationString
-	^'<p class="' , annotationString, '">' 
+	^'<p class="' , annotationString, '">'

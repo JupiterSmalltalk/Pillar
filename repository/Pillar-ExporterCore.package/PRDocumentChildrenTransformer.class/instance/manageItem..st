@@ -1,3 +1,3 @@
 private
 manageItem: documentItem
-	^ self subclassResponsibility 
+	^ self subclassResponsibility

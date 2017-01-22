@@ -1,17 +1,18 @@
 {
-	"commentStamp" : "DamienCassou 7/18/2016 15:53",
-	"super" : "PRNodeTransformer",
 	"category" : "Pillar-ExporterCore-Export",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "DamienCassou 7/18/2016 15:53",
 	"instvars" : [
 		"figureCounter",
 		"topLevelNumerate",
 		"scriptCounter",
 		"headerCounter",
-		"anchorsMapping"
-	],
+		"anchorsMapping" ],
 	"name" : "PRNumeratingVisitor",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "PRNodeTransformer",
+	"type" : "normal" }

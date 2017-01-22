@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "",
-	"super" : "MAElementDescription",
 	"category" : "Pillar-ExporterCore-Description",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
 	"name" : "PRMagrittePathOrStreamDescription",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "MAElementDescription",
+	"type" : "normal" }

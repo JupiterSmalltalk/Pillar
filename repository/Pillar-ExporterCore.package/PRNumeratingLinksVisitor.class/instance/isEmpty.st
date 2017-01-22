@@ -1,3 +1,3 @@
 testing
 isEmpty
-	^  anchorsMapping isEmpty 
+	^  anchorsMapping isEmpty

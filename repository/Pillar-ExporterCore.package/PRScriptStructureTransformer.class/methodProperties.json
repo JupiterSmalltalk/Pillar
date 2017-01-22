@@ -1,9 +1,6 @@
 {
+	"class" : {
+		"key" : "YannDubois 5/20/2016 10:50" },
 	"instance" : {
 		"createStructureFrom:" : "YannDubois 6/1/2016 11:22",
-		"visitScript:" : "ThibaultArloing 5/9/2016 14:04"
-	},
-	"class" : {
-		"key" : "YannDubois 5/20/2016 10:50"
-	}
-}
+		"visitScript:" : "ThibaultArloing 5/9/2016 14:04" } }

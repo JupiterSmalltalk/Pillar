@@ -1,3 +1,4 @@
 requirements
 paragraphFoo
-	^ '<p>' , Smalltalk os lineEnding , 'foo' , Smalltalk os lineEnding , '</p>'
+  ^ '<p>' , GRPlatform current newline , 'foo' , GRPlatform current newline
+    , '</p>'

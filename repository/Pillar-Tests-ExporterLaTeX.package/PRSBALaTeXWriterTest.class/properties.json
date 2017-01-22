@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "",
-	"super" : "PRLaTeXWriterTest",
 	"category" : "Pillar-Tests-ExporterLaTeX",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
 	"name" : "PRSBALaTeXWriterTest",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "PRLaTeXWriterTest",
+	"type" : "normal" }

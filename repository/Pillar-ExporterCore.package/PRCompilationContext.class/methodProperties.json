@@ -1,14 +1,11 @@
 {
+	"class" : {
+		"configuration:" : "YannDubois 7/13/2016 14:44",
+		"isAbstract" : "YannDubois 7/13/2016 15:36",
+		"withDocument:withConfiguration:" : "AutoDeprecationRefactoring 7/18/2016 14:18" },
 	"instance" : {
 		"configuration" : "YannDubois 7/18/2016 14:49",
 		"configuration:" : "YannDubois 7/18/2016 14:46",
 		"initialize" : "YannDubois 7/13/2016 14:03",
-		"input:" : "YannDubois 7/18/2016 14:46",
-		"input" : "YannDubois 7/18/2016 14:49"
-	},
-	"class" : {
-		"withDocument:withConfiguration:" : "AutoDeprecationRefactoring 7/18/2016 14:18",
-		"configuration:" : "YannDubois 7/13/2016 14:44",
-		"isAbstract" : "YannDubois 7/13/2016 15:36"
-	}
-}
+		"input" : "YannDubois 7/18/2016 14:49",
+		"input:" : "YannDubois 7/18/2016 14:46" } }

@@ -1,6 +1,6 @@
 as yet unclassified
 configuration
-	^ super configuration
-		baseDirectory: baseDirectory;
-		newLine: Smalltalk os lineEnding;
-		yourself.
+  ^ super configuration
+    baseDirectory: baseDirectory;
+    newLine: GRPlatform current newline;
+    yourself

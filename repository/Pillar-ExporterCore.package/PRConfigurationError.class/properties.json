@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "<historical>",
-	"super" : "PRError",
 	"category" : "Pillar-ExporterCore-Exceptions",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
 	"name" : "PRConfigurationError",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "PRError",
+	"type" : "normal" }

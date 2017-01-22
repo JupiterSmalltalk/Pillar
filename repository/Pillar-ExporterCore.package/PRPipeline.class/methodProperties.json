@@ -1,11 +1,10 @@
 {
-	"instance" : { },
 	"class" : {
+		"allConcretePipeClasses" : "DamienCassou 7/13/2016 14:20",
+		"allDependencies:" : "YannDubois 7/12/2016 11:25",
+		"allPipeClasses:" : "DamienCassou 7/19/2016 10:48",
 		"allPipes:" : "DamienCassou 7/18/2016 15:28",
 		"buildPipe:" : "ThibaultArloing 8/3/2016 14:51",
-		"isAbstract" : "YannDubois 7/7/2016 17:00",
-		"allConcretePipeClasses" : "DamienCassou 7/13/2016 14:20",
-		"allPipeClasses:" : "DamienCassou 7/19/2016 10:48",
-		"allDependencies:" : "YannDubois 7/12/2016 11:25"
-	}
-}
+		"isAbstract" : "YannDubois 7/7/2016 17:00" },
+	"instance" : {
+		 } }

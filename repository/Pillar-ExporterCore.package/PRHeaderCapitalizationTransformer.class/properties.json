@@ -1,13 +1,14 @@
 {
-	"commentStamp" : "DamienCassou 7/18/2016 16:19",
-	"super" : "PRNodeTransformer",
 	"category" : "Pillar-ExporterCore-Export",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "DamienCassou 7/18/2016 16:19",
 	"instvars" : [
-		"headerCapitalization"
-	],
+		"headerCapitalization" ],
 	"name" : "PRHeaderCapitalizationTransformer",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "PRNodeTransformer",
+	"type" : "normal" }

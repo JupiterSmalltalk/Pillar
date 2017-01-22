@@ -1,13 +1,14 @@
 {
-	"commentStamp" : "StephaneDucasse 3/31/2015 10:24",
-	"super" : "CCConfiguration",
 	"category" : "Pillar-ExporterCore-Configuration",
-	"classinstvars" : [ ],
-	"pools" : [ ],
+	"classinstvars" : [
+		 ],
 	"classvars" : [
-		"HeaderConfigurations"
-	],
-	"instvars" : [ ],
+		"HeaderConfigurations" ],
+	"commentStamp" : "StephaneDucasse 3/31/2015 10:24",
+	"instvars" : [
+		 ],
 	"name" : "PRPillarConfiguration",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "CCConfiguration",
+	"type" : "normal" }

@@ -1,13 +1,14 @@
 {
-	"commentStamp" : "CyrilFerlicot 6/16/2015 18:07",
-	"super" : "Object",
 	"category" : "Pillar-ExporterCore-Configuration",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "CyrilFerlicot 6/16/2015 18:07",
 	"instvars" : [
-		"stream"
-	],
+		"stream" ],
 	"name" : "PRTransformersDocumentation",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

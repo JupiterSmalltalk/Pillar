@@ -1,12 +1,10 @@
 {
+	"class" : {
+		"on:" : "CyrilFerlicot 6/16/2015 17:35" },
 	"instance" : {
 		"allTransformers" : "DamienCassou 7/18/2016 17:23",
-		"stream" : "CyrilFerlicot 6/16/2015 17:39",
 		"generateDoc" : "DamienCassou 7/18/2016 15:23",
-		"generateDocumentationOf:" : "DamienCassou 7/18/2016 15:34",
-		"stream:" : "CyrilFerlicot 6/16/2015 17:39"
-	},
-	"class" : {
-		"on:" : "CyrilFerlicot 6/16/2015 17:35"
-	}
-}
+		"generateDocumentationOf:" : "jupiter 01/21/2017 21:15",
+		"isWindowsNT" : "jupiter 01/21/2017 21:15",
+		"stream" : "CyrilFerlicot 6/16/2015 17:39",
+		"stream:" : "CyrilFerlicot 6/16/2015 17:39" } }

@@ -1,15 +1,16 @@
 {
-	"commentStamp" : "DamienCassou 7/18/2016 16:21",
-	"super" : "PRNodeTransformer",
 	"category" : "Pillar-ExporterCore-Export",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "DamienCassou 7/18/2016 16:21",
 	"instvars" : [
 		"firstLine",
 		"lastLine",
-		"fileStream"
-	],
+		"fileStream" ],
 	"name" : "PRScriptFromFile",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "PRNodeTransformer",
+	"type" : "normal" }

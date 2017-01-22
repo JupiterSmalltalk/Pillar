@@ -6,11 +6,11 @@
 		"testEqualScript" : "CyrilFerlicot 4/10/2015 11:00",
 		"testEqualScriptWithLanguage" : "jupiter 01/21/2017 20:38",
 		"testHash" : "CyrilFerlicot 4/7/2015 14:09",
-		"testIsStructure" : "ThibaultArloing 5/9/2016 10:11",
-		"testParseEscape" : "CyrilFerlicot 9/25/2015 01:08",
+		"testIsStructure" : "jupiter 01/21/2017 21:14",
+		"testParseEscape" : "jupiter 01/21/2017 21:14",
 		"testParseLanguage" : "DamienCassou 1/10/2014 16:13",
-		"testParseRealLanguage" : "CyrilFerlicot 9/25/2015 01:08",
-		"testParseSimple" : "CyrilFerlicot 9/25/2015 01:08",
+		"testParseRealLanguage" : "jupiter 01/21/2017 21:14",
+		"testParseSimple" : "jupiter 01/21/2017 21:14",
 		"testParseSimpleOn1Line" : "DamienCassou 6/3/2014 11:36",
-		"testParseWithSimpleCaption" : "CyrilFerlicot 9/25/2015 01:09",
-		"testStructureName" : "ThibaultArloing 5/9/2016 10:11" } }
+		"testParseWithSimpleCaption" : "jupiter 01/21/2017 21:14",
+		"testStructureName" : "jupiter 01/21/2017 21:15" } }

@@ -1,20 +1,17 @@
 {
-	"instance" : {
-		"possibleTransformationEnding" : "CyrilFerlicot 6/3/2015 13:02",
-		"currentSectionIndex" : "CyrilFerlicot 6/2/2015 18:04",
-		"initialize" : "CyrilFerlicot 6/3/2015 12:59",
-		"aSectionIsOpen" : "CyrilFerlicot 6/2/2015 17:15",
-		"closeLastSection" : "CyrilFerlicot 6/2/2015 18:18",
-		"cleanSections" : "CyrilFerlicot 6/2/2015 18:26",
-		"currentSection" : "CyrilFerlicot 6/2/2015 17:44",
-		"cleanSectionsUnderLevel:" : "CyrilFerlicot 6/2/2015 18:26",
-		"manageItem:" : "CyrilFerlicot 6/3/2015 13:01",
-		"cleanSectionsAndOpenNewWith:" : "ThibaultArloing 6/2/2016 11:09"
-	},
 	"class" : {
 		"initialize" : "CyrilFerlicot 6/2/2015 17:41",
-		"maxDepthLevelForSection" : "CyrilFerlicot 6/2/2015 17:41",
 		"key" : "YannDubois 5/20/2016 11:33",
-		"maxDepthLevel:" : "CyrilFerlicot 6/2/2015 17:41"
-	}
-}
+		"maxDepthLevel:" : "CyrilFerlicot 6/2/2015 17:41",
+		"maxDepthLevelForSection" : "CyrilFerlicot 6/2/2015 17:41" },
+	"instance" : {
+		"aSectionIsOpen" : "CyrilFerlicot 6/2/2015 17:15",
+		"cleanSections" : "CyrilFerlicot 6/2/2015 18:26",
+		"cleanSectionsAndOpenNewWith:" : "ThibaultArloing 6/2/2016 11:09",
+		"cleanSectionsUnderLevel:" : "CyrilFerlicot 6/2/2015 18:26",
+		"closeLastSection" : "CyrilFerlicot 6/2/2015 18:18",
+		"currentSection" : "CyrilFerlicot 6/2/2015 17:44",
+		"currentSectionIndex" : "CyrilFerlicot 6/2/2015 18:04",
+		"initialize" : "CyrilFerlicot 6/3/2015 12:59",
+		"manageItem:" : "CyrilFerlicot 6/3/2015 13:01",
+		"possibleTransformationEnding" : "CyrilFerlicot 6/3/2015 13:02" } }

@@ -1,12 +1,9 @@
 {
-	"instance" : {
-		"addLineNumberTo:" : "CyrilFerlicot 4/23/2015 14:50",
-		"visitScript:" : "CyrilFerlicot 4/23/2015 14:29",
-		"hasLineNumber:" : "CyrilFerlicot 4/22/2015 18:05",
-		"add:withNumber:" : "CyrilFerlicot 4/23/2015 14:30",
-		"add:untilNewLineAt:withNumber:" : "CyrilFerlicot 4/23/2015 14:49"
-	},
 	"class" : {
-		"key" : "YannDubois 5/20/2016 09:25"
-	}
-}
+		"key" : "YannDubois 5/20/2016 09:25" },
+	"instance" : {
+		"add:untilNewLineAt:withNumber:" : "CyrilFerlicot 4/23/2015 14:49",
+		"add:withNumber:" : "CyrilFerlicot 4/23/2015 14:30",
+		"addLineNumberTo:" : "CyrilFerlicot 4/23/2015 14:50",
+		"hasLineNumber:" : "CyrilFerlicot 4/22/2015 18:05",
+		"visitScript:" : "CyrilFerlicot 4/23/2015 14:29" } }

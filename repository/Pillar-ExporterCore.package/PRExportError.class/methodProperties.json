@@ -1,7 +1,6 @@
 {
+	"class" : {
+		 },
 	"instance" : {
-		"messageText" : "DamienCassou 4/2/2015 17:19",
-		"inputFile:" : "DamienCassou 4/2/2015 17:12"
-	},
-	"class" : { }
-}
+		"inputFile:" : "DamienCassou 4/2/2015 17:12",
+		"messageText" : "DamienCassou 4/2/2015 17:19" } }

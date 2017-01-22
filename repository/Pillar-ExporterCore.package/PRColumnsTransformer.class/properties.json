@@ -1,13 +1,14 @@
 {
-	"commentStamp" : "DamienCassou 7/18/2016 15:54",
-	"super" : "PRDocumentChildrenTransformer",
 	"category" : "Pillar-ExporterCore-Export",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "DamienCassou 7/18/2016 15:54",
 	"instvars" : [
-		"tmpColumns"
-	],
+		"tmpColumns" ],
 	"name" : "PRColumnsTransformer",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "PRDocumentChildrenTransformer",
+	"type" : "normal" }

@@ -1,13 +1,14 @@
 {
-	"commentStamp" : "DamienCassou 7/18/2016 16:23",
-	"super" : "PRNodeTransformer",
 	"category" : "Pillar-ExporterCore-Export",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "DamienCassou 7/18/2016 16:23",
 	"instvars" : [
-		"structure"
-	],
+		"structure" ],
 	"name" : "PRScriptStructureTransformer",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "PRNodeTransformer",
+	"type" : "normal" }

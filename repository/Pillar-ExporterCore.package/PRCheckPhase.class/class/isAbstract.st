@@ -1,3 +1,3 @@
 testing
 isAbstract
-	^ self = PRCheckPhase 
+	^ self = PRCheckPhase

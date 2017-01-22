@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "CyrilFerlicot 6/29/2015 09:57",
-	"super" : "MAStringDescription",
 	"category" : "Pillar-ExporterCore-Description",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "CyrilFerlicot 6/29/2015 09:57",
+	"instvars" : [
+		 ],
 	"name" : "PRMagritteNewLineDescription",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "MAStringDescription",
+	"type" : "normal" }

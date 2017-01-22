@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "ThibaultArloing 5/12/2016 10:05",
-	"super" : "PRNodeTransformer",
 	"category" : "Pillar-ExporterCore-Export",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "ThibaultArloing 5/12/2016 10:05",
+	"instvars" : [
+		 ],
 	"name" : "PRStructureTransfomer",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "PRNodeTransformer",
+	"type" : "normal" }

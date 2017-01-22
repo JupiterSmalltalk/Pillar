@@ -6,4 +6,4 @@ visitDocumentGroup: aGroup
 				flatCollect: [ :child | 
 					replacement push: {child}.
 					self visit: child.
-					replacement pop]). 
+					replacement pop]).

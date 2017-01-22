@@ -1,29 +1,26 @@
 {
-	"instance" : {
-		"predecessor" : "CyrilFerlicot 6/24/2015 17:10",
-		"numbering:" : "CyrilFerlicot 5/15/2015 02:38",
-		"configuration:" : "CyrilFerlicot 6/24/2015 16:53",
-		"renderElement:" : "ThibaultArloing 4/4/2016 14:45",
-		"printCounter:" : "CyrilFerlicot 5/19/2015 11:07",
-		"level:" : "CyrilFerlicot 6/24/2015 16:45",
-		"size" : "CyrilFerlicot 5/15/2015 02:38",
-		"capitalization:" : "ThibaultArloing 4/5/2016 14:27",
-		"capitalization" : "ThibaultArloing 4/5/2016 14:26",
-		"level" : "CyrilFerlicot 6/24/2015 17:13",
-		"printCounter:withMaxSize:" : "CyrilFerlicot 6/24/2015 17:08",
-		"size:" : "CyrilFerlicot 5/15/2015 02:38",
-		"elementSeparator" : "CyrilFerlicot 5/17/2015 18:54",
-		"configuration" : "CyrilFerlicot 6/24/2015 16:53",
-		"hash" : "YannDubois 5/24/2016 16:32",
-		"autoAnchor" : "YannDubois 4/6/2016 09:41",
-		"=" : "CyrilFerlicot 6/24/2015 17:11",
-		"autoAnchor:" : "YannDubois 4/6/2016 10:18",
-		"printElement:" : "CyrilFerlicot 5/18/2015 18:06",
-		"numbering" : "CyrilFerlicot 5/15/2015 02:38"
-	},
 	"class" : {
 		"defaultLevel" : "CyrilFerlicot 6/24/2015 17:12",
 		"new" : "ThibaultArloing 4/11/2016 15:34",
-		"with:" : "ThibaultArloing 4/11/2016 15:44"
-	}
-}
+		"with:" : "ThibaultArloing 4/11/2016 15:44" },
+	"instance" : {
+		"=" : "CyrilFerlicot 6/24/2015 17:11",
+		"autoAnchor" : "YannDubois 4/6/2016 09:41",
+		"autoAnchor:" : "YannDubois 4/6/2016 10:18",
+		"capitalization" : "ThibaultArloing 4/5/2016 14:26",
+		"capitalization:" : "ThibaultArloing 4/5/2016 14:27",
+		"configuration" : "CyrilFerlicot 6/24/2015 16:53",
+		"configuration:" : "CyrilFerlicot 6/24/2015 16:53",
+		"elementSeparator" : "CyrilFerlicot 5/17/2015 18:54",
+		"hash" : "YannDubois 5/24/2016 16:32",
+		"level" : "CyrilFerlicot 6/24/2015 17:13",
+		"level:" : "CyrilFerlicot 6/24/2015 16:45",
+		"numbering" : "CyrilFerlicot 5/15/2015 02:38",
+		"numbering:" : "CyrilFerlicot 5/15/2015 02:38",
+		"predecessor" : "CyrilFerlicot 6/24/2015 17:10",
+		"printCounter:" : "CyrilFerlicot 5/19/2015 11:07",
+		"printCounter:withMaxSize:" : "CyrilFerlicot 6/24/2015 17:08",
+		"printElement:" : "CyrilFerlicot 5/18/2015 18:06",
+		"renderElement:" : "ThibaultArloing 4/4/2016 14:45",
+		"size" : "CyrilFerlicot 5/15/2015 02:38",
+		"size:" : "CyrilFerlicot 5/15/2015 02:38" } }

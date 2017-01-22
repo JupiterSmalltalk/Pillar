@@ -1,15 +1,14 @@
 {
-	"classtraitcomposition" : "PRTPipe classTrait",
-	"classvars" : [ ],
-	"instvars" : [
-		"configuration"
-	],
-	"name" : "PRPhase",
+	"category" : "Pillar-ExporterCore-Export",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
 	"commentStamp" : "CyrilFerlicot 6/16/2015 16:43",
+	"instvars" : [
+		"configuration" ],
+	"name" : "PRPhase",
+	"pools" : [
+		 ],
 	"super" : "PRObject",
-	"traitcomposition" : "PRTPipe",
-	"type" : "normal",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"category" : "Pillar-ExporterCore-Export"
-}
+	"type" : "normal" }
