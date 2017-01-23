@@ -1,3 +1,3 @@
 accessing
 originalName
-	^ originalName
+  ^ originalName ifNil: [ self class standardName ]

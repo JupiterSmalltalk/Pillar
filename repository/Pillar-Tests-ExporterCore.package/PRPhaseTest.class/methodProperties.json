@@ -10,7 +10,7 @@
 		"runCase" : "CyrilFerlicot 6/17/2015 13:19",
 		"setUp" : "DamienCassou 7/19/2016 15:49",
 		"tearDown" : "CyrilFerlicot 7/2/2015 13:58",
-		"testDocumentAreTransformed" : "DamienCassou 7/13/2016 15:22",
-		"testDocumentAreTransformedWithMetadata" : "YannDubois 7/13/2016 09:35",
-		"testPhaseAndTransformersAreCollected" : "DamienCassou 7/13/2016 17:02",
-		"testTransformerCanBeDisable" : "YannDubois 7/12/2016 14:49" } }
+		"testDocumentAreTransformed" : "jupiter 01/22/2017 18:57",
+		"testDocumentAreTransformedWithMetadata" : "jupiter 01/22/2017 18:58",
+		"testPhaseAndTransformersAreCollected" : "jupiter 01/22/2017 18:58",
+		"testTransformerCanBeDisable" : "jupiter 01/22/2017 18:58" } }

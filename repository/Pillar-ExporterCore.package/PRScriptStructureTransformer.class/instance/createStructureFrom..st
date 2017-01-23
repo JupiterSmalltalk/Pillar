@@ -1,6 +1,6 @@
 creating
 createStructureFrom: aScript
-	^ PRStructure new
-		tag: aScript structureName;
-		structDict: (Json readFrom: aScript text readStream) asDictionary;
-		yourself
+  ^ PRStructure new
+    tag: aScript structureName;
+    structDict: (NeoJSONReader on: aScript text readStream) asDictionary;
+    yourself
