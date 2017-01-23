@@ -1,3 +1,5 @@
 tests
 testFigureWithoutLabelAndWithoutCaptionAreExportedWithoutEnvironment
-	self skip "Figures are no environnement in Markdown"
+  "self skip"
+
+  "Figures are no environnement in Markdown"

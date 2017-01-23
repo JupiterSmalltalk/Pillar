@@ -7,7 +7,7 @@ testTransformationWithContentInsideColumnsBeforeColumn
     add:
         (PRColumnAnnotation
             parameters:
-              (GRSmallDictionary new
+              (Dictionary new
                 at: 'width' put: '100';
                 yourself) yourself);
     add: (PRParagraph with: (PRText content: 'Bar') yourself);

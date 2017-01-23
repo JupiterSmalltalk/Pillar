@@ -15,5 +15,3 @@ testFrameWithOption
 			'\frametitle{Slide title}'.
 			'Presentation text'.
 			'\end{frame}'}"
-
-	

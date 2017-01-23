@@ -1,6 +1,6 @@
 helpers
 referenceParameters
-  ^ GRSmallDictionary new
+  ^ Dictionary new
     add: 'depthLevel' -> '2';
     add: 'level' -> '3';
     yourself

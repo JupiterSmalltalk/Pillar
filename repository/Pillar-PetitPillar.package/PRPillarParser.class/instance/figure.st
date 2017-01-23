@@ -5,5 +5,5 @@ figure
       | fig |
       fig := PRFigure reference: array third.
       fig addAll: (array second ifNil: [ {} ]).
-      fig parameters: (array fourth ifNil: [ GRSmallDictionary new ]).
+      fig parameters: (array fourth ifNil: [ Dictionary new ]).
       fig ]

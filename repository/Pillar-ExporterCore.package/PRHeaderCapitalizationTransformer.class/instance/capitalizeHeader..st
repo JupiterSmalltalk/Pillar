@@ -1,7 +1,8 @@
 visiting-document
 capitalizeHeader: aString
-	
-	| stream |
-	stream := '' writeStream.
-	((aString substrings) inject: '' into: [ :subtotal :next | stream << next capitalized << ' ' ]).
-	^ stream contents trimBoth
+  | stream |
+  stream := String new writeStream.
+  aString substrings
+    inject: String new
+    into: [ :subtotal :next | stream << next capitalized << ' ' ].
+  ^ stream contents trimBoth

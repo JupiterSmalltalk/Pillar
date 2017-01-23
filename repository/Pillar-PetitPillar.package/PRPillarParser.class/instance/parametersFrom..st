@@ -1,7 +1,7 @@
 grammar - Paragraph
 parametersFrom: array
   | result |
-  result := GRSmallDictionary new.
+  result := Dictionary new.
   array first first
     ifNotEmpty: [ :string | 
       result at: string put: array first second.

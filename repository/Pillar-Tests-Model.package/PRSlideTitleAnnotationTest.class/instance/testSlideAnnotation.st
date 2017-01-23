@@ -3,7 +3,7 @@ testSlideAnnotation
   | slide |
   slide := PRSlideTitleAnnotation
     parameters:
-      (GRSmallDictionary new
+      (Dictionary new
         at: 'title' put: 'Foo';
         yourself).
   self assert: slide slideAnnotation equals: slide

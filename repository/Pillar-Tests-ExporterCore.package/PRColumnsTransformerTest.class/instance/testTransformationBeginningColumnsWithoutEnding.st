@@ -6,7 +6,7 @@ testTransformationBeginningColumnsWithoutEnding
       {(PRColumnsAnnotation new).
       (PRColumnAnnotation
         parameters:
-          (GRSmallDictionary new
+          (Dictionary new
             at: 'width' put: '100';
             yourself)).
       (PRText content: 'Foo')}.

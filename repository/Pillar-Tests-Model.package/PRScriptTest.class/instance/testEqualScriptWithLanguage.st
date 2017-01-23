@@ -1,10 +1,10 @@
 tests
 testEqualScriptWithLanguage
   | param1 param2 |
-  param1 := GRSmallDictionary new
+  param1 := Dictionary new
     at: 'language' put: 'smalltalk';
     yourself.
-  param2 := GRSmallDictionary new
+  param2 := Dictionary new
     at: 'language' put: 'html';
     yourself.
   self

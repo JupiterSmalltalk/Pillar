@@ -1,7 +1,7 @@
 protected
 adaptKeysOn: aCollection
   | newDictionary |
-  newDictionary := GRSmallDictionary new.
+  newDictionary := Dictionary new.
   aCollection
     keysDo: [ :key | 
       (aCollection at: key) isNil

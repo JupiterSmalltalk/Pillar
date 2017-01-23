@@ -3,7 +3,7 @@ testAnnotation
   | item |
   item := PRMockAnnotation
     parameters:
-      (GRSmallDictionary new
+      (Dictionary new
         add: 'value' -> 'Foo';
         add: 'number' -> '5';
         yourself).

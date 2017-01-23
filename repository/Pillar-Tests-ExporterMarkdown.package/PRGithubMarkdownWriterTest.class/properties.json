@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "",
-	"super" : "PRMarkdownWriterTest",
 	"category" : "Pillar-Tests-ExporterMarkdown",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
 	"name" : "PRGithubMarkdownWriterTest",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "PRMarkdownWriterTest",
+	"type" : "normal" }

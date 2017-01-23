@@ -1,13 +1,14 @@
 {
-	"classtraitcomposition" : "PRTSliderWriterTest classTrait",
-	"classvars" : [ ],
-	"instvars" : [ ],
-	"name" : "PRBeamerWriterTest",
+	"category" : "Pillar-Tests-ExporterBeamer",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
 	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PRBeamerWriterTest",
+	"pools" : [
+		 ],
 	"super" : "PRLaTeXWriterTest",
-	"traitcomposition" : "PRTSliderWriterTest",
-	"type" : "normal",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"category" : "Pillar-Tests-ExporterBeamer"
-}
+	"type" : "normal" }

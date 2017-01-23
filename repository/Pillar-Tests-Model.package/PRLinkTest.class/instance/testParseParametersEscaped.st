@@ -11,7 +11,7 @@ testParseParametersEscaped
                     add: (PRText content: 'Alias');
                     reference: self referenceString;
                     parameters:
-                        (GRSmallDictionary new
+                        (Dictionary new
                             add: '2' -> '|=';
                             add: '|=' -> '1';
                             yourself);

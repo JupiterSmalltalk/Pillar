@@ -1,3 +1,3 @@
 private
 actualClass
-	^ PRGithubMarkdownWriter 
+	^ PRGithubMarkdownWriter

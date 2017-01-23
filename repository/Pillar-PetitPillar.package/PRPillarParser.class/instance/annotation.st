@@ -1,4 +1,4 @@
 grammar - Annotation
 annotation
   ^ super annotation
-    ==> [ :array | array second parameters: (array third ifNil: [ GRSmallDictionary new ]) ]
+    ==> [ :array | array second parameters: (array third ifNil: [ Dictionary new ]) ]

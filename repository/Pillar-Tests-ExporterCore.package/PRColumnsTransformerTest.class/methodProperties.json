@@ -4,11 +4,11 @@
 	"instance" : {
 		"actualClass" : "CyrilFerlicot 6/18/2015 11:32",
 		"testDependOnCleanAnnotationInParagraphTransfomer" : "DamienCassou 7/21/2016 12:12",
-		"testTransformationBeginningColumnsWithoutEnding" : "jupiter 01/21/2017 20:36",
+		"testTransformationBeginningColumnsWithoutEnding" : "jupiter 01/22/2017 15:09",
 		"testTransformationEndColumnsWithoutBeginning" : "DamienCassou 7/21/2016 11:42",
-		"testTransformationOnColumn" : "jupiter 01/21/2017 20:36",
-		"testTransformationTwoColumns" : "jupiter 01/21/2017 20:36",
+		"testTransformationOnColumn" : "jupiter 01/22/2017 15:09",
+		"testTransformationTwoColumns" : "jupiter 01/22/2017 15:09",
 		"testTransformationWithColumnWithoutColumns" : "DamienCassou 7/21/2016 11:58",
 		"testTransformationWithColumnsInColumns" : "DamienCassou 7/21/2016 12:00",
-		"testTransformationWithContentInsideColumnsBeforeColumn" : "jupiter 01/21/2017 20:36",
+		"testTransformationWithContentInsideColumnsBeforeColumn" : "jupiter 01/22/2017 15:10",
 		"testTransformationWithoutColumns" : "DamienCassou 6/20/2016 14:00" } }

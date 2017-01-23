@@ -6,7 +6,7 @@ testTransformationOnColumn
     add:
         (PRColumnAnnotation
             parameters:
-              (GRSmallDictionary new
+              (Dictionary new
                 at: 'width' put: '100';
                 yourself) yourself);
     add:
