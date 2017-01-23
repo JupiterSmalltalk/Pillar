@@ -1,5 +1,7 @@
 running
 runCase
-	"I'm here because PRPhaseTest will create a Mock and we don't want to inform Nautilus."
+  "I'm here because PRPhaseTest will create a Mock and we don't want to inform Nautilus."
 
-	SystemAnnouncer uniqueInstance suspendAllWhile: [ super runCase ]
+  "SystemAnnouncer uniqueInstance suspendAllWhile: [ super runCase ]"
+
+  super runCase

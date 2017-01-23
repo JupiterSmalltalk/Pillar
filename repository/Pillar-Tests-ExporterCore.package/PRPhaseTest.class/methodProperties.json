@@ -3,11 +3,11 @@
 		"isAbstract" : "CyrilFerlicot 6/15/2015 13:58" },
 	"instance" : {
 		"actualClass" : "CyrilFerlicot 6/15/2015 13:58",
-		"createMockClass" : "YannDubois 7/18/2016 13:41",
+		"createMockClass" : "jupiter 01/22/2017 19:53",
 		"fromString:" : "CyrilFerlicot 10/29/2015 22:00",
 		"jsonStreamWithContent:" : "YannDubois 6/1/2016 11:24",
 		"jsonStreamWithContent:withTitle:" : "YannDubois 6/1/2016 11:25",
-		"runCase" : "CyrilFerlicot 6/17/2015 13:19",
+		"runCase" : "jupiter 01/22/2017 19:47",
 		"setUp" : "DamienCassou 7/19/2016 15:49",
 		"tearDown" : "CyrilFerlicot 7/2/2015 13:58",
 		"testDocumentAreTransformed" : "jupiter 01/22/2017 18:57",
