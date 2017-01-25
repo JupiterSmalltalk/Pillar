@@ -4,6 +4,6 @@ raw
 		==>
 			[ :array | 
 			| type contentRaw |
-			contentRaw := '' writeStream.
+			contentRaw := String new writeStream.
 			contentRaw nextPutAll: array third.
 			PRRaw content: contentRaw contents type: array second ]
