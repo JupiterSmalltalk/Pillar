@@ -52,7 +52,9 @@ baseline: spec
         package: 'Pillar-Tests-ExporterText'
           with: [ spec requires: #('Pillar-ExporterText' 'Pillar-Tests-ExporterCore') ];
         package: 'Pillar-Pharo-Tools'
-          with: [ spec requires: #('Pillar-Model' 'All exporters') ].
+          with: [ spec requires: #('Pillar-Model' 'All exporters') ];
+        package: 'Pillar-Tests-PetitPillar'
+          with: [ spec requires: #('Pillar-Tests-Model' 'Pillar-PetitPillar') ].
       spec
         group: 'html exporter' with: #('Pillar-ExporterHTML');
         group: 'html exporter tests' with: #('Pillar-Tests-ExporterHTML');
@@ -86,12 +88,8 @@ baseline: spec
       spec
         package: 'Pillar-Cli' with: [ spec requires: #('Pillar-ExporterCore') ];
         package: #'Pillar-Tests-Cli' with: [ spec requires: #('Pillar-Cli') ];
-        package: 'Pillar-PetitPillar'
-          with: [ spec requires: #('PetitParser' 'Pillar-Model') ];
         package: 'Pillar-GitBook'
           with: [ spec requires: #('Pillar-Cli' 'markdown exporter' 'text exporter') ];
-        package: 'Pillar-Tests-PetitPillar'
-          with: [ spec requires: #('PetitParserTest' 'Pillar-PetitPillar') ];
         group: 'All tests'
           with:
             #('All exporter tests' 'Pillar-Tests-Model' 'Pillar-Tests-ExporterCore' #'Pillar-Tests-Cli' 'Pillar-Tests-PetitPillar');
