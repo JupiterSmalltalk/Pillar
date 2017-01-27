@@ -1,0 +1,3 @@
+*pillar-petitpillar
+readStream
+  ^ self
