@@ -3,9 +3,7 @@ moveRepo
 	"PRPillarGemstoneCodeTool moveRepo"
 
 	| source destination goSource goDestination sortBlock re fileBlocks filesSorted files destinationFiles |
-	self
-		getConfiguration;
-		loadConfiguration.
+	
 	source := MCSmalltalkhubRepository allInstances
 		detect: [ :each | each location includesSubstring: 'Pier/Pillar' ].
 
@@ -25,7 +23,8 @@ moveRepo
 
 	"My-Package-Author.Number"
 	re := '^(.+)-([^-]+)\.(\d+)$' asRegex.
-	fileBlocks := (ConfigurationOfPillar project stableVersion packages collect: [ :pkg | pkg file ])
+	fileBlocks := (ConfigurationOfPillar project stableVersion packages
+		collect: [ :pkg | pkg file ])
 		collect: [ :each | 
 			re search: each.
 			{(re subexpression: 1).	"first - full string"
@@ -34,7 +33,8 @@ moveRepo
 			(re subexpression: 4)	"fourth - commit name"} ].
 	filesSorted := fileBlocks asSortedCollection: sortBlock.
 	files := (filesSorted collect: [ :x | x first ]) asArray.
-	(goSource allResolved select: [ :resolved | files anySatisfy: [ :each | resolved name = each ] ])
+	(goSource allResolved
+		select: [ :resolved | files anySatisfy: [ :each | resolved name = each ] ])
 		do: [ :each | goSource package: each packageName ].
 	"goSource fetch."	"downloads all mcz on your computer"
 	destinationFiles := destination allVersionNames.	"checks what files are already at destination"

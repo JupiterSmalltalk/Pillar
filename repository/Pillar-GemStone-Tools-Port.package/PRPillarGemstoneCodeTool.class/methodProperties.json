@@ -1,13 +1,13 @@
 {
 	"instance" : { },
 	"class" : {
-		"flattenTraits" : "jupiter 12/29/2015 18:01",
-		"port" : "jupiter 12/29/2015 18:00",
+		"traitsToFlatten" : "jupiter 1/28/2017 00:47",
+		"port" : "jupiter 1/28/2017 01:00",
 		"getConfiguration" : "jupiter 1/22/2017 10:05",
-		"moveRepo" : "jupiter 1/22/2017 10:28",
-		"traitClasses" : "jupiter 1/22/2017 10:35",
-		"removeTraits" : "jupiter 1/22/2017 10:34",
-		"loadConfiguration" : "jupiter 1/22/2017 10:27",
-		"recompileClasses" : "jupiter 12/29/2015 18:01"
+		"moveRepo" : "jupiter 1/28/2017 00:50",
+		"flattenTraits:" : "jupiter 1/28/2017 00:55",
+		"recompileClasses:" : "jupiter 1/28/2017 00:55",
+		"removeTraits:" : "jupiter 1/28/2017 00:55",
+		"loadConfiguration" : "jupiter 1/22/2017 10:27"
 	}
 }
